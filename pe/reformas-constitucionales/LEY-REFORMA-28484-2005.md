@@ -1,0 +1,43 @@
+---
+title: 'Ley de Reforma Constitucional de los artículos 87, 91, 92, 96 y 101'
+identifier: LEY-REFORMA-28484-2005
+country: pe
+rank: ley_de_reforma_constitucional
+publication_date: '2005-04-05'
+last_updated: '2005-04-05'
+status: in_force
+source: 'https://spij.minjus.gob.pe/normas/ley-reforma-28484-2005'
+official_journal: El Peruano
+affected_articles:
+  - '87'
+  - '91'
+  - '92'
+  - '96'
+  - '101'
+---
+
+# Ley 28484
+
+**Ley de Reforma de los artículos 87, 91, 92, 96 y 101 de la Constitución Política del Perú**
+
+*Publicada el 5 de abril de 2005*
+
+## Artículo 1. Modificación del artículo 87
+
+Modifícase el artículo 87 de la Constitución Política del Perú, estableciendo que el directorio del Banco Central de Reserva está conformado por siete miembros, cuatro designados por el Poder Ejecutivo y tres por el Congreso.
+
+## Artículo 2. Modificación del artículo 91
+
+Modifícase el artículo 91 de la Constitución Política del Perú, estableciendo las incompatibilidades para ser elegido congresista.
+
+## Artículo 3. Modificación del artículo 92
+
+Modifícase el artículo 92 de la Constitución Política del Perú, estableciendo que la función de congresista es de tiempo completo e incompatible con cualquier otra función pública, excepto la de Ministro de Estado y el desempeño, previa autorización del Congreso, de comisiones extraordinarias de carácter internacional.
+
+## Artículo 4. Modificación del artículo 96
+
+Modifícase el artículo 96 de la Constitución Política del Perú, estableciendo que cualquier representante al Congreso puede pedir a los Ministros de Estado, al Jurado Nacional de Elecciones, al Contralor General, al Banco Central de Reserva, a la Superintendencia de Banca, Seguros y Administradoras Privadas de Fondos de Pensiones, a los Gobiernos Regionales y Locales y a las instituciones que señala la ley, los informes que estime necesarios.
+
+## Artículo 5. Modificación del artículo 101
+
+Modifícase el artículo 101 de la Constitución Política del Perú, estableciendo las funciones de la Comisión Permanente.
