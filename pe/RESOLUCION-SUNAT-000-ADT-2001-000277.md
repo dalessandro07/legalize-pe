@@ -1,0 +1,3797 @@
+---
+title: >-
+  Aprueban estructura de solicitudes electr&oacute;nicas y modifican el
+  procedimiento “Autorizaci&oacute;n de Operadores” INTA-PE.00.08
+identifier: RESOLUCION-SUNAT-000-ADT-2001-000277
+country: pe
+rank: resolucion_sunat
+publication_date: '2001-02-13'
+last_updated: '2001-02-13'
+status: in_force
+source: 'https://spij.minjus.gob.pe/spij-ext-web/#/detallenorma/H802211'
+scope: Nacional
+official_journal: El Peruano
+---
+# Aprueban estructura de solicitudes electrónicas y modifican el procedimiento “Autorización de Operadores” INTA-PE.00.08  
+
+## RESOLUCION DE INTENDENCIA NACIONAL Nº 000 ADT-2001-000277  
+
+**CONCORDANCIA:      [C. Nº INTA-CR-031-2001](/spij-ext-web/detallenorma/H808166)  
+**
+
+      Callao, 9 de febrero de 2001  
+
+     CONSIDERANDO:  
+
+     Que, el Art. 5 de la Ley General de Aduanas establece que “Para el desarrollo y facilidades de las actividades aduaneras, ADUANAS podrá expedir normas y establecer procedimientos que regulen la emisión, transferencia, uso y control de la información relacionadas con tales actividades, sea ésta soportada en medios documentales, magnéticos o electrónicos, las que se reputará legítima salvo prueba en contrario”;  
+
+     Que, ADUANAS ha venido trabajando en función de sus lineamientos de modernización de sus servicios y en la automatización de la totalidad de sus procedimientos aduaneros, llevándolos a soportes de almacenamiento y medios electrónicos de transmisión de datos;  
+
+     Que, mediante Resolución de Intendencia Nacional Nº 000 ADT/1999-002097 del 23.DIC.99, se aprueba el Procedimiento INTA-PE.00.08 Autorización de Operadores (Versión 2), adecuado al Sistema de la Calidad de Aduanas;  
+
+     Que, como resultado de la revisión y evaluación del mencionado Procedimiento, con el fin de obtener mayor simplicidad y rapidez tanto en la captura de la información como en la tramitación de la misma, es necesario sustituir la presentación física de los documentos por su transmisión vía teledespacho; y,  
+
+     En uso de las facultades conferidas por la Ley Orgánica y el Estatuto de la Superintendencia Nacional de Aduanas aprobado por Decreto Ley Nº 26020 y Resolución de Superintendencia de Aduanas Nº 001491 del 5.OCT.2000 respectivamente; y estando a la delegación de facultades contenidas en las Resoluciones de Superintendencia de Aduanas Nº 001322 de 16.DIC.99 y Nº 000001 del 2.ENE.2001;  
+
+     SE RESUELVE:  
+
+      **Artículo 1.-** Apruébese la estructura de las solicitudes electrónicas correspondientes al procedimiento “Autorización de Operadores” INTA-PE.00.08.  
+
+**_FORMATOS DE SOLICITUD ELECTRONICA PARA OPERADORES DE COMERCIO EXTERIOR  
+_**
+
+     **_IMPCTR01.TXT_**
+
+**_Nº_**
+
+CAMPO
+
+TIPO
+
+TAMAÑO
+
+DESCRIPCION
+
+_1_
+
+AGENTE
+
+CARÁCTER
+
+4
+
+CODIGO DE EMPRESA QUE TRANSMITE
+
+2
+
+FECHA
+
+NUMERICO
+
+8
+
+FECHA DE ENVIO
+
+3
+
+NUM\_REG
+
+NUMERICO
+
+6
+
+CANTIDAD DE REGISTROS QUE ENVIA
+
+4
+
+TOTAL \_FOB
+
+NUMERICO
+
+15,3
+
+NO APLICABLE
+
+5
+
+PESO
+
+NUMERICO
+
+15,3
+
+NO APLCABLE
+
+6
+
+CASILLA
+
+CARÁCTER
+
+16
+
+CASILLA ELECTRONICA DE LA EMPRESA QUE TRANSMITE
+
+7
+
+CLAVE
+
+CARÁCTER
+
+4
+
+CLAVE ELECTRONICA DE LA AGENCIA
+
+8
+
+NUM \_REGB
+
+NUMERICO
+
+6
+
+NO APLICABLE
+
+9
+
+TIPO \_OPER
+
+CARÁCTER
+
+1
+
+0: EMPRESA DE MENSAJERIA.  
+1: AGENCIA DE ADUANA  
+3: TERMINAL DE ALMACENAMIENTO  
+
+ 
+
+10
+
+CLAVE\_ELE
+
+CARÁCTER
+
+16
+
+CODIGO DE CLAVE PUBLICA (USO POSTERIOR)
+
+11
+
+RUC
+
+CARÁCTER
+
+8
+
+NO APLICABLE
+
+     **_MODOPER.TXT_**
+
+     **_CAMBIO DOMICILIO / TELEFONO EMPRESA_**
+
+**_Nº_**
+
+CAMPO
+
+TIPO
+
+**_TAMAÑO_**
+
+DESCRIPCION
+
+_1_
+
+CJURISDICC
+
+CARÁCTER
+
+3
+
+NO APLICABLE
+
+2
+
+ANO\_PRESE
+
+**_CARÁCTER_**
+
+_4_
+
+AÑO DE PRESENTACION DE SOLICITUD
+
+3
+
+TIPO\_TRAMI
+
+CARÁCTER
+
+2
+
+'01' DOMICILIO, '02' TELEFONO EMPRESA
+
+4
+
+NUME\_ORDEN
+
+CARÁCTER
+
+6
+
+NRO. DE ORDEN
+
+5
+
+NOMB\_IDENT
+
+CARÁCTER
+
+60
+
+NOMBRE EMPRESA
+
+6
+
+DIRECCION
+
+CARÁCTER
+
+50
+
+NUEVA DIRECCION
+
+7
+
+DISTRITO
+
+CARÁCTER
+
+15
+
+NUEVO DISTRITO EMPRESA
+
+8
+
+TELEFONO 1
+
+CARÁCTER
+
+7
+
+NUEVO TELEFONO 1 EMPRESA
+
+9
+
+TELEFONO 2
+
+CARÁCTER
+
+7
+
+NUEVO TELEFONO 2 EMPRESA
+
+10
+
+NRO\_REGIS
+
+CARÁCTER
+
+5
+
+NO APLICABLE
+
+11
+
+CTIPO VINC
+
+CARÁCTER
+
+2
+
+NO APLICABLE
+
+12
+
+NRO\_DOCID
+
+CARÁCTER
+
+11
+
+NO APLICABLE
+
+13
+
+FECH\_VIGEN  
+
+ 
+
+NUMERICO
+
+8
+
+NO APLICABLE
+
+      **_CAMBIO RAZON SOCIAL EMPRESA_**
+
+**_Nº_**
+
+CAMPO
+
+TIPO
+
+TAMAÑO
+
+**_DESCRIPCION_**
+
+_1_
+
+CJURISDICC
+
+CARÁCTER
+
+3
+
+NO APLICABLE
+
+2
+
+**_ANO\_PRESE_**
+
+_CARÁCTER_
+
+4
+
+AÑO DE PRESENTACION DE SOLICITUD
+
+3
+
+TIPO\_TRAMI
+
+CARÁCTER
+
+2
+
+'03' DOMICILIO
+
+4
+
+NUME\_ORDEN
+
+CARÁCTER
+
+6
+
+NRO. DE ORDEN
+
+5
+
+NOMB\_IDENT
+
+CARÁCTER
+
+60
+
+NOMBRE EMPRESA
+
+6
+
+DIRECCION
+
+CARÁCTER
+
+50
+
+DIRECCION
+
+7
+
+DISTRITO
+
+CARÁCTER
+
+15
+
+DISTRITO EMPRESA
+
+8
+
+TELEFONO 1
+
+CARÁCTER
+
+7
+
+TELEFONO 1 EMPRESA
+
+9
+
+TELEFONO 2
+
+CARÁCTER
+
+7
+
+TELEFONO 2 EMPRESA
+
+10
+
+NRO\_REGIS
+
+CARÁCTER
+
+5
+
+NO APLICABLE
+
+11
+
+CTIPO\_VINC
+
+CARÁCTER
+
+2
+
+NO APLICABLE
+
+12
+
+NRO\_DOCID
+
+CARÁCTER
+
+11
+
+RUC EMPRESA
+
+13
+
+FECH\_VIGEN  
+
+ 
+
+NUMERICO
+
+8
+
+NO APLICABLE
+
+     **_NOMBRAMIENTO / REVOCACION REPRESENTANTE LEGAL DE LA EMPRESA_**
+
+**_Nº_**
+
+**_CAMPO_**
+
+TIPO
+
+TAMANO
+
+**_DESCRIPCION_**
+
+_1_
+
+CJURISDICC
+
+CARÁCTER
+
+3
+
+CODIGO JURISDICCION DE EMPRESA
+
+2
+
+ANO\_PRESE
+
+CARÁCTER
+
+4
+
+AÑO DE PRESENTACION DE SOLICITUD
+
+3
+
+TIPO\_TRAMI
+
+CARÁCTER
+
+2
+
+'04' NOMBRAMIENTO REPRESENTANTE LEGAL  
+'05' REVOCACION REPRESENTANTE LEGAL
+
+4
+
+NUME \_ORDEN
+
+CARÁCTER
+
+6
+
+NRO. DE ORDEN
+
+5
+
+NOMB\_IDENT
+
+CARÁCTER
+
+60
+
+NOMBRE REPRESENTANTE LEGAL
+
+6
+
+DIRECCION
+
+CARÁCTER
+
+50
+
+DIRECCION REPRESENTANTE LEGAL
+
+7
+
+DISTRITO
+
+CARÁCTER
+
+15
+
+DISTRITO REPRESENTANTE LEGAL
+
+8
+
+TELEFONO 1
+
+CARÁCTER
+
+7
+
+TELEFONO 1 REPRESENTANTE LEGAL
+
+9
+
+TELEFONO 2
+
+CARÁCTER
+
+7
+
+TELEFONO 2 REPRESENTANTE LEGAL
+
+10
+
+NRO\_REGIS
+
+CARÁCTER
+
+5
+
+NRO. REGISTRO REPRESENTANTE LEGAL EN ADUANAS
+
+11
+
+CTIPO\_VINC
+
+CARÁCTER
+
+2
+
+NO APLICABLE
+
+12
+
+NRO\_DOCID
+
+CARÁCTER
+
+11
+
+NRO. DOC. IDENTIDAD REPRESENTANTE LEGAL
+
+13
+
+FECH\_VIGEN  
+
+ 
+
+NUMERICO
+
+8
+
+NO APLICABLE
+
+     **_REVOCACION DE JURISDICCION (APLICABLE A DESPACHADORES DE ADUANA)_**
+
+**_Nº_**
+
+**_CAMPO_**
+
+**_TIPO_**
+
+**_TAMAÑO_**
+
+**_DESCRIPCION_**
+
+_1_
+
+CJURISDICC
+
+CARÁCTER
+
+3
+
+CODIGO JURISDICCION DE EMPRESA
+
+2
+
+ANO\_PRESE
+
+CARÁCTER
+
+4
+
+AÑO DE PRESENTACION DE SOLICITUD
+
+3
+
+TIPO\_TRAMI
+
+CARÁCTER
+
+2
+
+'06' REVOCACION SOLICITUD JURISDICCION
+
+4
+
+NUME\_ORDEN
+
+CARÁCTER
+
+6
+
+NRO. DE ORDEN
+
+5
+
+NOMB\_IDENT
+
+CARÁCTER
+
+60
+
+NOMBRE DESPACHADOR DE ADUANA
+
+6
+
+DIRECCION
+
+CARÁCTER
+
+50
+
+NO APLICABLE
+
+7
+
+DISTRITO
+
+CARÁCTER
+
+15
+
+NO APLICABLE
+
+8
+
+TELEFONO 1
+
+CARÁCTER
+
+7
+
+NO APLICABLE
+
+9
+
+TELEFONO 2
+
+CARÁCTER
+
+7
+
+NO APLICABLE
+
+10
+
+NRO\_REGIS
+
+CARÁCTER
+
+5
+
+NO APLICABLE
+
+11
+
+CTIPO\_VINC
+
+CARÁCTER
+
+2
+
+NO APLICABLE
+
+12
+
+RUC\_EMPRESA
+
+CARÁCTER
+
+11
+
+NO APLICABLE
+
+13
+
+FECH\_VIGEN  
+
+ 
+
+NUMERICO
+
+8
+
+FECHA DE VIGENCIA
+
+     **_SOLICITUD DE REGISTRO/CONCLUSION VINCULO LABORAL DE DESPACHADOR DE ADUANA, CONCESIONARIO POSTAL, AGENTE DE CARGA INTERNACIONAL, ALMACENES ADUANEROS_**
+
+**_Nº_**
+
+**_CAMPO_**
+
+TIPO
+
+**_TAMAÑO_**
+
+DESCRIPCION
+
+_1_
+
+CJURISDICC
+
+CARÁCTER
+
+3
+
+CODIGO JURISDICCION DE EMPRESA
+
+2
+
+ANO\_PRESE
+
+CARÁCTER
+
+4
+
+AÑO DE PRESENTACION DE SOLICITUD
+
+3
+
+TIPO\_TRAMI
+
+CARÁCTER
+
+2
+
+'07' SOLICITUD DE REGISTRO DESPACHADOR DE ADUANA  
+'10' SOLICITUD REGISTRO CONCLUSION VINCULO LABORAL DE DESPACHADOR DE ADUANA
+
+4
+
+NUME\_ORDEN
+
+CARÁCTER
+
+6
+
+NRO. DE ORDEN
+
+5
+
+NOMB\_IDENT
+
+CARÁCTER
+
+60
+
+NOMBRE DESPACHADOR DE ADUANA
+
+6
+
+DIRECCION
+
+CARÁCTER
+
+50
+
+NO APLICABLE
+
+7
+
+DISTRITO
+
+CARÁCTER
+
+15
+
+NO APLICABLE
+
+8
+
+TELEFONO 1
+
+CARÁCTER
+
+7
+
+NO APLICABLE
+
+9
+
+TELEFONO 2
+
+CARÁCTER
+
+7
+
+NO APLCABLE
+
+10
+
+NRO\_REGIS
+
+CARÁCTER
+
+5
+
+NO APLICABLE
+
+11
+
+CTIPO\_VINC
+
+CARÁCTER
+
+2
+
+TIPO DE VINCULO LABORAL CON EMPRESA  
+'01' PERMANENTE  
+'02' CONTRATO APLAZO FIJO  
+'03' OTRA MODALIDAD
+
+12
+
+NRO\_DOCID
+
+CARÁCTER
+
+11
+
+NRO. DOC. IDENTIDAD DESPACHADOR DE ADUANA
+
+13
+
+FECH\_VIGEN
+
+NUMERICO
+
+8
+
+FECHA DE VIGENCIA
+
+     **_NOMBRAMIENTO / REVOCACION MIEMBRO DIRECTORIO DE LA EMPRESA_**
+
+**_Nº_**
+
+**_CAMPO_**
+
+TIPO
+
+**_TAMAÑO_**
+
+DESCRIPCION
+
+_1_
+
+CJURISDICC
+
+CARÁCTER
+
+3
+
+CODIGO JURISDICCION DE EMPRESA
+
+2
+
+ANO\_PRESE
+
+CARÁCTER
+
+4
+
+AÑO DE PRESENTACION DE SOLICITUD
+
+3
+
+TIPO\_TRAMI
+
+CARÁCTER
+
+2
+
+'08' NOMBRAMIENTO MIEMBRO DIRECTORIO EMPRESA  
+'09' REVOCACION MIEMBRO DIRECTORIO EMPRESA
+
+4
+
+NUME\_ORDEN
+
+CARÁCTER
+
+6
+
+NRO. DE ORDEN
+
+5
+
+NOMB\_IDENT
+
+CARÁCTER
+
+60
+
+NOMBRE MIEMBRO DIRECTORIO
+
+6
+
+DIRECCION
+
+CARÁCTER
+
+50
+
+NO APLICABLE
+
+7
+
+DISTRITO
+
+CARÁCTER
+
+15
+
+NO APLICABLE
+
+8
+
+TELEFONO 1
+
+CARÁCTER
+
+7
+
+NO APLICABLE
+
+9  
+10  
+11  
+12  
+13
+
+TELEFONO 2  
+NRO\_REGIS  
+CTIPO\_VINC  
+NRO\_DOCID  
+FECH\_VIGEN
+
+CARÁCTER  
+CARÁCTER  
+CARÁCTER  
+CARÁCTER  
+NUMERICO
+
+7  
+5  
+2  
+11  
+8
+
+NO APLICABLE  
+NO APLICABLE  
+NO APLICABLE  
+NRO. DOC. IDENTIDAD DIRECTORIO EMPRESA  
+NO APLICALBLE
+
+     **_SOLICITUD AMPLIACION / MODIFICACION / REDUCCION AREAS AUTORIZADAS_**
+
+**_Nº_**
+
+**_CAMPO_**
+
+TIPO
+
+TAMAÑO
+
+     DESCRIPCION
+
+_1  
+2  
+3  
+  
+4  
+5  
+6  
+7  
+8  
+9  
+10  
+11  
+12  
+13_
+
+CJURISDICC  
+ANO\_PRESE  
+TIPO\_TRAMI  
+  
+NUME\_ORDEN  
+NOMB\_IDENT  
+DIRECCION  
+DISTRITO  
+TELEFONO 1  
+TELEFONO 2  
+NRO\_REGIS  
+CTIPO\_VINC  
+NRO\_DOCID  
+FECH\_VIGEN
+
+CARÁCTER  
+CARÁCTER  
+CARÁCTER  
+  
+CARÁCTER  
+CARÁCTER  
+CARÁCTER  
+CARÁCTER  
+CARÁCTER  
+CARÁCTER  
+CARÁCTER  
+CARÁCTER  
+CARÁCTER  
+NUMERICO
+
+3  
+4  
+2  
+  
+6  
+60  
+50  
+15  
+7  
+7  
+5  
+2  
+11  
+8
+
+CODIGO JURISDICCION DE EMPRESA  
+AÑO DE PRESENTACION DE SOLICITUD  
+'12' SOLICITUD DE AMPLIACION / MODIFICACION / REDUCCION DE AREAS AUTORIZADAS  
+NRO. DE ORDEN  
+NOMBRE EMPRESA  
+NO APLICABLE  
+NO APLICABLE  
+NO APLICABLE  
+NO APLICABLE  
+NO APLICABLE  
+NO APLICABLE  
+NO APLICABLE  
+NO APLICABLE
+
+      **_ARCHIVOS DE RESPUESTA  
+_**
+
+     _Producto de la validación de Aduanas se generarán los siguientes archivos:_
+
+_ARCHIVO_
+
+FUNCION
+
+OBS
+
+RESCTR01.TXT
+
+ARCHIVO DE CONTROL DE LA RESPUESTA DEL TELEDESPACHO
+
+M
+
+RESERR01.TXT
+
+ARCHIVO DE ERRORES Y/O ADVERTENCIAS DETECTADAS EN EL ENVIO
+
+C
+
+RESHDR01.TXT
+
+ARCHIVO DE RESPUESTA DE ACEPTACION
+
+C
+
+     _RESCTR01 : ARCHIVO DE CONTROL DE RESPUESTA DE TELEDESPACHO_
+
+_Nº_
+
+CAMPO
+
+TIPO
+
+TAMAÑO
+
+DESCRIPCION
+
+1
+
+CODIGO
+
+CARÁCTER
+
+4
+
+CODIGO DE LA EMPRESA QUE TRANSMITE
+
+2
+
+FECHA
+
+FECHA
+
+8
+
+FECHA DE RESPUESTA
+
+3
+
+CASILLA
+
+CARÁCTER
+
+16
+
+NOMBRE DE LA CASILLA
+
+4
+
+NUM\_OK
+
+NUMERICO
+
+6
+
+CANTIDAD DE ENVIOS BUENOS
+
+5
+
+NUM\_MAL
+
+NUMERICO
+
+6
+
+CANTIDAD DE ENVIOS CON ERRORES
+
+     _RESERR01 : ARCHIVO DE RESPUESTA DE ERRORES_
+
+_Nº_
+
+CAMPO
+
+TIPO
+
+TAMAÑO
+
+DESCRIPCION
+
+1
+
+NUME\_ORDEN
+
+CARÁCTER
+
+6
+
+NUMERO DE ORDEN
+
+2
+
+TIPO\_TRAMI
+
+CARÁCTER
+
+2
+
+TIPO DE TRAMITE
+
+3
+
+CODI\_ERROR
+
+CARÁCTER
+
+4
+
+CODIGO DE ERROR
+
+4
+
+ITEM
+
+NUMERICO
+
+6
+
+NUMERO DE ITEM
+
+5
+
+DESC\_ERROR
+
+CARÁCTER
+
+100
+
+DESCRIPCION
+
+     _RESHDR01 : ARCHIVO DE RESPUESTA DE ACEPTACION_
+
+_Nº_
+
+CAMPO
+
+TIPO
+
+TAMAÑO
+
+DESCRIPCION
+
+1
+
+NUME\_ORDEN
+
+CARÁCTER
+
+6
+
+NUMERO DE ORDEN
+
+2
+
+TIPO\_TRAMI
+
+CARÁCTER
+
+2
+
+TIPO DE TRAMITE
+
+3
+
+FECH\_RPTA
+
+NUMERICO
+
+8
+
+FECHA DE RESPUESTA
+
+4
+
+FUNC\_RESU
+
+CARÁCTER
+
+40
+
+FUNCION RESUMEN (HASHING)
+
+5
+
+NUME\_RPTA
+
+CARÁCTER
+
+6
+
+NUMERO DE RESPUESTA DE ADUANAS
+
+6
+
+TEXT\_NOTIF
+
+CARÁCTER
+
+100
+
+TEXTO PARA NOTIFICARLOS
+
+     _TABLA DE TIPOS DE TRAMITE_
+
+     _01 CAMBIO DE DOMICILIO EMPRESA_
+
+     _02 CAMBIO DE TELEFONO EMPRESA_
+
+     _03 CAMBIO DE RAZON SOCIAL_
+
+     _04 NOMBRAMIENTO DE REPRESENTANTE LEGAL_
+
+     _05 REVOCACION DE REPRESENTANTE LEGAL_
+
+     _06 SOLICITUD DE REVOCACION DE JURISDICCION_
+
+     _07 SOLICITUD DE REGISTRO DE DESPACHADOR DE ADUANA_
+
+     _08 NOMBRAMIENTO DE MIEMBRO DE DIRECTORIO_
+
+     _09 REVOCACION DE MIEMBRO DE DIRECTORIO_
+
+     _10 CONCLUSION DE VINCULO LABORAL DE TRABAJADOR_
+
+     _11 SOLICITUD DE AMPLIACION / MODIFICACION / REDUCCION DE AREAS AUTORIZADAS_**(\*)  
+**
+
+**(\*) De conformidad con el [Artículo 2 de la Resolución de Intendencia Nacional de Aduanas Nº 000539](/spij-ext-web/detallenorma/H804000), publicada el 15-03-2001, se modifican las estructuras de las solicitudes electrónicas, cuyo texto es el siguiente:  
+**
+
+"**ANEXO  
+**
+
+**FORMATOS DE SOLICITUD ELECTRONICA PARA OPERADORES DE COMERCIO EXTERIOR  
+**
+
+     **IMPCTR01. TXT  
+**
+
+**Nº**
+
+CAMPO
+
+TIPO
+
+TAMAÑO
+
+**DESCRIPCION**
+
+1
+
+AGENTE
+
+CARACTER
+
+4
+
+CODIGO DE EMPRESA QUE TRANSMITE
+
+2
+
+FECHA
+
+NUMERICO
+
+8
+
+FECHA DE ENVIO
+
+3
+
+NUM\_REG
+
+NUMERICO
+
+6
+
+CANTIDAD DE REGISTROS QUE ENVIA
+
+4
+
+TOTAL\_FOB
+
+NUMERICO
+
+15,3
+
+NO APLICABLE
+
+5
+
+PESO
+
+NUMERICO
+
+15,3
+
+NO APLICABLE
+
+6
+
+CASILLA
+
+CARACTER
+
+16
+
+CASILLA ELECTRONICA DE LA EMPRESA QUE TRANSMITE
+
+7
+
+CLAVE
+
+CARACTER
+
+4
+
+CLAVE ELECTRÓNICA DE LA AGENCIA
+
+8
+
+NUM\_REGB
+
+NUMERICO
+
+6
+
+NO APLICABLE
+
+9
+
+TIPO\_OPER  
+  
+
+ 
+
+CARACTER
+
+1
+
+1: AGENCIA DE ADUANA  
+2: DESPACHADORES OFICIALES  
+3: DEPOSITOS ADUANEROS  
+4: TERMINALES DE ALMACENAMIENTO  
+5: CONCESIONARIOS POSTALES
+
+10
+
+CLAVE\_ELE
+
+CARACTER
+
+16
+
+CODIGO DE CLAVE PUBLICA (USO POSTERIOR)
+
+11
+
+RUC
+
+CARACTER
+
+8
+
+NO APLICABLE
+
+     **MODOPER.TXT  
+**
+
+     **CAMBIO DE DOMICILIO  
+**
+
+**NRO**
+
+CAMPO
+
+**TIPO**
+
+TAMAÑO
+
+DESCRIPCION
+
+OBS
+
+1
+
+CJURISDICC
+
+CARACTER
+
+3
+
+CODIGO JURISDICCION DE LA EMPRESA
+
+**M**
+
+2
+
+ANO\_PRESE
+
+CARACTER
+
+4
+
+AÑO DE PRESENTACION DE SOLICITUD
+
+**M**
+
+3
+
+TIPO \_TRAMI
+
+CARACTER
+
+2
+
+'01' CAMBIO DE DOMICILIO
+
+**M**
+
+4
+
+NUME\_ORDEN
+
+CARACTER
+
+6
+
+NRO DE ORDEN
+
+**M**
+
+5
+
+NOMB\_ IDENT
+
+CARACTER
+
+60
+
+NOMBRE DE LA EMPRESA
+
+**N/A**
+
+6
+
+DIRECCION
+
+CARACTER
+
+50
+
+NUEVA DIRECCION DE LA EMPRESA
+
+**M**
+
+7
+
+DISTRITO
+
+CARACTER
+
+15
+
+NUEVO DISTRITO DE LA EMPRESA
+
+**M**
+
+8
+
+TELEFONO1
+
+CARACTER
+
+7
+
+NUEVO TELEFONO 1 DE LA EMPRESA
+
+**N/A**
+
+9
+
+TELEFONO2
+
+CARACTER
+
+7
+
+NUEVO TELEFONO 2 DE LA EMPRESA
+
+**N/A**
+
+10
+
+CTIPO\_VINC
+
+CARACTER
+
+2
+
+TIPO DE VINCULO
+
+**N/A**
+
+11
+
+NRO\_DOCID
+
+CARACTER
+
+11
+
+NUMERO DE DOCUMENTO
+
+**N/A**
+
+12
+
+FECH\_VIGEN
+
+NUMERICO
+
+8
+
+FECHA DE VIGENCIA
+
+**N/A**
+
+13
+
+TIPO\_DOCUM
+
+CARACTER
+
+1
+
+TIPO DE DOCUMENTO
+
+**N/A**
+
+14
+
+TIPO\_ACCIO
+
+CARACTER
+
+2
+
+TIPO DE ACCIONISTA
+
+**N/A**
+
+     \*\* Para los terminales de almacenamiento, en el campo DISTRITO, indicar la provincia  
+
+     **CAMBIO DE TELEFONO**
+
+**NRO**
+
+CAMPO
+
+TIPO
+
+TAMAÑO
+
+DESCRIPCION
+
+OBS
+
+1
+
+CJURISDICC
+
+CARACTER
+
+3
+
+CODIGO JURISDICCION DE LA EMPRESA
+
+**M**
+
+2
+
+ANO\_PRESE
+
+CARACTER
+
+4
+
+AÑO DE PRESENTACION DE SOLICITUD
+
+**M**
+
+3
+
+TIPO\_TRAMI
+
+CARACTER
+
+2
+
+'02' CAMBIO DE TELEFONO
+
+**M**
+
+4
+
+NUME\_ORDEN
+
+CARACTER
+
+6
+
+NRO DE ORDEN
+
+**M**
+
+5
+
+NOMB\_IDENT
+
+CARACTER
+
+60
+
+NOMBRE DE LA EMPRESA
+
+**N/A**
+
+6
+
+DIRECCION
+
+CARACTER
+
+50
+
+NUEVA DIRECCION DE LA EMPRESA
+
+**N/A**
+
+7
+
+DISTRITO
+
+CARACTER
+
+15
+
+NUEVO DISTRITO DE LA EMPRESA
+
+**N/A**
+
+8
+
+TELEFONO1
+
+CARACTER
+
+7
+
+NUEVO TELEFONO 1 DE LA EMPRESA
+
+**M**
+
+9
+
+TELEFONO2
+
+CARACTER
+
+7
+
+NUEVO TELEFONO 2 DE LA EMPRESA
+
+**C**
+
+10
+
+CTIPO\_VINC
+
+CARACTER
+
+2
+
+TIPO DE VINCULO
+
+**N/A**
+
+11
+
+NRO\_DOCID
+
+CARACTER
+
+11
+
+NUMERO DE DOCUMENTO
+
+**N/A**
+
+12
+
+FECH\_VIGEN
+
+NUMERICO
+
+8
+
+FECHA DE VIGENCIA
+
+**N/A**
+
+13
+
+TIPO\_DOCUM
+
+CARACTER
+
+1
+
+TIPO DE DOCUMENTO
+
+**N/A**
+
+14
+
+TIPO\_ACCIO
+
+CARACTER
+
+2
+
+TIPO DE ACCIONISTA
+
+**N/A**
+
+     **CAMBIO RAZON SOCIAL EMPRESA**
+
+**NRO**
+
+CAMPO
+
+TIPO
+
+TAMAÑO
+
+DESCRIPCION
+
+OBS
+
+1
+
+CJURISDICC
+
+CARACTER
+
+3
+
+CODIGO JURISDICCION DE LA EMPRESA
+
+**M**
+
+2
+
+ANO\_PRESE
+
+CARACTER
+
+4
+
+AÑO DE PRESENTACION DE SOLICITUD
+
+**M**
+
+3
+
+TIPO\_TRAMI
+
+CARACTER
+
+2
+
+'03' CAMBIO DE RAZON SOCIAL
+
+**M**
+
+4
+
+NUME\_ORDEN
+
+CARACTER
+
+6
+
+NRO DE ORDEN
+
+**M**
+
+5
+
+NOMB\_IDENT
+
+CARACTER
+
+60
+
+NOMBRE DE LA EMPRESA
+
+**M**
+
+6
+
+DIRECCION
+
+CARACTER
+
+50
+
+NUEVA DIRECCION DE LA EMPRESA
+
+**C**
+
+7
+
+DISTRITO
+
+CARACTER
+
+15
+
+NUEVO DISTRITO DE LA EMPRESA
+
+**C**
+
+8
+
+TELEFONO1
+
+CARACTER
+
+7
+
+NUEVO TELEFONO 1 DE LA EMPRESA
+
+**C**
+
+9
+
+TELEFONO2
+
+CARACTER
+
+7
+
+NUEVO TELEFONO 2 DE LA EMPRESA
+
+**C**
+
+10
+
+CTIPO\_VINC
+
+CARACTER
+
+2
+
+TIPO DE VINCULO
+
+**N/A**
+
+11
+
+NRO\_DOCID
+
+CARACTER
+
+11
+
+NUMERO DE DOCUMENTO
+
+**M**
+
+12
+
+FECH\_VIGEN
+
+NUMERICO
+
+8
+
+FECHA DE VIGENCIA
+
+**N/A**
+
+13
+
+TIPO\_DOCUM
+
+CARACTER
+
+1
+
+TIPO DE DOCUMENTO
+
+**M**
+
+14
+
+TIPO\_ACCIO
+
+CARACTER
+
+2
+
+TIPO DE ACCIONISTA
+
+**N/A**
+
+     **NOMBRAMIENTO DEL REPRESENTANTE LEGAL DE LA EMPRESA**
+
+**NRO**
+
+CAMPO
+
+TIPO
+
+TAMAÑO
+
+DESCRIPCION
+
+OBS
+
+1
+
+CJURISDICC
+
+CARACTER
+
+3
+
+CODIGO JURISDICCION DE EMPRESA
+
+**M**
+
+2
+
+ANO\_PRESE
+
+CARACTER
+
+4
+
+AÑO DE PRESENTACION DE SOLICITUD
+
+**M**
+
+3
+
+TIPO\_TRAMI
+
+CARACTER
+
+2
+
+'04' NOMBRAMIENTO REPRESENTANTE LEGAL
+
+**M**
+
+4
+
+NUME\_ORDEN
+
+CARACTER
+
+6
+
+NRO DE ORDEN
+
+**M**
+
+5
+
+NOMB\_IDENT
+
+CARACTER
+
+60
+
+NOMBRE DEL REPRESENTANTE LEGAL
+
+**M**
+
+6
+
+DIRECCION
+
+CARACTER
+
+50
+
+DIRECCION DEL REPRESENTANTE LEGAL
+
+**N/A**
+
+7
+
+DISTRITO
+
+CARACTER
+
+15
+
+DISTRITO REPRESENTANTE LEGAL
+
+**N/A**
+
+8
+
+TELEFONO1
+
+CARACTER
+
+7
+
+TELEFONO 1 REPRESENTANTE LEGAL
+
+**N/A**
+
+9
+
+TELEFONO2
+
+CARACTER
+
+7
+
+TELEFONO 2 REPRESENTANTE LEGAL
+
+**N/A**
+
+10
+
+CTIPO\_VINC
+
+CARACTER
+
+2
+
+TIPO DE VINCULO
+
+**N/A**
+
+11
+
+NRO\_DOCID
+
+CARACTER
+
+11
+
+NRO.DOC.IDENTIDAD REPRESENTANTE LEGAL
+
+**M**
+
+12
+
+FECH\_VIGEN
+
+NUMERICO
+
+8
+
+FECHA DE VIGENCIA
+
+**M**
+
+13
+
+TIPO\_DOCUM
+
+CARACTER
+
+1
+
+TIPO DE DOCUMENTO DEL REPRESENTANTE LEGAL
+
+**M**
+
+14
+
+TIPO\_ACCIO
+
+CARACTER
+
+2
+
+TIPO DE ACCIONISTA
+
+**N/A**
+
+     **REVOCACION DEL REPRESENTANTE LEGAL DE LA EMPRESA**
+
+**NRO**
+
+CAMPO
+
+TIPO
+
+TAMAÑO
+
+**DESCRIPCION**
+
+**OBS**
+
+1
+
+CJURISDICC
+
+CARACTER
+
+3
+
+CODIGO JURISDICCION DE EMPRESA
+
+**M**
+
+2
+
+ANO\_PRESE
+
+CARACTER
+
+4
+
+AÑO DE PRESENTACION DE SOLICITUD
+
+**M**
+
+3
+
+TIPO\_TRAMI
+
+CARACTER
+
+2
+
+'05' REVOCACION DEL REPRESENTANTE LEGAL
+
+**M**
+
+4
+
+NUME\_ORDEN
+
+CARACTER
+
+6
+
+NRO DE ORDEN
+
+**M**
+
+5
+
+NOMB\_IDENT
+
+CARACTER
+
+60
+
+NOMBRE DEL REPRESENTANTE LEGAL
+
+**M**
+
+6
+
+DIRECCION
+
+CARACTER
+
+50
+
+DIRECCION DEL REPRESENTANTE LEGAL
+
+**N/A**
+
+7
+
+DISTRITO
+
+CARACTER
+
+15
+
+DISTRITO REPRESENTANTE LEGAL
+
+**N/A**
+
+8
+
+TELEFONO1
+
+CARACTER
+
+7
+
+TELEFONO 1 REPRESENTANTE LEGAL
+
+**N/A**
+
+9
+
+TELEFONO2
+
+CARACTER
+
+7
+
+TELEFONO 2 REPRESENTANTE LEGAL
+
+**N/A**
+
+10
+
+CTIPO\_VINC
+
+CARACTER
+
+2
+
+TIPO DE VINCULO
+
+**N/A**
+
+11
+
+NRO\_DOCID
+
+CARACTER
+
+11
+
+NRO. DOC. IDENTIDAD REPRESENTANTE LEGAL
+
+**M**
+
+12
+
+FECH\_VIGEN
+
+NUMERICO
+
+8
+
+FECHA DE VIGENCIA
+
+**M**
+
+13
+
+TIPO\_DOCUM
+
+CARACTER
+
+1
+
+TIPO DE DOCUMENTO DEL REPRESENTANTE LEGAL
+
+**M**
+
+14
+
+TIPO\_ACCIO
+
+CARACTER
+
+2
+
+TIPO DE ACCIONISTA
+
+ **N/A**
+
+     **REVOCACION DE JURISDICCION (APLICABLE A AGENTES DE ADUANAS Y DESPACHADORES OFICIALES)**
+
+**NRO**
+
+CAMPO
+
+TIPO
+
+TAMAÑO
+
+DESCRIPCION
+
+OBS
+
+1
+
+CJURISDICC
+
+CARACTER
+
+3
+
+CODIGO JURISDICCION DE EMPRESA
+
+**M**
+
+2
+
+ANO\_PRESE
+
+CARACTER
+
+4
+
+AÑO DE PRESENTACION DE SOLICITUD
+
+**M**
+
+3
+
+TIPO\_TRAMI
+
+CARACTER
+
+2
+
+'06' REVOCACION SOLICITUD JURISDICCION
+
+**M**
+
+4
+
+NUME\_ORDEN
+
+CARACTER
+
+6
+
+NRO DE ORDEN
+
+**M**
+
+5
+
+NOMB\_IDENT
+
+CARACTER
+
+60
+
+NOMBRE DEL OPERADOR
+
+**M**
+
+6
+
+DIRECCION
+
+CARACTER
+
+50
+
+DIRECCION DE LA EMPRESA
+
+**N/A**
+
+7
+
+DISTRITO
+
+CARACTER
+
+15
+
+DISTRITO DE LA EMPRESA
+
+**N/A**
+
+8
+
+TELEFONO1
+
+CARACTER
+
+7
+
+TELEFONO 1 DE LA EMPRESA
+
+**N/A**
+
+9
+
+TELEFONO2
+
+CARACTER
+
+7
+
+TELEFONO 2 DE LA EMPRESA
+
+**N/A**
+
+10
+
+CTIPO\_VINC
+
+CARACTER
+
+2
+
+TIPO DE VINCULACION
+
+**M**
+
+11
+
+NRO\_DOCID
+
+CARACTER
+
+11
+
+RUC DE LA EMPRESA
+
+**M**
+
+12
+
+FECH\_VIGEN
+
+NUMERICO
+
+8
+
+FECHA DE VIGENCIA
+
+**M**
+
+13
+
+TIPO\_DOCUM
+
+CARACTER
+
+1
+
+TIPO DE DOCUMENTO
+
+**M**
+
+14
+
+TIPO\_ACCIO
+
+CARACTER
+
+2
+
+TIPO DE ACCIONISTA
+
+**N/A**
+
+     **SOLICITUD DE REGISTRO DE VINCULO LABORAL DE LOS AGENTES DE ADUANAS, DESPACHADORES OFICIALES, CONCESIONARIO POSTAL, ALMACENES ADUANEROS**
+
+**NRO**
+
+CAMPO
+
+TIPO
+
+TAMAÑO
+
+DESCRIPCION
+
+OBS
+
+1
+
+CJURISDICC
+
+CARACTER
+
+3
+
+CODIGO JURISDICCION DE EMPRESA
+
+**M**
+
+2
+
+ANO\_PRESE
+
+CARACTER
+
+4
+
+AÑO DE PRESENTACION DE SOLICITUD
+
+**M**
+
+3
+
+TIPO\_TRAMI
+
+CARACTER
+
+2
+
+'07' SOLICITUD DE REGISTRO DEL OPERADOR
+
+**M**
+
+4
+
+NUME\_ORDEN
+
+CARACTER
+
+6
+
+NRO DE ORDEN
+
+**M**
+
+5
+
+NOMB\_IDENT
+
+CARACTER
+
+60
+
+NOMBRE OPERADOR
+
+**M**
+
+6
+
+DIRECCION
+
+CARACTER
+
+50
+
+DIRECCION DEL OPERADOR
+
+**N/A**
+
+7
+
+DISTRITO
+
+CARACTER
+
+15
+
+DISTRITO DEL OPERADOR
+
+**N/A**
+
+8
+
+TELEFONO1
+
+CARACTER
+
+7
+
+TELEFONO1 DEL OPERADOR
+
+**N/A**
+
+9
+
+TELEFONO2
+
+CARACTER
+
+7
+
+TELEFONO2 DEL OPERADOR
+
+**N/A**
+
+10
+
+CTIPO\_VINC
+
+CARACTER
+
+2
+
+TIPO DE VINCULO LABORAL CON LA EMPRESA:
+
+**M**
+
+ 
+
+ 
+
+ 
+
+'00' PERMANENTE
+
+ 
+
+ 
+
+ 
+
+'02' CONTRATO SUJETO A MODALIDAD
+
+'03' CONTRATO A PLAZO INDETERMINADO
+
+11
+
+NRO\_DOCID
+
+CARACTER
+
+11
+
+NRO. DOC. IDENTIDAD DEL OPERADOR
+
+**M**
+
+12
+
+FECH\_VIGEN
+
+NUMERICO
+
+8
+
+FECHA DE VIGENCIA
+
+**M**
+
+13
+
+TIPO\_DOCUM
+
+CARACTER
+
+1
+
+TIPO DE DOCUMENTO
+
+**M**
+
+TIPO DE CARGO DEL OPERADOR
+
+01: Despachador
+
+02: Tramitador
+
+03: Auxiliar de despacho
+
+04: Jefe de Despacho
+
+05: Agente de Aduana
+
+06: Representante Legal
+
+07: Secretaria
+
+08: Asesor legal
+
+14
+
+TIPO\_ACCIO
+
+CARACTER
+
+2
+
+09: Gerencia de Operaciones
+
+**M**
+
+10: Gerente General
+
+11: Presidente Ejecutivo
+
+12: Presidente de Directorio
+
+13: Auxiliar
+
+14: Jefe Administrativo
+
+15: Despachador Oficial
+
+16: Supervisor
+
+17: Director Gerente
+
+     **NOMBRAMIENTO MIEMBRO DIRECTORIO DE LA EMPRESA**
+
+**NRO**
+
+CAMPO
+
+TIPO
+
+TAMAÑO
+
+DESCRIPCION
+
+OBS
+
+1
+
+CJURISDICC
+
+CARACTER
+
+3
+
+CODIGO JURISDICCION DE EMPRESA
+
+**M**
+
+2
+
+ANO\_PRESE
+
+CARACTER
+
+4
+
+AÑO DE PRESENTACION DE SOLICITUD
+
+**M**
+
+3
+
+TIPO\_TRAMI
+
+CARACTER
+
+2
+
+'08' NOMBRAMIENTO MIEMBRO DIRECTORIO EMPRESA
+
+**M**
+
+4
+
+NUME\_ORDEN
+
+CARACTER
+
+6
+
+NRO DE ORDEN
+
+**M**
+
+5
+
+NOMB\_IDENT
+
+CARACTER
+
+60
+
+NOMBRE MIEMBRO DIRECTORIO
+
+**M**
+
+6
+
+DIRECCION
+
+CARACTER
+
+50
+
+DIRECCION DEL MIEMBRO DEL DIRECTORIO
+
+**M**
+
+7
+
+DISTRITO
+
+CARACTER
+
+15
+
+DISTRITO DEL MIEMBRO DEL DIRECTORIO
+
+**M**
+
+8
+
+TELEFONO1
+
+CARACTER
+
+7
+
+TELEFONO 1
+
+**N/A**
+
+9
+
+TELEFONO2
+
+CARACTER
+
+7
+
+TELEFONO 2
+
+**N/A**
+
+10
+
+CTIPO\_VINC
+
+CARACTER
+
+2
+
+TIPO DE VINCULO
+
+**N/A**
+
+11
+
+NRO\_DOCID
+
+CARACTER
+
+11
+
+NRO. DOC. IDENTIDAD DIRECTORIO EMPRESA
+
+**M**
+
+12
+
+FECH\_VIGEN
+
+NUMERICO
+
+8
+
+FECHA DE VIGENCIA
+
+**N/A**
+
+13
+
+TIPO\_DOCUM
+
+CARACTER
+
+1
+
+TIPO DE DOCUMENTO
+
+**M**
+
+TIPO DE ACCIONISTA
+
+01:DIRECTOR/GERENTE/SOCIO
+
+02: DIRECTOR/GERENTE
+
+14
+
+TIPO\_ACCIO
+
+CARACTER
+
+2
+
+03: DIRECTOR/SOCIO
+
+**M**
+
+04: GERENTE/SOCIO
+
+05: DIRECTOR
+
+06: GERENTE
+
+07: SOCIO
+
+     **REVOCACION MIEMBRO DIRECTORIO DE LA EMPRESA**
+
+**NRO**
+
+CAMPO
+
+TIPO
+
+TAMAÑO
+
+DESCRIPCION
+
+OBS
+
+1
+
+CJURISDICC
+
+CARACTER
+
+3
+
+CODIGO JURISDICCION DE EMPRESA
+
+**M**
+
+2
+
+ANO\_PRESE
+
+CARACTER
+
+4
+
+AÑO DE PRESENTACION DE SOLICITUD
+
+**M**
+
+3
+
+TIPO\_TRAMI
+
+CARACTER
+
+2
+
+'09' REVOCACION DE MIEMBRO DIRECTORIO DE LA EMPRESA
+
+**M**
+
+4
+
+NUME\_ORDEN
+
+CARACTER
+
+6
+
+NRO DE ORDEN
+
+**M**
+
+5
+
+NOMB\_IDENT
+
+CARACTER
+
+60
+
+NOMBRE MIEMBRO DIRECTORIO
+
+**M**
+
+6
+
+DIRECCION
+
+CARACTER
+
+50
+
+DIRECCION DEL MIEMBRO DEL DIRECTORIO
+
+**N/A**
+
+7
+
+DISTRITO
+
+CARACTER
+
+15
+
+DISTRITO DEL MIEMBRO DEL DIRECTORIO
+
+**N/A**
+
+8
+
+TELEFONO1
+
+CARACTER
+
+7
+
+TELEFONO 1
+
+**N/A**
+
+9
+
+TELEFONO2
+
+CARACTER
+
+7
+
+TELEFONO 2
+
+**N/A**
+
+10
+
+CTIPO\_VINC
+
+CARACTER
+
+2
+
+TIPO DE VINCULO
+
+**N/A**
+
+11
+
+NRO\_DOCID
+
+CARACTER
+
+11
+
+NRO. DOC. IDENTIDAD DIRECTORIO EMPRESA
+
+**M**
+
+12
+
+FECH\_VIGEN
+
+NUMERICO
+
+8
+
+FECHA DE VIGENCIA
+
+**N/A**
+
+13
+
+TIPO\_DOCUM
+
+CARACTER
+
+1
+
+TIPO DE DOCUMENTO
+
+**M**
+
+14
+
+TIPO\_ACCIO
+
+CARACTER
+
+2
+
+TIPO DE ACCIONISTA
+
+**N/A**
+
+     **SOLICITUD DE CONCLUSION DE VINCULO LABORAL DE LOS AGENTES DE ADUANAS, DESPACHADORES OFICIALES, CONCESIONARIO POSTAL, ALMACENES ADUANEROS**
+
+**NRO**
+
+CAMPO
+
+TIPO
+
+TAMAÑO
+
+DESCRIPCION
+
+OBS
+
+1
+
+CJURISDICC
+
+CARACTER
+
+3
+
+CODIGO JURISDICCION DE EMPRESA
+
+**M**
+
+2
+
+ANO\_PRESE
+
+CARACTER
+
+4
+
+AÑO DE PRESENTACION DE SOLICITUD
+
+**M**
+
+3
+
+TIPO\_TRAMI
+
+CARACTER
+
+2
+
+'10' SOLICITUD DE CONCLUSION DEL OPERADOR
+
+**M**
+
+4
+
+NUME\_ORDEN
+
+CARACTER
+
+6
+
+NRO DE ORDEN
+
+**M**
+
+5
+
+NOMB\_IDENT
+
+CARACTER
+
+60
+
+NOMBRE DEL OPERADOR
+
+**M**
+
+6
+
+DIRECCION
+
+CARACTER
+
+50
+
+DIRECCION DEL OPERADOR
+
+**N/A**
+
+7
+
+DISTRITO
+
+CARACTER
+
+15
+
+DISTRITO DEL OPERADOR
+
+**N/A**
+
+8
+
+TELEFONO1
+
+CARACTER
+
+7
+
+TELEFONO 1 DEL OPERADOR
+
+**N/A**
+
+9
+
+TELEFONO2
+
+CARACTER
+
+7
+
+TELEFONO 2 DEL OPERADOR
+
+**N/A**
+
+TIPO DE VINCULO LABORAL CON LA EMPRESA:
+
+'00' PERMANENTE
+
+**N/A**
+
+10
+
+CTIPO\_VINC
+
+CARACTER
+
+2
+
+'02' CONTRATO SUJETO A MODALIDAD
+
+'03' CONTRATO A PLAZO INDETERMINADO
+
+11
+
+NRO\_DOCID
+
+CARACTER
+
+11
+
+NRO. DOC. IDENTIDAD DEL OPERADOR
+
+**M**
+
+12
+
+FECH\_VIGEN
+
+NUMERICO
+
+8
+
+FECHA DE VIGENCIA
+
+**M**
+
+13
+
+TIPO\_DOCUM
+
+CARACTER
+
+1
+
+TIPO DE DOCUMENTO
+
+**M**
+
+14
+
+TIPO\_ACCIO
+
+CARACTER
+
+2
+
+TIPO DE ACCIONISTA
+
+**N/A**
+
+     **SOLICITUD DE AMPLIACION/MODIFICACION/REDUCCION DE AREAS AUTORIZADAS**
+
+**NRO**
+
+CAMPO
+
+TIPO
+
+TAMAÑO
+
+DESCRIPCION
+
+OBS
+
+1
+
+CJURISDICC
+
+CARACTER
+
+3
+
+CODIGO JURISDICCION DE EMPRESA
+
+**M**
+
+2
+
+ANO\_PRESE
+
+CARACTER
+
+4
+
+AÑO DE PRESENTACION DE SOLICITUD
+
+**M**
+
+3
+
+TIPO\_TRAMI
+
+CARACTER
+
+2
+
+'11' SOLICITUD DE AMPLIACION/MODIFICACION/
+
+REDUCCION DE AREAS AUTORIZADAS
+
+**M**
+
+4
+
+NUME\_ORDEN
+
+CARACTER
+
+6
+
+NRO DE ORDEN
+
+**M**
+
+5
+
+NOMB\_IDENT
+
+CARACTER
+
+60
+
+NOMBRE DEL OPERADOR
+
+**M**
+
+6
+
+DIRECCION
+
+CARACTER
+
+50
+
+DIRECCION DEL AREA
+
+**M**
+
+7
+
+DISTRITO
+
+CARACTER
+
+15
+
+DISTRITO DE LA EMPRESA
+
+**M**
+
+8
+
+TELEFONO1
+
+CARACTER
+
+7
+
+TELEFONO 1 DE LA EMPRESA
+
+**N/A**
+
+9
+
+TELEFONO2
+
+CARACTER
+
+7
+
+TELEFONO 2 DE LA EMPRESA
+
+**N/A**
+
+10
+
+CTIPO\_VINC
+
+CARACTER
+
+2
+
+TIPO DE VINCULACION
+
+**N/A**
+
+11
+
+NRO\_DOCID
+
+CARACTER
+
+11
+
+RUC DE LA EMPRESA
+
+**M**
+
+12
+
+FECH\_VIGEN
+
+NUMERICO
+
+8
+
+FECHA DE VIGENCIA
+
+**N/A**
+
+13
+
+TIPO\_DOCUM
+
+CARACTER
+
+1
+
+TIPO DE DOCUMENTO
+
+**M**
+
+TIPO DE SOLICITUD
+
+01:AMPLIACION
+
+14
+
+TIPO\_ACCIO
+
+CARACTER
+
+2
+
+02:MODIFICACION
+
+**M**
+
+03:REDUCCION
+
+     **ARCHIVOS DE RESPUESTA**
+
+     **Producto de la validación de Aduanas se generarán los siguientes archivos.**
+
+     **ARCHIVO          FUNCION                                             OBS**
+
+     RESCTR01.TXT     ARCHIVO DE CONTROL DE LA RESPUESTA DEL TELEDESPACHO           **M**
+
+     RESERR01.TXT     ARCHIVO DE ERRORES Y/O ADVERTENCIAS DETECTADAS EN EL ENVIO      **C**
+
+     RESHDR01.TXT     ARCHIVO DE RESPUESTA DE ACEPTACION                          **C  
+**
+
+     **RESCTR01 : ARCHIVO DE CONTROL DE RESPUESTA DE TELEDESPACHO  
+**
+
+     **NRO     CAMPO          TIPO          TAMAÑO     DESCRIPCION**
+
+        1     CODIGO          CARACTER          4          CODIGO DE LA EMPRESA QUE TRANSMITE
+
+       2     FECHA               FECHA               8          FECHA DE RESPUESTA
+
+       3     CASILLA          CARACTER         16          NOMBRE DE LA CASILLA
+
+       4     NUM\_OK          NUMERICO          6          CANTIDAD DE ENVIOS BUENOS
+
+       5     NUM\_MAL          NUMERICO          6          CANTIDAD DE ENVIOS CON ERRORES  
+
+     **RESERR01 : ARCHIVO DE RESPUESTA DE ERRORES**
+
+     **NRO     CAMPO          TIPO          TAMAÑO     DESCRIPCION**
+
+       1     NUME\_ORDEN          CARACTER           6          NUMERO DE ORDEN
+
+       2     TIPO\_TRAMI          CARACTER           2          TIPO DE TRAMITE
+
+       3     CODI\_ERROR          CARACTER           4          CODIGO DE ERROR
+
+       4     ITEM               NUMERICO           6          NUMERO DE ITEM
+
+       5     DESC\_ERROR          CARACTER         100          DESCRIPCION  
+
+     **RESHDR01 : ARCHIVO DE RESPUESTA DE ACEPTACION  
+**
+
+     **NRO     CAMPO          TIPO          TAMAÑO     DESCRIPCION**
+
+       1     NUME\_ORDEN          CARACTER            6          NUMERO DE ORDEN
+
+       2     TIPO\_TRAMI           CARACTER            2          TIPO DE TRAMITE
+
+       3     FECH\_RPTA          NUMERICO            8          FECHA DE RESPUESTA
+
+       4     FUNC\_RESU          CARACTER           40          FUNCION RESUMEN (HASHING)
+
+       5     NUME\_RPTA          CARACTER            6          NUMERO DE RESPUESTA DE ADUANAS
+
+       6     TEXT\_NOTIF          CARACTER          100          TEXTO PARA NOTIFICARLOS  
+
+     **TABLA DE TIPOS DE TRAMITE**
+
+     01     CAMBIO DE DOMICILIO EMPRESA
+
+     02     CAMBIO DE TELEFONO EMPRESA
+
+     03     CAMBIO DE RAZON SOCIAL
+
+     04     NOMBRAMIENTO DE REPRESENTANTE LEGAL
+
+     05     REVOCACION DE REPRESENTANTE LEGAL
+
+     06     REVOCACION DE SOLICITUD DE JURISDICCION
+
+     07     SOLICITUD DE REGISTRO DEL OPERADOR DE COMERCIO EXTERIOR (AGENTES DE ADUANAS,
+
+          DESPACHADORES OFICIALES, CONCESIONARIO POSTAL Y ALMACENES ADUANEROS)
+
+     08     NOMBRAMIENTO DE MIEMBRO DE DIRECTORIO
+
+     09     REVOCACION DE MIEMBRO DE DIRECTORIO
+
+     10     CONCLUSION DE VINCULO LABORAL DE TRABAJADOR
+
+     11     SOLICITUD DE AMPLIACION / MODIFICACION / REDUCCION DE AREAS AUTORIZADAS  
+
+     **Donde:**
+
+     **M:** Mandatario
+
+     **C:** Condicional
+
+     **N/A:** No Aplica"  
+  
+
+      **_Artículo 2.-_** _Sustitúyanse los numerales del 1 al 5 del rubro A.5, Sección VII. del Procedimiento “Autorización de Operadores” INTA-PE.00.08 (V.2) por el texto siguiente:  
+_
+
+     **_A.5 OBLIGACIONES DE LOS OPERADORES DE COMERCIO EXTERIOR DEL REGISTRO DE PERSONAL_**
+
+     _1. La contratación de personal así como la rescisión del vínculo laboral es comunicada por los Operadores de Comercio Exterior a través de medios electrónicos. La información es transmitida vía teledespacho por las Agencias de Aduana, Concesionarios Postales, Agencias de Carga Internacional y Almacenes Aduaneros; los demás Despachadores de Aduana pueden realizar su transmisión a través de correo electrónico mediante el uso de certificado digital._
+
+     _En tanto se implemente la estructura de la transmisión vía teledespacho o el uso del certificado digital, la mencionada información será presentada ante ADUANAS mediante Expediente adjuntando el Anexo 8 para el caso de contratación de personal o solicitud tratándose de la extinción del vínculo laboral firmada por el Representante Legal o Funcionario Autorizado._
+
+     _2. La información puede ser verificada por el personal de Aduanas y por los Almacenes Aduaneros a través del Módulo de Operadores - SIGAD o del Portal de ADUANAS, cuya actualización estará a cargo de la División de Procedimientos Aduaneros y Operadores._
+
+     **_DE LA IDENTIFICACION DE LOS OPERADORES EN LOS RECINTOS ADUANEROS_**
+
+     _1. A partir del 12 de marzo del 2001, el personal de las Agencias de Aduana, Concesionarios Postales, así como los Despachadores Oficiales, Representantes Legales de los Dueños, Consignatarios o Consignantes, Entidades Públicas, Benéficas, de Salud o de Apoyo Social, Agencias de Carga Internacional y Almacenes Aduaneros, a efecto de ingresar a los recintos aduaneros e intervenir en las operaciones y demás trámites debe portar Carné de Identificación emitido por la entidad que representan o para la cual laboran, el cual debe contener como datos mínimos: Nombre o Razón Social del operador, Nombre y Apellidos, tipo/número de documento de identidad y cargo del trabajador. El Carné debe ser firmado por el Representante Legal o Funcionario Autorizado._
+
+     _2. En tanto los Operadores de Comercio Exterior implementen la emisión del Carné, el personal continuará identificándose con el documento vigente emitido por ADUANAS y aquéllos que a la fecha cuenten con Carné vencido o en trámite, deben presentar copia del Expediente (Anexo 8) ingresado a la Superintendencia Nacional de Aduanas a que se refiere el segundo párrafo del numeral 1 del rubro DEL REGISTRO DEL PERSONAL, información que podrá ser verificada en el Módulo de Operadores - SIGAD o en el Portal de Aduanas._**(\*)  
+**
+
+**(\*)** **DEROGADO** **por el Artículo 6 de la Resolución de Superintendencia N° 581-2005-SUNAT-A, publicada el** 16 Diciembre 2005**, vigente a los 30 días calendario contados desde el día siguiente de su publicación.  
+**
+
+      **_Artículo 3.-_** _Sustitúyase el Anexo 8 del Procedimiento “Autorización de Operadores” INTA-PE.00.08 (V.2) por el Anexo que forma parte de la presente Resolución._**(\*)  
+**
+
+**(\*)** **DEROGADO** **por el Artículo 6 de la Resolución de Superintendencia N° 581-2005-SUNAT-A, publicada el** 16 Diciembre 2005**, vigente a los 30 días calendario contados desde el día siguiente de su publicación.  
+**
+
+     **Artículo 4.-** La presente Resolución entra en vigencia el 14.FEB.2001, con excepción de lo dispuesto en el Artículo 1 que rige desde el 12.MAR.2001, fecha a partir de la cual los Despachadores de Aduana, Almacenes Aduaneros, Concesionarios Postales y Agentes de Carga Internacional deberán estar adecuados, en coordinación con la Intendencia Nacional de Sistemas, a la estructura de datos del teledespacho señalado en el mencionado artículo.**(\*)  
+**
+
+**(\*) De conformidad con el [Artículo 1 de la Resolución de Intendencia Nacional de Aduanas Nº 000539](/spij-ext-web/detallenorma/H804000), publicada el 15-03-2001, se modifica al 26-03-2001, la entrada en vigencia de lo dispuesto en el presente Artículo, sobre adecuación a la estructura de datos del Teledespacho.  
+**
+
+     Regístrese, comuníquese y publíquese.  
+
+     ANA MARIA ROJAS ZAPANA
+
+     Intendente (e) Nacional de Técnica Aduanera  
+  
+
+YO,  .............................................................................................................................................................
+
+     ....................................................................................................................................................................  
+
+IDENTIFICADO CON  .....................................................................................................................................
+
+                              **(TIPO DE DOCUMENTO)               (NUMERO)**
+
+EN MI CALIDAD DE:  
+
+                              REPRESENTANTE LEGAL                (   )
+
+                              GERENTE                          (   )
+
+                              DIRECTOR                          (   )  
+
+DEL OPERADOR  .............................................................................................................................................
+
+     .........................................................................................................................................................................
+
+     DECLARO BAJO JURAMENTO QUE EL SIGUIENTE PERSONAL LABORA EN NUESTRA EMPRESA:  
+
+**APELLIDOS Y NOMBRES**
+
+DOC/IDEN.
+
+CARGO
+
+VINCULO/LABORAL
+
+DURACION
+
+1.
+
+ 
+
+ 
+
+ 
+
+ 
+
+2.
+
+ 
+
+ 
+
+ 
+
+ 
+
+3.
+
+ 
+
+ 
+
+ 
+
+ 
+
+4.
+
+ 
+
+ 
+
+ 
+
+ 
+
+VINCULO LABORAL : Nombrado, contratado, otros  
+
+DURACION : Plazo Fijo (expresado en día/mes/año), Indefinido  
+
+Motivo por el cual en uso del poder de representación conferido a mi persona, declaro bajo juramento de la empresa .............................................................................................................................................................................. ......................................................................................................................................................................................  
+se hace responsable ante ADUANAS por todos los actos u omisiones en que se incurra(n) dicha(s) persona(s) en su cargo de despachador o auxiliar.  
+
+FORMULO LA PRESENTE DECLARACION AL AMPARO DE LA LEY Nº 25035 LEY DE SIMPLIFICACION ADMINISTRATIVA Y SU REGLAMENTO D.S. Nº 070-89-PCM.  
+
+\----------------------------------------------
+
+FIRMA
