@@ -1,0 +1,1177 @@
+---
+title: >-
+  Aprueban el Noveno Fasc&iacute;culo del Cat&aacute;logo Nacional de Bienes
+  Muebles del Estado
+identifier: RESOLUCION-006-2006-SBN-GO
+country: pe
+rank: resolucion
+publication_date: '2006-05-10'
+last_updated: '2006-05-10'
+status: in_force
+source: 'https://spij.minjus.gob.pe/spij-ext-web/#/detallenorma/H916573'
+scope: Nacional
+official_journal: El Peruano
+---
+# Aprueban el Noveno Fascículo del Catálogo Nacional de Bienes Muebles del Estado  
+
+## RESOLUCION Nº 006-2006-SBN-GO  
+
+**GERENCIA DE OPERACIONES  
+**
+
+**CONCORDANCIAS:      [R. Nº 016-2007-SBN-GO](/spij-ext-web/detallenorma/H942045)**
+
+                [R. Nº 025-2009-SBN-GO](/spij-ext-web/detallenorma/H986589)
+
+     Lima, 26 de abril de 2006  
+
+     Visto, el Memorando Nº 058-2006/SBN-GO-JPM de fecha 17 de abril de 2006, mediante el cual la Jefatura de Patrimonio Mobiliario presenta el Noveno Fascículo del Catálogo Nacional de Bienes Muebles del Estado; y,  
+
+     CONSIDERANDO:  
+
+     Que, la Superintendencia de Bienes Nacionales es un organismo público descentralizado del Ministerio de Economía y Finanzas, que tiene como finalidad llevar a cabo el registro, control y administración de los bienes muebles e inmuebles que comprenden el patrimonio del Estado;  
+
+     Que, el literal t) del artículo 43 del Reglamento de Organización y Funciones de la Superintendencia de Bienes Nacionales establece que la Jefatura de Patrimonio Mobiliario tiene como función y atribución, entre otros, realizar la catalogación de los bienes muebles, susceptibles de ser incorporados al Patrimonio Mobiliario del Estado;  
+
+     Que, la Jefatura de Patrimonio Mobiliario, con el Memorando Nº 058-2006/SBN-GO-JPM de fecha 17 de abril de 2006 e Informe Nº 077-2006/SBN-GO-JPM de fecha 12 de abril del 2006, sustentada la necesidad de incluir de ciento veintidós (122) nuevos tipos de bienes muebles, además de la modificación de la denominación de un (01) tipo de bien en el Catálogo Nacional de Bienes Muebles del Estado, aprobado por la Resolución de Superintendencia Nº 158-97/SBN de fecha 09 de junio de 1997.  
+
+     Que, el artículo 8 de la Directiva Nº 001-97/SBN-UG-CIMN establece que la actualización y divulgación del Catálogo Nacional de Bienes Muebles del Estado es permanente, y se realizará dentro del primer trimestre de cada año, sobre la base de las propuestas formuladas por diversas entidades del Estado, quienes solicitan la incorporación de diferentes tipos de bienes muebles de acuerdo a las pautas establecidas en los Artículos 9 y 10 de la Directiva antes acotada;  
+
+     Que, evaluada la documentación citada en los párrafos precedentes se colige que está destinada a garantizar que las actuaciones administrativas referidas a bienes muebles de propiedad estatal protejan el interés general, de conformidad con el inciso c) del artículo 1 del Reglamento General de Procedimientos Administrativos de los Bienes de Propiedad Estatal, por lo que es conveniente que esta Gerencia apruebe el Noveno Fascículo del Catálogo Nacional de Bienes Muebles del Estado;  
+
+     De conformidad con el Decreto Ley Nº 25556 modificado por el Decreto Ley Nº 25738, Decreto Ley Nº 25554 modificado por el Decreto de Urgencia Nº 071-2001, Ley Nº 27395, Ley Nº 27444, Decreto Supremo Nº 130-2001-EF, Decreto Supremo Nº 131-2001-EF, Decreto Supremo Nº 154-2001-EF, Decreto Supremo Nº 107-2003-EF, Decreto Supremo Nº 042-2006-EF, Resolución Nº 315-2001/SBN, Resolución Nº 015-2002/SBN y Resolución Nº 014-2006/SBN;  
+
+     SE RESUELVE:  
+
+     **Artículo Primero.-** Aprobar el Noveno Fascículo del Catálogo Nacional de Bienes Muebles del Estado, que contiene la relación de ciento veintidós (122) nuevos tipos de bienes muebles susceptibles de ser inventariados por las entidades del Estado, que en anexo forma parte de la presente Resolución.  
+
+     **Artículo Segundo.-** Aprobar la modificación de la denominación de un (01) tipo de bien mueble del Catálogo Nacional de Bienes Muebles del Estado, de acuerdo al anexo de la presente Resolución.  
+
+     **Artículo Tercero.-** Disponer la aplicación y cumplimiento de la presente Resolución por todas las entidades del Estado, bajo responsabilidad de la Dirección General de Administración u Oficina que haga sus veces.  
+
+     Regístrese, comuníquese y publíquese.  
+
+     LILIANA ALCIRA CERRÓN BALDEÓN
+
+     Gerente (e) de Operaciones  
+
+**ANEXO**
+
+ 
+
+NOVENO FASCÍCULO DEL CATALOGO NACIONAL
+
+DE BIENES MUEBLES DEL ESTADO
+
+ 
+
+RELACIÓN DE NUEVOS TIPOS DE BIENES
+
+ 
+
+**ÍTEM**
+
+CÓDIGO
+
+DENOMINACIÓN
+
+**UNIDAD**
+
+1
+
+67220266
+
+APARATO CARBONATADOR
+
+UNIDAD
+
+2
+
+67640011
+
+ARCHIVADOR MOVIL O RODANTE
+
+UNIDAD
+
+3
+
+67220309
+
+ATORNILLADORA ELECTRICA
+
+UNIDAD
+
+4
+
+67220315
+
+AUTOCLAVE FRONTERA PARA LABORATORIO DE BIOSE-
+
+ 
+
+ 
+
+ 
+
+GURIDAD
+
+UNIDAD
+
+5
+
+74641355
+
+BANDEJERO PARA SECADO DE PAPEL
+
+UNIDAD
+
+6
+
+53220963
+
+BIOFOTOMETRO
+
+UNIDAD
+
+7
+
+53221073
+
+CABINA DE SEGURIDAD BIOLOGICA - CAMARA DE BIOSE-
+
+ 
+
+ 
+
+ 
+
+GURIDAD
+
+UNIDAD
+
+8
+
+53221691
+
+CAMARA INTRAGRAL
+
+UNIDAD
+
+9
+
+60221365
+
+CAMARA TERMOGRAFICA
+
+UNIDAD
+
+10
+
+60221733
+
+CLINOMETRO
+
+UNIDAD
+
+11
+
+67222703
+
+CLIPIADORA MANUAL
+
+UNIDAD
+
+12
+
+67361354
+
+COCHE MOTOR
+
+UNIDAD
+
+13
+
+67361392
+
+COCHE REMOLQUE
+
+UNIDAD
+
+14
+
+95221807
+
+CONCENTRADOR DE IMÁGENES - IMAGE HUB
+
+UNIDAD
+
+15
+
+53222299
+
+CONCENTRADOR DE OXIGENO
+
+UNIDAD
+
+16
+
+95221996
+
+CONTROL DIGITAL DE IMÁGENES MULTIPANTALLA -
+
+ 
+
+ 
+
+ 
+
+IMAGE GATEWAY
+
+UNIDAD
+
+17
+
+67500503
+
+CORONADORA - ENCHAPADORA
+
+UNIDAD
+
+18
+
+67223072
+
+CORTA BOTELLAS
+
+UNIDAD
+
+19
+
+952Y2269
+
+CUBO DE RETROPROYECCION - VIDEO WALL CUBE
+
+UNIDAD
+
+20
+
+60222694
+
+DENDOMETRO
+
+UNIDAD
+
+21
+
+67223305
+
+DESPICADORA
+
+UNIDAD
+
+22
+
+74221588
+
+DESTRUCTORA DE CD/DVD
+
+UNIDAD
+
+23
+
+53223342
+
+DISOLUTOR
+
+UNIDAD
+
+24
+
+67223751
+
+ENFRIADOR DE PLACAS - INTERCAMBIADOR DE CALOR
+
+ 
+
+ 
+
+ 
+
+A PLACAS
+
+UNIDAD
+
+25
+
+67223907
+
+ENROLLADOR DE FIBRA - FIBROSAMPLER
+
+UNIDAD
+
+26
+
+53223703
+
+ENTRENADOR PARA ATENCION DE LA TRAQUEOSTOMIA
+
+UNIDAD
+
+27
+
+53223704
+
+ENTRENADOR PARA AUTOEXAMINACION DE MAMAS
+
+UNIDAD
+
+28
+
+53223705
+
+ENTRENADOR PARA LIMPIEZA Y CAMBIO DE APOSITOS
+
+ 
+
+ 
+
+ 
+
+DE ULCERAS
+
+UNIDAD
+
+29
+
+95223053
+
+EQUIPO ADMINISTRADOR DE ANCHO DE BANDA
+
+ 
+
+ 
+
+ 
+
+BAND WIDTH MANAGER
+
+UNIDAD
+
+30
+
+04223239
+
+EQUIPO AMAMANTADOR
+
+UNIDAD
+
+31
+
+53223833
+
+EQUIPO DE BIOFISICA COMPUTARIZADO
+
+UNIDAD
+
+32
+
+53223841
+
+EQUIPO DE BRAQUITERAPIA
+
+UNIDAD
+
+33
+
+60223647
+
+EQUIPO DE EULEN
+
+UNIDAD
+
+34
+
+67224559
+
+EQUIPO DE EVALUACION VOCACIONAL MOVIL
+
+UNIDAD
+
+35
+
+53224697
+
+EQUIPO DE RADIOVISIOGRAFIA
+
+UNIDAD
+
+36
+
+67224821
+
+EQUIPO DE REHABILITACION COGNITIVA
+
+UNIDAD
+
+37
+
+60224137
+
+ESTILOMETRO - STELOMETER
+
+UNIDAD
+
+38
+
+67501006
+
+ETIQUETADORA - ROTULADORA
+
+UNIDAD
+
+39
+
+53226370
+
+FANTOMA DE AGUA
+
+UNIDAD
+
+40
+
+60224296
+
+FIBROGRAFO
+
+UNIDAD
+
+41
+
+46226129
+
+FUENTE DE VOLTAJE ANALOGICO
+
+UNIDAD
+
+42
+
+74222859
+
+GAVETA ELECTRONICA PARA DINERO
+
+UNIDAD
+
+43
+
+67643783
+
+GLOBO AEROSTATICO - GLOBO CAUTIVO
+
+UNIDAD
+
+44
+
+60224625
+
+GRAVIMETRO
+
+UNIDAD
+
+45
+
+04225285
+
+HILERADORA
+
+UNIDAD
+
+46
+
+60224635
+
+ICTIOMETRO
+
+UNIDAD
+
+47
+
+74084043
+
+IMPRESORA DE ETIQUETA - IMPRESORA DE TICKET
+
+UNIDAD
+
+48
+
+53226773
+
+IMPRESORA LASER PARA PELICULA RADIOGRAFICA
+
+UNIDAD
+
+49
+
+67226583
+
+INSTRUMENTOS PARA MEDIR APRENDIZAJE Y MEMORIA
+
+UNIDAD
+
+50
+
+67501122
+
+LAVADORA DE BOTELLAS
+
+UNIDAD
+
+51
+
+74085675
+
+LECTOR GRABADOR DE TARJETAS DE MEMORIA
+
+UNIDAD
+
+52
+
+74086912
+
+LECTORA DE MARCAS OPTICAS - OMR SCANNER
+
+UNIDAD
+
+53
+
+25223143
+
+LIMPIAFONDO AUTOMATICO DE PISCINA
+
+UNIDAD
+
+54
+
+67501177
+
+LLENADORA DE BOTELLAS - LLENADORA DE LATAS
+
+UNIDAD
+
+55
+
+67363215
+
+LOCOMOTORA
+
+UNIDAD
+
+56
+
+53227512
+
+MANIQUI GERIATRICO PARA CUIDADO DEL PACIENTE
+
+UNIDAD
+
+57
+
+39648025
+
+MANIQUI (MAYOR A 1/8 UIT)
+
+UNIDAD
+
+58
+
+67501443
+
+MAQUINA AUTOMATICA ENVASADORA PARA SEMEN
+
+UNIDAD
+
+59
+
+67501461
+
+MAQUINA AUTOMATICA SELLADORA PARA SEMEN
+
+UNIDAD
+
+60
+
+04226428
+
+MAQUINA PELADORA DE POLLOS
+
+UNIDAD
+
+61
+
+67227509
+
+MARTILLO DEMOLEDOR ELECTRICO
+
+UNIDAD
+
+62
+
+60225678
+
+MEDIDOR DE AREA DE FIBRA - AREALOMETRO
+
+UNIDAD
+
+63
+
+67227511
+
+MEZCLADOR DE FIBRA - COTTON BLENDER
+
+UNIDAD
+
+64
+
+67227516
+
+MICROSCOPIO PARA CONTROL DE CALIDAD
+
+UNIDAD
+
+65
+
+53228095
+
+MODELO CEREBRO DESMONTABLE
+
+UNIDAD
+
+66
+
+53228097
+
+MODELO CEREBRO NEUROANATOMICO DESMONTABLE
+
+UNIDAD
+
+67
+
+53226098
+
+MODELO DE MUJER EMBARAZADA
+
+UNIDAD
+
+68
+
+53228099
+
+MODELO DEL OIDO
+
+UNIDAD
+
+69
+
+53228101
+
+MODELO LA CABEZA DESMONTABLE
+
+UNIDAD
+
+70
+
+53228103
+
+MODELO LARINGE FUNCIONAL DESMONTABLE
+
+UNIDAD
+
+71
+
+53228104
+
+MODELO MUSCULAR FIGURA MASCULINA DESMONTABLE
+
+UNIDAD
+
+72
+
+53228105
+
+MODELO PULMON DESMONTABLE
+
+UNIDAD
+
+73
+
+53228107
+
+MODELO RIÑON NEFRON CONDUCTOR SANGUINEO Y
+
+ 
+
+ 
+
+ 
+
+CORPUSCULO RENAL
+
+UNIDAD
+
+74
+
+53228109
+
+MODELO SISTEMA CIRCULATORIO
+
+UNIDAD
+
+75
+
+53228111
+
+MODELO SISTEMA DIGESTIVO DESMONTABLE
+
+UNIDAD
+
+76
+
+53228113
+
+MODELO SISTEMA URINARIO AUTOESTABLE
+
+UNIDAD
+
+77
+
+53228115
+
+MODELO TORSO DESMONTABLE
+
+UNIDAD
+
+78
+
+60226485
+
+NEPOTOMETRO
+
+UNIDAD
+
+79
+
+53228450
+
+NEURONAVEGADOR
+
+UNIDAD
+
+80
+
+74088243
+
+ORGANIZADOR DE CD/DVD - ARCHIVADOR ELECTRO-
+
+ 
+
+ 
+
+ 
+
+NICO DE DISCOS
+
+UNIDAD
+
+81
+
+60226739
+
+OVOSCOPIO
+
+UNIDAD
+
+82
+
+53648442
+
+PANEL DE INSPECCION PARA PARTICULAS EXTRAÑAS
+
+UNIDAD
+
+83
+
+60226853
+
+PIRANOMETRO
+
+UNIDAD
+
+84
+
+60227286
+
+POROMETRO
+
+UNIDAD
+
+85
+
+60227288
+
+POROSIMETRO
+
+UNIDAD
+
+86
+
+95226842
+
+PROTECTOR DE AUDIO - GENERADOR DE RUIDO
+
+ 
+
+ 
+
+ 
+
+ACUSTICO
+
+UNIDAD
+
+87
+
+67508633
+
+REACTOR CON SISTEMA DE AGITACION Y SEDIMENTADOR
+
+UNIDAD
+
+88
+
+74228010
+
+REDONDEADORA ELECTRICA DE ESQUINAS
+
+UNIDAD
+
+89
+
+67228785
+
+REFINADOR DE FIBRAS DE PAPEL - REFINADOR PFI
+
+UNIDAD
+
+90
+
+67228802
+
+REGISTRADOR DE DATOS - DATA LOGGER
+
+UNIDAD
+
+91
+
+53229212
+
+RINOMANOMETRO
+
+UNIDAD
+
+92
+
+67228857
+
+ROTOMARTILLO
+
+UNIDAD
+
+93
+
+67646042
+
+SILO DE ACERO INOXIDABLE
+
+UNIDAD
+
+94
+
+53229436
+
+SIMULADOR BRAZO PARA ENDOVENOSAS
+
+UNIDAD
+
+95
+
+53229437
+
+SIMULADOR DE AUSCULTACION
+
+UNIDAD
+
+96
+
+53229438
+
+SIMULADOR DE CATETERIZACION
+
+UNIDAD
+
+97
+
+46228793
+
+SIMULADOR DE ELECTROCARDIOGRAMA
+
+UNIDAD
+
+98
+
+53229439
+
+SIMULADOR EXTREMIDAD PARA PRACTICA DE SUTURAS
+
+UNIDAD
+
+99
+
+53229440
+
+SIMULADOR PARA ADMINISTRACION DE ENEMAS
+
+UNIDAD
+
+100
+
+53229441
+
+SIMULADOR PARA ATENCIONDEULCERAS
+
+UNIDAD
+
+101
+
+53229443
+
+SIMULADOR PARA MEDICINA INTERNA
+
+UNIDAD
+
+102
+
+53229444
+
+SIMULADOR PARA OSTOMIA
+
+UNIDAD
+
+103
+
+53229446
+
+SIMULADOR PARA TECNICAS DE VENDAJE
+
+UNIDAD
+
+104
+
+67229442
+
+SISTEMA DE CALEFACCION INFRARROJO
+
+UNIDAD
+
+105
+
+53229574
+
+SISTEMA DE COAGULACION POR RADIOFRECUENCIA
+
+UNIDAD
+
+106
+
+46228838
+
+SISTEMA DE MONITOREO Y CONTROL REMOTO DE
+
+ 
+
+ 
+
+ 
+
+AMBIENTE
+
+UNIDAD
+
+107
+
+46228856
+
+SISTEMA DE SEGURIDAD DE CO2/LN2 - CO2/LN2
+
+ 
+
+ 
+
+ 
+
+BACKUP SYSTEM
+
+UNIDAD
+
+108
+
+04228783
+
+SISTEMA DE VIDEO INFRARROJO SUBACUATICO
+
+UNIDAD
+
+109
+
+67229452
+
+SISTEMA DIGITAL DE ADQUISICION DE DATOS
+
+UNIDAD
+
+110
+
+67229498
+
+SISTEMA TEST DE VIENA COMPUTARIZADO
+
+UNIDAD
+
+111
+
+60228203
+
+SONOMETRO
+
+UNIDAD
+
+112
+
+46228981
+
+SUPRESOR DE VOLTAJE TRANSITORIO - TVSS
+
+UNIDAD
+
+113
+
+60228210
+
+TACOMETRO DIGITAL
+
+UNIDAD
+
+114
+
+67229597
+
+TANQUE DE ALMACENAMIENTO REFRIGERADO
+
+UNIDAD
+
+115
+
+67229601
+
+TANQUE DE MADURACION-MADURADOR
+
+UNIDAD
+
+116
+
+67646667
+
+TANQUE DE POLIETILENO PARA AGUA
+
+UNIDAD
+
+117
+
+67229605
+
+TANQUE DE PROPAGACION Y RECOLECCION DE LEVADURA
+
+UNIDAD
+
+118
+
+67229609
+
+TANQUE MACERADOR
+
+UNIDAD
+
+119
+
+53649631
+
+TERMO PARA TRANSPORTE DE BIOLOGICOS Y VACUNAS
+
+UNIDAD
+
+120
+
+04229968
+
+VAGINA ARTIFICIAL DE VACUNO
+
+UNIDAD
+
+121
+
+67369412
+
+VAGONETA GRUA
+
+UNIDAD
+
+122
+
+67369450
+
+VAGONETA PLATAFORMA AUTOPROPULSADA
+
+UNIDAD
+
+**RELACIÓN DETIPOS** (\*)NOTA SPIJ**DE BIENES MODIFICADOS REFERENTE**
+
+A LA DENOMINACIÓN
+
+ 
+
+**ITEM**
+
+CÓDIGO
+
+DICE
+
+DEBE DECIR
+
+1
+
+53227497
+
+MANIQUI DE ENTRENAMIENTO
+
+MANIQUI DE ENTRENAMIENTO
+
+ 
+
+ 
+
+PARA ENTUBACION
+
+PAR
+
+  
+
+(\*)**NOTA SPIJ:  
+**En la presente edición de Normas Legales del Diario Oficial “El Peruano”, se dice “**DETIPOS**” cuando se debe decir “**DE TIPOS**”
