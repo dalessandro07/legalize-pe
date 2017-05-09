@@ -1,0 +1,37 @@
+---
+title: Ley de Reforma del literal f del inciso 24 del artículo 2 de la Constitución
+identifier: LEY-REFORMA-30558-2017
+country: pe
+rank: ley_de_reforma_constitucional
+publication_date: '2017-05-09'
+last_updated: '2017-05-09'
+status: in_force
+source: 'https://spij.minjus.gob.pe/normas/ley-reforma-30558-2017'
+official_journal: El Peruano
+affected_articles:
+  - '2'
+---
+
+# Ley 30558
+
+**Ley de Reforma del literal f del inciso 24 del artículo 2 de la Constitución Política del Perú**
+
+*Publicada el 9 de mayo de 2017*
+
+## Artículo único
+
+Modifícase el literal f del inciso 24 del artículo 2 de la Constitución Política del Perú, conforme al texto siguiente:
+
+**Artículo 2.-** Toda persona tiene derecho:
+
+(...)
+
+24. A la libertad y a la seguridad personales. En consecuencia:
+
+(...)
+
+f. Nadie puede ser detenido sino por mandamiento escrito y motivado del juez o por las autoridades policiales en caso de flagrante delito. La detención no durará más del tiempo estrictamente necesario para la realización de las investigaciones y, en todo caso, el detenido debe ser puesto a disposición del juzgado correspondiente, dentro del plazo máximo de cuarenta y ocho horas o en el término de la distancia.
+
+Estos plazos no se aplican a los casos de terrorismo, espionaje, tráfico ilícito de drogas y a los delitos cometidos por organizaciones criminales. En tales casos, las autoridades policiales pueden efectuar la detención preventiva de los presuntos implicados por un término no mayor de quince días naturales. Deben dar cuenta al Ministerio Público y al juez, quien puede asumir jurisdicción antes de vencido dicho término.
+
+(...)
