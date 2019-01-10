@@ -1,0 +1,33 @@
+---
+title: >-
+  Ley de Reforma Constitucional que incorpora el artículo 90-A para regular
+  impedimentos de postulación a cargos de elección popular
+identifier: LEY-REFORMA-30906-2019
+country: pe
+rank: ley_de_reforma_constitucional
+publication_date: '2019-01-10'
+last_updated: '2019-01-10'
+status: in_force
+source: 'https://spij.minjus.gob.pe/normas/ley-reforma-30906-2019'
+official_journal: El Peruano
+---
+
+# Ley 30906
+
+**Ley de Reforma Constitucional que prohíbe la postulación de sentenciados por delitos dolosos**
+
+*Publicada el 10 de enero de 2019*
+
+**DEROGADO:** Esta norma fue derogada por la Única Disposición Complementaria Derogatoria de la Ley 31988, publicada el 20 de marzo de 2024. La reforma constitucional comprendida en dicha norma entra en vigor a partir de las próximas elecciones generales de 2026.
+
+## Artículo único
+
+Incorpórase el artículo 90-A de la Constitución Política del Perú, conforme al texto siguiente:
+
+**Artículo 90-A.-** No pueden postular a cargos de elección popular ni ser designados para ejercer funciones públicas quienes hayan sido sentenciados a pena privativa de libertad, efectiva o suspendida, con sentencia consentida o ejecutoriada, por la comisión de delito doloso.
+
+El impedimento a que se refiere el párrafo anterior se extiende a quienes hayan sido sometidos a penas accesorias, limitativas de derechos e inhabilitación con la misma condición o que tengan mandato de detención preventiva vigente.
+
+El impedimento se extiende hasta que los sentenciados hayan cumplido la pena y, tratándose de quienes hayan sido sometidos a penas accesorias, limitativas de derechos e inhabilitación, hasta que transcurra un período de tiempo igual al que fueron sometidos a dichas sanciones accesorias.
+
+El impedimento de quienes tengan mandato de detención preventiva vigente se extiende hasta que sea revocado el referido mandato.
