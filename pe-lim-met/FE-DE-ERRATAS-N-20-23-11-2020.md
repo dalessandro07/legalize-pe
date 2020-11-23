@@ -1,0 +1,17 @@
+---
+title: Decreto de Alcaldía N.° FE DE ERRATAS  N.° 20 23.11.2020
+identifier: FE-DE-ERRATAS-N-20-23-11-2020
+country: pe
+rank: decreto_de_alcaldia
+publication_date: '2020-11-23'
+last_updated: '2020-11-23'
+status: in_force
+source: >-
+  https://www.gob.pe/institucion/munilima/normas-legales/2526059-fe-de-erratas-n-20-23-11-2020
+jurisdiction: pe-lim-met
+scope: Provincial
+gob_pe_slug: munilima
+---
+# Decreto de Alcaldía N.° FE DE ERRATAS  N.° 20 23.11.2020
+
+*Fuente:* https://www.gob.pe/institucion/munilima/normas-legales/2526059-fe-de-erratas-n-20-23-11-2020
