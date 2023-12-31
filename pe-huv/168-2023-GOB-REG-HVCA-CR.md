@@ -14,4 +14,77 @@ gob_pe_slug: regionhuancavelica
 ---
 # Acuerdo Regional N.° 168-2023/GOB.REG-HVCA/CR
 
-*Fuente:* https://www.gob.pe/institucion/regionhuancavelica/normas-legales/6480337-168-2023-gob-reg-hvca-cr
+Bll DEL,
+S “e
+
+<
+
+GOBIERNO REGIONAL DE
+HUANCAVELICA
+CONSEJO REGIONAL
+
+ACUERDO DE CONSEJO REGIONAL
+N? 168-2023-GOB. REG. IVA/CR
+
+Huancavelica, 20 de julio de 2023.
+VISTO:
+
+El acta, del Consejo Regional de Huancavelica de Sesión Ordinaria, celebrada el
+20 de julio del año 2023, con el voto en unánime de sus integrantes;
+
+CONSIDERANDO:
+
+Que, los Gobiernos Regionales tienen autonomía política, económica y
+administrativa en los asuntos de su competencia, conforme al Artículo 191° de la Constitución Política
+modificado por Ley N° 27680 - Ley de Reforma Constitucional, del Capítulo XIV del Título IV, sobre
+Descentralización, concordante con el Artículo 31° de la Ley N° 27783 — Ley de Bases de la Descentralización
+y con el Artículo 2° de la Ley N° 27867 — Ley Orgánica de Gobiernos Regionales.
+
+Que, los Artículos 188° y 192° de la Ley N° 27680 - Ley de Reforma Constitucional,
+Capitulo XIV del Titulo IV, sobre Descentralización, establecen que el objetivo fundamental de la
+descentralización como forma de organización democrática y de política permanente del Estado, es el
+desarrollo integral del país; debiendo los Gobiernos Regionales asumir competencias para promover el
+desarrollo social, político y económico en el ámbito regional.
+
+Que, el Consejo Regional es el órgano supremo y representativo del Gobierno
+Regional Huancavelica, que ejerce funciones normativas y fiscalizadoras, siendo la instancia donde se adoptan
+los más importantes acuerdos; tiene la facultad de ejercer su función normativa, fundamentalmente, para:
+Promover el Desarrollo Regional, Regular la Administración Regional y Fomentar la Participación Ciudadana.
+
+Que, el Consejero por la provincia de Churcampa, señor Meger Josué Rojas Meza,
+solicita al pleno del Consejo Regional, se exhorte al Ejecutivo del Gobierno Regional de Huancavelica, el
+análisis y evaluación para efectuar transferencia financiera a los Gobiernos Locales (distritales y provinciales)
+a nivel regional para la elaboración de estudios de sus proyectos.
+
+Que, conforme dispone el Artículo 39° de la Ley N° 27867 — Ley Orgánica de
+Gobiernos Regionales, los Acuerdos de Consejo Regional expresan la decisión de éste órgano sobre asuntos
+internos del Consejo Regional, de interés público, ciudadano o institucional o declara la voluntad de practicar
+un determinado acto o sujetarse a una conducta o norma institucional.
+
+En uso de sus atribuciones conferidas por la Ley Orgánica de los Gobiernos
+Regionales; el Consejo Regional;
+
+ACUERDA:
+
+ARTICULO PRIMERO. - EXHORTAR al Ejecutivo del Gobierno Regional de
+Huancavelica, el análisis y evaluación para efectuar transferencia financiera a los Gobiernos Locales (distritales
+y provinciales) a nivel regional para la elaboración de estudios de sus proyectos.
+
+GOBIERNO REGIONAL DE
+HUANCAVELICA
+CONSEJO REGIONAL
+
+ACUERDO DE CONSEJO REGIONAL
+N? 168-2023-GOB.REG.HVOA/CR
+
+Huancavelica, 20 de julio de 2023.
+
+ARTICULO SEGUNDO. - COMUNIQUESE el presente Acuerdo de Consejo
+Regional al Ejecutivo Regional, interesados e instancias pertinentes.
+
+Regístrese, Publíquese y Cúmplase.
+
+---
+
+Fuente: https://www.gob.pe/institucion/regionhuancavelica/normas-legales/6480337-168-2023-gob-reg-hvca-cr
+PDF: https://cdn.www.gob.pe/uploads/document/file/7645283/6480337-acuerdo-de-consejo-regional.pdf
