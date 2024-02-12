@@ -211,5 +211,5 @@ GOBIERNO REGIONAL DE TACNA
 
 ---
 
-*Fuente:* https://www.gob.pe/institucion/regiontacna/normas-legales/6229835-001-2024-cr-gob-reg-tacna
-*PDF:* https://cdn.www.gob.pe/uploads/document/file/7288992/6229835-ordenanza001-2024.pdf
+Fuente: https://www.gob.pe/institucion/regiontacna/normas-legales/6229835-001-2024-cr-gob-reg-tacna
+PDF: https://cdn.www.gob.pe/uploads/document/file/7288992/6229835-ordenanza001-2024.pdf
