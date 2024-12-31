@@ -14,4 +14,108 @@ gob_pe_slug: regionhuancavelica
 ---
 # Acuerdo Regional N.° 85-2024/GOB.REG-HVCA/CR
 
-*Fuente:* https://www.gob.pe/institucion/regionhuancavelica/normas-legales/6481280-85-2024-gob-reg-hvca-cr
+GOBIERNO REGIONAL DE
+HU ANCA VELICA
+
+CONSEJO REGIONAL
+
+JlfDERD0 DE f0NSEJ0 REli/0Kill
+Nº 085·2024--fi0B,REfiDl'fA/fR
+· Huarzcavelíca, 18 de abril de 2024.
+
+VISTO:
+El acta, del Consejo Regional de Huancavelica de Sesión Ordinaria, celebrada el
+18 de abril de 2024, con el voto unánime de sus integrantes;
+
+CONSIDERANDO:
+Que, los Gobiernos Regionales tienen autonomía política, economIca y
+administrativa en los asuntos de su competencia, conforme al Artículo 191 º de la Constitución Política
+modificado por Ley Nº .27680 - Ley de Reforma Constitucional, del Capítulo XIV del Título IV, sobre
+Descentralización, concordante con el Artículo 31 ºdela Ley Nº 27783- Ley de Bases de la Descentralización
+y con el Artículo 2º de la Ley Nº 27867 - Ley Orgánica de Gobiernos Regionales.
+Que, los Artículos 188º y 192º de la Ley N° 27680-Ley de Reforma Constitucional,
+Capitulo XIV del Título IV, sobre Descentralización, establecen que el objetivo fundamental de la .
+descentralización como forma de organización democrática y de política permanente del Estado, es el
+desarrollo integral del país; debiendo los Gobiernos Regionales asumir competencias para promover el
+desarrollo social, político y económico en el ámbito regional.
+Que, el Consejo Regional es el órgano supremo y representativo del Gobierno
+Regional Huancavelica, que ejerce funciones normativas y fiscalizadoras, siendo la instancia donde se adoptan
+los más importantes acuerdos; tiene la facultad de ejercer su función normativa, fundamentalmente, para:
+Promover el Desarrollo Regional, Regular la Administración Regional y Fomentar la Participación Ciudadana.
+Que, mediante Oficio Nº 186-2024/GOB.REG.HVCNGGR-ORSyL, de fecha 17 de
+abril de 2024, el Director de la Oficina Regional de Supervisión y Liquidación, informa al pleno del Consejo
+Regional el estado situacional de los proyectos: "Mejoramiento de la capacidad operativa y resolutiva de los
+servicios del centro de salud de Pazos, distrito de Pazos, provincia de Tayacaja y departamento de
+Huancavelica", "Mejoramiento de los servicios de salud del centro de salud de Acostambo, distrito de
+Acostambo, provincia de Tayacaja y departamento de Huancavelica" y "Mejoramiento de los servicios de salud
+del centro de salud de San Isidro de Acobamba, en la localidad de San Isidro de Acobamba, distrito de San ·
+Marcos de Rocchacc, provincia de Tayacaja y departamento de Huancavelica", así como la transferencia de
+los 124 centros de salud a nivel regional. ·
+Que, el pleno del Consejo Regional advierte presuntas irregularidades en la
+ejecución de los precitados proyectos, por el cual acuerdas encargar a la Comisión Ordinaria de Desarrollo
+Social, el estudio y seguimiento al proceso de ejecución de los proyectos aludidos.
+·
+Que, conforme dispone el Artículo 39º de la Ley Nº 27867 - Ley Orgánica de
+gobiernos Regionales, los Acuerdos de Consejo Regional expresan la decisión de éste órgano sobre asuntos
+internos del Consejo Regional, de interés público, ciudadano o institucional o declara la voluntad de practicar
+un determinado acto o sujetarse a una conducta o nonna institucional.
+En uso de sus atribuciones conferidas por la Ley Orgánica de .los Gobierno
+Regionales el Consejo Regional;
+
+GOBIEQRNO REGIONAL DE
+HU ANCA VELICA
+
+CONSEJO REGIONAL
+
+AfDERDO DE CONSEJO REfi/ONAl
+Nº 085·2024·fi0/1REliDl'fA/fR
+Huancavelíca, 18 de abril de 2024.
+
+ACUERDA:
+ARTICULO PRIMERO. - ENCARGAR a la Comisión Ordinaria de Desarrollo
+Social, el estudio y seguimiento al proceso de ejecución de los de los Proyectos: "Mejoramiento de la capacidad
+operativa y resolutiva de los servicios del centro de salud de Pazos, distrito de Pazos, provincia de Tayacaja y
+departamento de Huancavelica", "Mejoramiento de los servicios de salud del centro de salud de Acostambo,
+distrito de Acostambo, provincia de Tayacaja y departamento de Huancavelica" y "Mejoramiento de los
+servicios de salud del centro de salud de San Isidro de Acobamba, en la localidad de San Isidro de Acobamba,
+distrito de San Marcos de Rocchacc, provincia de Tayacaja y departamento de Huancavelica", así como la
+transferencia de los 124 centros de salud a nivel regional.
+··
+
+~º R
+
+<v~
+tlf v
+
+G',:
+
+* CAR ,
+
+ARANA •
+
+,
+
+ARTICULO SEGUNDO. - OTORGAR el plazo de 30 días calendario para el
+g··;,b·o9~- .oAÑ •• ~ umplimiento del encargo a que se refiere él artículo precedente.
+:-S-c,s¡,:¡,,•
+:1~
+
+º-i-~
+
+_,;;~i:os~\,"'
+
+.
+
+·
+
+ARTÍCULO TERCERO. - COMUNÍQUESE el presente Acuerdo de Consejo
+
+A'J@ Regional a los interesados e instancias pertinentes para su cumplimiento conforme dispone.
+Regístrese, Publíquese y Cúmplase.
+
+//
+
+---
+
+Fuente: https://www.gob.pe/institucion/regionhuancavelica/normas-legales/6481280-85-2024-gob-reg-hvca-cr
+PDF: https://cdn.www.gob.pe/uploads/document/file/7646552/6481280-acuerdo-de-consejo-regional.pdf
