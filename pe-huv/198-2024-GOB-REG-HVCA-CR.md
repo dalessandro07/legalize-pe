@@ -14,4 +14,96 @@ gob_pe_slug: regionhuancavelica
 ---
 # Acuerdo Regional N.° 198-2024/GOB.REG-HVCA/CR
 
-*Fuente:* https://www.gob.pe/institucion/regionhuancavelica/normas-legales/6481164-198-2024-gob-reg-hvca-cr
+een Pee
+
+GOBIERNO REGIONAL DE
+HUANCAVELICA
+
+CONSEJO REGIONAL
+
+ACUERDO DE CONSEJO REGIONAL
+N’ 198-2024-GOB. REG. HVCA/CR
+
+Huancavelica, 14 de agosto de 2024.
+
+VISTO:
+
+El acta, del Consejo Regional de Huancavelica de Sesión Ordinaria, celebrada el
+14 de agosto de 2024, con el voto unánime de sus integrantes;
+
+CONSIDERANDO:
+
+Que, los Gobiemos Regionales tienen autonomía política, económica y
+administrativa en los asuntos de su competencia, conforme al Artículo 191° de la Constitución Política
+modificado por Ley N° 27680 — Ley de Reforma Constitucional, del Capítulo XIV del Titulo IV, sobre
+Descentralización, concordante con el Artículo 31° de la Ley N° 27783 - Ley de Bases de la
+Descentralización y con el Artículo 2° de la Ley N° 27867 - Ley Orgánica de Gobiernos Regionales.
+
+Que, los Artículos 188° y 192° de la Ley N° 27680 - Ley de Reforma
+Constitucional, Capitulo XIV del Titulo IV, sobre Descentralización, establecen que el objetivo fundamental
+de la descentralización como forma de organización democrática y de política permanente del Estado, es el
+desarrollo integral del país; debiendo los Gobiernos Regionales asumir competencias para promover el
+desarrollo social, político y económico en el ámbito regional.
+
+Que, el Consejo Regional es el órgano supremo y representativo del Gobierno
+Regional Huancavelica, que ejerce funciones normativas y fiscalizadoras, siendo la instancia donde se
+adoptan los más importantes acuerdos; tiene la facultad de ejercer su función normativa, fundamentalmente,
+para: Promover el Desarrollo Regional, Regular la Administración Regional y Fomentar la Participación
+Ciudadana.
+
+Que, mediante Oficio N° 008-2024-CCA-CC/P, de fecha 07 de agosto de 2024, el
+presidente de la comunidad campesina Anccara Cahua, del distrito de Julcamarca, provincia de Angaraes y
+departamento de Huancavelica, solicita al Gobierno Regional de Huancavelica, donación de materiales
+remanentes de obra, para la construcción del cerco perimétrico del cementerio de dicha comunidad campesina.
+
+\ Que mediante Informe N° 573-2024/GOB.REG.HVCA/OA-ETA, el responsable del
+
+' equipo de trabajo de almacén señala que resulta procedente efectuar el trámite para la atención de la solicitud
+*| de transferencia en calidad de donación de materiales remanentes de obra, a favor de la comunidad campesina
+Anccara Cahua, del distrito de Julcamarca, provincia de Angaraes y departamento de Huancavelica, bienes
+señalados en el precitado informe técnico y que forma parte integrante como anexo del presente acuerdo
+regional.
+
+Que, conforme dispone el Articulo 39° de la Ley N° 27867 — Ley Orgánica de
+Gobiemos Regionales, los Acuerdos de Consejo Regional expresan la decisión de este órgano sobre asuntos
+internos del Consejo Regional, de interés público, ciudadano o institucional o declara la voluntad de practicar
+un determinado acto o sujetarse a una conducta o norma institucional.
+
+En uso de sus atribuciones conferidas por la Ley Orgánica de los Gobiernos
+Regionales; el Consejo Regional;
+
+uu
+
+GOBIERNO REGIONAL DE
+HUANCAVELICA
+
+CONSEJO REGIONAL
+
+ACUERDO DE CONSEJO REGIONAL
+N° 198-2024-G0OB. REG.HVOA/CR
+
+Huancavelica, 14 de agosto de 2024.
+
+ACUERDA:
+
+ARTICULO PRIMERO. - APROBAR la transferencia en calidad de donación de
+materiales remanentes de obra del Gobiemo Regional de Huancavelica a favor de la comunidad campesina
+Anccara Cahua, del distrito de Julcamarca, provincia de Angaraes y departamento de Huancavelica, bienes
+señalados en el precitado informe N° 573-2024/GOB.REG.HVCA/ORA-OA/ETA, de fecha 09 de agosto de
+2024, y que forma parte integrante como anexo del presente acuerdo regional.
+
+ARTÍCULO SEGUNDO. - COMUNÍQUESE el presente Acuerdo de Consejo
+Regional al Ejecutivo Regional, e instancias pertinentes.
+
+Regístrese, Publíquese y Cúmplase.
+
+for 7 > BRNÁ HE Sl [NAL
+IS CONSEJO
+li REGIONAL !
+
+SELLA PRESIDENTE DEL CONSEJO REGIONAL
+
+---
+
+Fuente: https://www.gob.pe/institucion/regionhuancavelica/normas-legales/6481164-198-2024-gob-reg-hvca-cr
+PDF: https://cdn.www.gob.pe/uploads/document/file/7646429/6481164-acuerdo-de-consejo-regional.pdf
