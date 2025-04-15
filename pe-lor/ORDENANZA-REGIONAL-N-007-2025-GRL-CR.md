@@ -14,4 +14,223 @@ gob_pe_slug: regionloreto
 ---
 # Ordenanza Regional N.° ORDENANZA REGIONAL N.° 007-2025-GRL-CR
 
-*Fuente:* https://www.gob.pe/institucion/regionloreto/normas-legales/6727347-ordenanza-regional-n-007-2025-grl-cr
+"Año de la Recuperación y Consolidación de la Economía Peruana"
+
+CONSEJO REGIONAL DE LORETO tg pal ria ar nd
+
+ORDENANZA REGIONAL Nro. 007-2025-GRL-CR
+
+Iquitos, 15 de abril de 2025
+
+EL CONSEJO REGIONAL DE LORETO
+POR CUANTO:
+
+El Consejo Regional del Gobierno Regional de Loreto, en Sesión Extraordinaria de
+fecha 15 de abril de 2025, en uso de sus atribuciones y funciones, de conformidad
+con lo previsto en los Artículos 191° de la Constitución Política del Perú, Ley de
+Bases de Descentralización Nro. 27783 y la Ley Orgánica de Gobiernos Regionales
+Nro. 27867; y luego de la revisión, análisis y evaluación del Proyecto de Ordenanza
+Regional, que sustenta y aprueba que aprueba la “AMPLIACIÓN DE VIGENCIA DE
+LA ORDENANZA REGIONAL 016-2019-GRL-CR de fecha 10 de octubre del 2019
+que aprueba el PROGRAMA ESPECIAL DE REGULARIZACION DE DEUDAS
+PERD”, para el periodo enero 2025 - diciembre 2026; todo ello con la finalidad de
+incentivar el pago de las acreencias a favor del Gobierno Regional de Loreto; y
+estando al contenido de los informes técnicos y legales favorables, que se adjuntan
+en el expediente, se acordó por unanimidad, aprobar la Ordenanza Regional
+siguiente:
+
+CONSIDERANDO:
+
+? Que, el artículo 191° de la Constitución Política del Perú, concordante con los
+* artículos 2° y 3° de la Ley N° 27867, Ley Orgánica de Gobiernos Regionales,
+establece que, los Gobiernos Regionales emanan de la voluntad popular. Son
+personas jurídicas de derecho público, con autonomía política, económica y
+financiera, un pliego presupuestal y que tiene jurisdicción en el ámbito de sus
+respectivas circunscripciones territoriales conforme a Ley.
+
+Que, así mismo el artículo 192” de la Constitución, establece que los Gobiernos
+Regionales, promueven el desarrollo y la economía regional en armonía con las
+políticas y planes nacionales y locales de desarrollo.
+
+Que, conforme lo establece el inciso g) del artículo 9° de la Ley Orgánica de
+Gobiernos Regionales, los Gobiernos Regionales son competentes para: “Promover
+y regular actividades y/o servicios en materia de agricultura, pesquería, industria,
+agroindustria, comercio, turismo, energía, minería, vialidad, comunicaciones,
+educación, salud y medio ambiente, conforme a Ley”.
+
+Que, de conformidad con el artículo 38° las ordenanzas Regionales norman asuntos
+de carácter general, la organización y la administración del Gobierno Regional y
+reglamentan materia de su competencia.
+
+Que, el artículo 42° establece la publicidad de las normas regionales; las mismas
+que son de alcance general y obligatoria desde el día siguiente de su publicación en
+el diario oficial el peruano (...) además en el diario encargado de las publicaciones
+judiciales en la capital de la Región. Debe incluirse además en el portal electrónico
+del Gobierno Regional.
+
+Que, en nuestro estado unitario y descentralizado, la descentralización adquiere
+una manifestación político normativa, fundada en el principio de autonomía, por lo
+que, en el caso de los Gobiernos Regionales, estos ostentan la facultad de crear
+derecho y legislar, y no solo de ejecutarlo; precisamente por ello se hace necesaria
+
+"Año de la Recuperación y Consolidación de la Economía Peruana"
+
+CONSEJO REGIONAL DE LORETO tg Fp Arola fra nde
+
+ORDENANZA REGIONAL Nro. 007-2025-GRL-CR
+
+la revisión y adecuación respecto a la gestión descentralizada que le toca
+desempeñar al Gobierno Regional de Loreto, en tal sentido debe dictar las medidas
+más convenientes para potenciar el desarrollo integral y sostenible de nuestra
+región.
+
+Que, mediante Ley N° 24300 (Ley de distribución de Canon y sobre canon Petrolero
+de Loreto) se establece, el uso del 12% para el fondo destinado a créditos
+promocionales a favor de la agricultura.
+
+Que, mediante Ley N” 31934 (que modifica la ley 24300 a fin de mejorar la
+distribución de Canon y sobre canon Petrolero de Loreto) desaparece el uso del 12%
+para créditos promocionales a favor de la agricultura.
+
+Que, mediante Ley N° 26385 se autoriza a las Regiones de Loreto y Ucayali a
+disponer integramente de los fondos acumulados destinados a Programas
+Promocionales de Crédito a Productores Agrarios, Pecuarios y Pesqueros.
+
+Que, mediante Ley N° 29264 “Ley de la Reestructuración de la Deuda Agraria” se
+, establece el Programa de Reestructuración de la Deuda Agraria (PREDA), destinado
++ a crear los mecanismos necesarios para reestructurar las deudas generadas por
+créditos agropecuarios vencidos, otorgados por Entidades del Estado, de acuerdo
+con los términos y condiciones que señala la citada ley. En donde en su artículo 3°
+determinación de la deuda, para los efectos de la presente ley, se entiende como
+deuda a la que se encuentra vencida al 31 de diciembre del 2007, determinada por
+el capital principal, excluyéndose los intereses, moras y demás gastos devengados.
+Asimismo, en su artículo 6” refiere, la refinanciación se aplica a las deudas
+superiores al monto señalado en el artículo 5” otorgándose como plazo máximo de
+pago, sin intereses, hasta 5 años para su cancelación total definitiva.
+
+Mediante Decreto de Urgencia N° 009-2010, de fecha 10 febrero 2010, señala en su
+artículo 3” determinación de la Deuda; para efectos del artículo 3° de la Ley 29264,
+la deuda vencida al 31 de diciembre del 2007, comprende exclusivamente las
+deudas contabilizadas vencidas y en cobranza judicial, de acuerdo a las
+disposiciones establecidas por la Superintendencia de Banca y Seguros y
+Administradora de fondos de Pensiones, y que a la fecha de su acogimiento al
+PREDA se encuentren en alguna de dichas condiciones.
+
+Que, mediante Ley 29596 “ Ley que viabiliza la ejecución del Programa de
+Reestructuración de la Deuda Agraria (PREDA), en su artículo 4”.- modificación de
+los artículo 2 y 5 del Decreto de Urgencia N” 009-2010 (...) artículo 2 Determinación
+de la Deuda.- para efectos del artículo 3” de la Ley 29264 Ley de Reestructuración
+de la Deuda Agraria, se considera la deuda vencida al 31 de diciembre del 2009,
+exclusivamente las deudas contabilizadas vencidas y/o en cobranza judicial, de
+acuerdo a las disposiciones establecidas por la Superintendencia de Banca y
+Seguros y Administradora de fondos de Pensiones, y que a la fecha de su
+acogimiento al Programa de Reestructuración de la Deuda Agraria (PREDA) se
+encuentre en alguna de estas condiciones.
+
+Que, mediante Ley N° 30573 “Ley de Reestructuración Agraria Especial” (RAES),
+tiene por objeto brindar facilidades financieras a los productores agropecuarios que
+han sido afectados por los desastres naturales y que se encuentran en las zonas
+declaradas en estado de emergencia por el fenómeno del niño costero, que tienen
+
+"Año de la Recuperación y Consolidación de la Economía Peruana"
+
+CONSEJO REGIONAL DE LORETO Aug pi Aral hired! inde
+
+ORDENANZA REGIONAL Nro. 007-2025-GRL-CR
+
+deudas vencidas con las instituciones del sistema financieros reguladas por la
+Superintendencia de Banca y Seguros y AFP (IFIs); asi como disponer la extinción
+de las deudas pendientes de pago en el marco del Programa de Reestructuración de
+la Deuda Agraria (PREDA), en donde en su artículo 4° .- Elegibilidad, Exclusión y
+Plazo, 4.2.- el plazo de acogimiento de las solicitudes al RAES vence el 31 de
+diciembre del 2017. Disposiciones Finales. Primera. - Extinción del PREDA. -
+estableciéndose la extinción de las deudas vigentes del Programa de
+Reestructuración de la Deuda Agraria (PREDA), aprobado mediante Ley N° 29264 y
+sus normas modificatorias quedando dicho programa extinguido.
+
+Que, mediante Ordenanza Regional N° 016-2019-GRL-CR, de fecha 10 de octubre
+del 2019, se aprobó el Programa Especial de Regularización de Deudas - PERD -
+destinado a establecer los mecanismos y facilidades para regularizar créditos
+agrarios, pesqueros, acuícolas, pecuarios entre otros, otorgados a través de los
+Programas de Créditos, así como Multas Administrativas generadas por las
+dependencias del Gobierno Regional de Loreto, de acuerdo a los términos y
+condiciones que se establecen en la presente ordenanza regional
+
+Que, consciente del rol preponderante que cumple el Gobierno Regional de Loreto,
+en el desarrollo sostenible de nuestra región, es importante incentivar el pago de
+eh los créditos otorgados a los productores de los sectores agrario, pesquero,
+
+pecuario, asi como el pago de las multas administrativas es por ello que se
+hace necesario contar con el marco normativo vigente que permita a todos los
+productores de la Región Loreto contar con facilidades y mecanismos de pago
+respecto de los créditos recibidos oportunamente, siendo una de ellas la
+regularización de las deudas vencidas, ello permitirá que los productores que por
+diferentes motivos no pudieron pagar oportunamente, puedan hacerlo a través de
+esta ordenanza.
+
+Que, mediante Informe Legal N° 225-2025-GRL-GGR-ORAJ, de fecha 12 marzo del
+año 2025, el Gerente Regional de Asesoría Jurídica remite el expediente
+administrativo en la cual se pronuncia y opina que es PROCEDENTE que el Consejo
+Regional apruebe la Ampliación del Plazo de vigencia de la Ordenanza Regional N°
+016-2019-GRL-CR, que regula el Programa Especial de Regularización de Deudas -
+a PERD - para el periodo enero 2025 - diciembre 2026, de conformidad con el artículo
+2} 15° de la Ley Orgánica de Gobiernos Regionales - Ley N° 27867 y su modificatoria.
+
+Que, de conformidad con los artículos 37” y 38° de la Ley Orgánica de Gobiernos
+Regionales, los Gobiernos Regionales a través de sus órganos de Gobierno dictan
+las normas y disposiciones, como las Ordenanzas Regionales que norman asuntos
+de carácter general, la administración y organización del Gobierno Regional y
+reglamentan materias de su competencia,
+
+Que, de conformidad al parágrafo a) del artículo 37° de la Ley Organica de Gobiernos
+Regionales y con la lectura y aprobación del Acta; se aprobó por MAYORIA la
+Ordenanza Regional.
+
+ORDENANZA REGIONAL:
+
+ARTÍCULO PRIMERO. - AMPLIAR, la vigencia de la Ordenanza Regional N° 016-
+2019-GRL-CR, de fecha 10 de octubre del 2019; que regula y aprueba el Programa
+
+"Año de la Recuperación y Consolidación de la Economía Peruana"
+
+CONSEJO REGIONAL DE LORETO
+
+Saque oca, ri ral nd
+
+CONSEJO REGIONAL
+
+ORDENANZA REGIONAL Nro. 007-2025-GRL-CR
+
+Especial de Regularización de Deudas - PERD - para el periodo enero 2025 -
+diciembre 2026
+
+ARTÍCULO SEGUNDO.- ENCARGAR a la Secretaría del Consejo Regional de Loreto,
+disponer la publicación de la presente Ordenanza Regional y el TUPA en el Diario
+de mayor circulación de la Región y en el Diario Oficial El Peruano, así como en el
+portal web del Gobierno Regional de Loreto: www.regionloreto.gob.pe. Asimismo,
+encargar a la Oficina de Imagen Institucional del Gobierno Regional de Loreto la
+difusión de la presente norma en todo el departamento de Loreto.
+
+ARTÍCULO TERCERO: La presente Ordenanza Regional entrará en vigencia a partir
+del día siguiente de su publicación.
+
+PENES
+
+ING. RIBELINO A RODRIGUEZ
+CONSEJERO DELEGADO
+
+POR TANTO:
+
+De conformidad con lo establecido en los Artículos 16°,21° Inc. 0), 37° Inc. a) y 38°
+de la Ley Nro. 27867 - Ley Orgánica de Gobiernos Regionales y sus modificatorias,
+las Leyes Nro. 27902, 28013, 28926, 28961, 28968 y 29053, concordante con el
+Inc. o) del Artículo 13° del Reglamento de Organización y Funciones del Gobierno
+Regional de Loreto, aprobado mediante Ordenanza Regional Nro. 002-2010-GRL-CR
+de fecha 08 de enero de 2010.
+
+Regístrese, Publíquese y Cúmplase.
+
+---
+
+Fuente: https://www.gob.pe/institucion/regionloreto/normas-legales/6727347-ordenanza-regional-n-007-2025-grl-cr
+PDF: https://cdn.www.gob.pe/uploads/document/file/8006671/6727347-ordenanza-regional-n-007-2025-grl-cr.pdf
