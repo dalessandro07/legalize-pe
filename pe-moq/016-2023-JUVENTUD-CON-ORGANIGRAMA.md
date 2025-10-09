@@ -14,4 +14,344 @@ gob_pe_slug: regionmoquegua
 ---
 # Ordenanza Regional N.° 016-2023 JUVENTUD CON ORGANIGRAMA
 
-*Fuente:* https://www.gob.pe/institucion/regionmoquegua/normas-legales/7288386-016-2023-juventud-con-organigrama
+ns
+
+Be a] ORDENANZA REGIONAL
+GOBIERNO REGIONAL DE N° : 16- 2023-CR/GRM
+CONSEJO REGIONAL Fecha : 18-09-2023
+POR CUANTO:
+
+El Consejo Regional del Gobierno Regional de Moquegua en la Sesión de Consejo
+Regional celebrada a los 18 días de setiembre del 2023, ha aprobado la modificación del
+Reglamento de Organización y Funciones (ROF) del Gobierno Regional de Moquegua;
+
+CONSIDERANDO:
+
+Que, los Gobiernos Regionales emanan de la voluntad popular, son personas jurídicas de
+derecho público, y gozan de autonomía política, económica y administrativa en los asuntos de su
+competencia, de acuerdo a lo prescrito en el artículo 191 de la Constitución Política del Perú
+concordante con el artículo 2 de la Ley Orgánica de Gobiernos Regionales;
+
+Que, las Ordenanzas Regionales norman la organización del Gobierno Regional y
+reglamentan materias de su competencia, según lo establecido en el artículo 38 de la Ley Orgánica
+de Gobiernos Regionales. En este orden de ideas mediante Ordenanza N° 011-2021-GRM/CR se
+aprobó el Reglamento de Organización y Funciones (ROF) del Gobierno Regional de Moquegua
+(GRM);
+
+Que, mediante Informe N° 103-2023-GRM-GRDS de la Gerencia de Desarrollo Social nos
+informa que se evidencia que el volumen de solicitudes y trámites es bastante mayor por la gran
+cantidad de población objetivo involucrada, y a los cuales hay que atender con una gran cantidad
+de acciones y servicios, para que ellos puedan hacer efectivo sus derechos, y en consecuencia
+resulta necesario que se diseñe un modelo organizacional que pueda mejor responder a esta gran
+cantidad de trámites y acciones que demanda este proceso de promoción del ejercicio y defensa
+de los derechos de la juventud;
+
+Que, a mayor abundamiento, señala este informe que, según la Política Nacional de la
+Juventud, el universo de jóvenes representa al 24.9% de la población total, según las cifras
+oficiales, es decir es el mayor grupo poblacional, según grupo etáreo y; por lo tanto, hay una mayor
+demanda y volumen de solicitudes y trámites, y mayor número de acciones y servicios que prestar
+al segmento mayoritario de la población;
+
+Que, se indica en dicho informe que los jóvenes tienen derecho al libre desarrollo y
+bienestar (Art. 2.1 y 2.2 de la Constitución) así como al fortalecimiento del civismo y la seguridad
+ciudadana; a la promoción de la igualdad de oportunidades sin discriminación; al acceso a una
+educación pública gratuita y de calidad y promoción y defensa de la cultura y del deporte; al acceso
+universal a los servicios de salud y a la seguridad social, al acceso al empleo pleno, digno y
+productivo; al fortalecimiento de la familia y; a la protección y promoción de la juventud (Políticas
+de Estado 7, 11, 12, 13, 14 y 16), y otros reconocidos en la Ley de Salud Mental, la Ley para
+prevenir, sancionar y erradicar la violencia contra los integrantes del grupo familiar, la Ley de
+Elecciones Municipales y la Ley de Elecciones Regionales, entre otros derechos y por eso
+requieren un mayor número de servicios, para poder hacerlos efectivos;
+
+Que, se señala asimismo en este informe que, los riesgos que enfrenta la juventud, afectan
+las oportunidades de desarrollo que garantizan su inclusión en la sociedad, perjudicando la
+consolidación de sus proyectos personales y la transferencia de capacidades. Es decir, la etapa
+de joven es decisiva para fortalecer y ampliar las oportunidades de bienestar de las personas. Por
+eso en la Ley 27802, se ha establecido el derecho a la protección efectiva del Estado para el
+ejercicio o defensa de los derechos del Joven, en este caso el Estado representado por el Gobierno
+Regional de Moquegua, está en la obligación de promover la protección efectiva para el ejercicio
+o defensa de los derechos del Joven, de acuerdo a sus competencias;
+
+Que, actualmente las funciones de la Juventud se encuentran asignadas a la Subgerencia
+de Desarrollo Social e Inclusión, esta Subgerencia es responsable además de los procesos de la
+juventud, también de definir, normar, dirigir y gestionar políticas y acciones necesarias para el
+
+en
+
+bd ORDENANZA REGIONAL
+A N*  :16- 2023-CR/GRM
+CONSEJO REGIONAL Fecha : 18-09-2023
+
+desarrollo e inclusión social de las personas en situación de vulnerabilidad, segmento de personas
+con discapacidad, segmento de personas adulto mayor, segmento de mujeres en situación de
+violencia o contra los integrantes del grupo familiar, violencia sexual, segmento de personas en
+situación de abandono o peligro inminente, segmento de personas en Programas de Lucha contra
+la Pobreza, segmento de personas de comunidades campesinas, procesos de Equidad de género,
+Cultura de Paz y participación de Organizaciones Sociales, entre otros;
+
+Que, todo este universo de segmentos poblacionales cuyos servicios son atendidos por la
+Subgerencia de Desarrollo e Inclusión Social, y aunque se ha evidenciado algunos logros en
+materia de juventud, aún queda mucho por hacer porque hay que asegurar la prestación de todos
+los servicios para esta gran cantidad de población joven que existe en toda la Región Moquegua y
+que hay que garantizar de manera adecuada, por lo que es urgente que se diseñe un modelo
+organizacional que pueda mejor responder a esta gran cantidad de trámites y acciones que
+demanda este proceso de promoción del ejercicio y defensa de los derechos de la juventud;
+
+Que, por su parte doctrinariamente, el diseño organizacional es “El proceso de elección de
+la estructura más adecuada para realizar un conjunto de funciones según la estrategia y el entorno
+de una organización” (pág. 2 Lineamientos N° 02-2020-SGP). Es decir, es el proceso de elegir el
+modelo de estructura y organización más adecuado para el cumplimiento de sus funciones, este
+modelo debe satisfacer las necesidades y expectativas de su población, en este caso de la
+población joven, que es la mayoritaria, según la clasificación por grupo etáreo;
+
+Que, son atribuciones del Consejo Regional aprobar, modificar o derogar las normas que
+regulen los asuntos y materias de competencia y funciones del Gobierno Regional, según lo
+estipulado en el Artículo 15.a de la Ley Orgánica de Gobierno Regionales;
+
+Que, los Lineamientos de Organización del Estado (LOE) aprobados mediante D.S. N°
+054-2018-PCM son las normas que regulan la forma en que se Organizan y Estructuran las
+Entidades del Estado y la regulación de la modificación del Reglamento de Organización y
+Funciones del Estado (ROF) en específico;
+
+Que, mediante Informe Presupuestal N° 676-2023-GRM/GRPPAT-SOMI de la
+Subgerencia de Presupuesto emite informe presupuestal sobre alternativa para el personal de la
+Subgerencia de la Juventud;
+
+Que, mediante Informe Técnico N° 090-2023-GRM/GRPPAT-SOMI de la Subgerencia de
+Organización y Modernización Institucional se concluye que desde las normas de organización y
+funcionamiento resulta procedente la modificación ROF del Gobierno Regional de Moquegua, en
+cuanto a la creación de la Subgerencia de la Juventud;
+
+Que, mediante Informe Legal N° 506-2023-GRM/GGR/ORAJ de la Oficina Regional de
+Asesoría Jurídica, se concluye que resulta procedente la propuesta modificación del Reglamento
+de Organización y Funciones Gobierno Regional de Moquegua, en cuanto a la creación de la
+Subgerencia de la Juventud;
+
+Que, mediante Informe N° 183-2023-GRM/GGR el Gerente General Regional remite al
+Consejo Regional el expediente de propuesta de modificación del ROF del GRM, concluyendo que
+resulta necesario la aprobación de la modificación del ROF del Gobierno Regional Moquegua, toda
+vez que cuenta con el informe técnico y legal favorable que determinan su procedencia para ser
+aprobado mediante Ordenanza Regional;
+
+Por lo expuesto y estando a las atribuciones conferidas por la Constitución Política del
+Estado, La Ley Orgánica de Gobiernos Regionales, el Dictamen de la Comisión, y lo establecido
+
+en
+ORDENANZA REGIONAL
+
+GOBIERNO REGIONAL DE N° : 1 6- 2023-C RIG RM
+CONSEJO REGIONAL Fecha : 18-09-2023
+
+en los Lineamientos de Organización del Estado aprobado por DS 054-2018-PCM, el Consejo
+Regional ha aprobado la siguiente:
+
+ORDENANZA REGIONAL QUE APRUEBA LA MODIFICACIÓN DEL REGLAMENTO DE
+ORGANIZACIÓN Y FUNCIONES (ROF) DEL GOBIERNO REGIONAL DE MOQUEGUA
+
+NO RES
+fi y A ARTÍCULO PRIMERO. - INCORPÓRESE los artículos 99-A y 99-B al Reglamento de
+ORE RYAC ia Organización y Funciones (ROF) del Gobierno Regional Moquegua, aprobado por Ordenanza
+L) Regional Nro. 011-2021-CR/GRM, debiendo quedar redactado de la siguiente manera:
+“Artículo 99-A.- La Subgerencia de la Juventud es la unidad orgánica responsable de definir,
+normar, dirigir y gestionar políticas y acciones necesarias para el desarrollo integral de la
+Juventud, conforme a las competencias del Gobierno Regional. Depende jerárquica, funcional
+y administrativamente de la Gerencia Regional de Desarrollo Social.
+
+Artículo 99-B.- Son funciones de la Subgerencia de la Juventud
+
+1. Formular y proponer las políticas y estrategias relacionadas con el desarrollo integral de la
+juventud.
+
+2. Promover el desarrollo integral de la juventud para el logro de su bienestar físico,
+psicológico, social y espiritual, así como, el cultivo de valores éticos y morales y la
+participación activa en la vida política, social, cultural y económica en la región.
+
+3. Promover las oportunidades de vinculación laboral de los jóvenes y el desarrollo de
+programas de emprendimiento y generación de ingresos, principalmente a través de la
+formación y capacitación para el trabajo y la implementación de iniciativas productivas.
+
+4. Formular planes y proponer la formulación de programas y proyectos que atiendan las
+demandas y aspiraciones de la juventud desde una visión regional, canalizarlos a través
+de las distintas instancias públicas, privadas o de la Cooperación Técnica Internacional,
+así como, monitorear, informar y evaluar su desarrollo e implementación.
+
+5. Ejecutar programas juveniles que conduzcan al desarrollo social, económico, político y
+cultural como actores protagónicos de las iniciativas, sin discriminación alguna por razón
+de raza, sexo, idioma, religión, opinión, condición económica, social, educativa, cultural,
+étnica, discapacidad física, mental y/o condición de riesgo social, cuyos logros deben ser
+reconocidos por el Estado.
+
+6. Ejercer la Secretaría Técnica del Consejo Regional de la Juventud (COREJU), brindándole
+asistencia técnica y logística, y apoyando las gestiones administrativas y a los acuerdos y
+el plan de trabajo del COREJU y demás funciones de acuerdo a la normatividad vigente.
+
+7. Promover y fortalecer en coordinación con las entidades públicas y organizaciones de la
+sociedad civil, los mecanismos de participación de la juventud organizada; promoviendo
+actividades de carácter recreativo, deportivo, artístico, cultural, social y otros para lograr
+una participación sana y efectiva que contribuya al desarrollo espiritual, físico, psicológico
+y social de la población joven.
+
+8. Promover la creación de organizaciones de jóvenes y apoyar en las gestiones para su
+inscripción en el registro correspondiente.
+
+9. Elaborar y evaluar su plan operativo correspondiente.
+
+10. Otras funciones que le asigne el superior.”
+
+ARTÍCULO SEGUNDO: DEROGAR los incisos 11 y 12 del Artículo 98° del Reglamento de
+Organización y Funciones (ROF) del Gobierno Regional Moquegua, aprobado por Ordenanza
+Regional Nro. 011-2021-CR/GRM.
+
+ARTÍCULO TERCERO. - MODIFICAR el Artículo 99° del Reglamento de Organización y
+Funciones (ROF) del Gobierno Regional Moquegua, aprobado por Ordenanza Regional Nro. 011-
+2021-CR/GRM, debiendo quedar redactado de la siguiente manera:
+
+a ORDENANZA REGIONAL
+
+eee NOQUEGUA aia N° : 16- 2023-CR/GRM
+CONSEJO REGIONAL Fecha : 18-09-2023
+
+“Artículo 99°.- Para el mejor cumplimiento de sus funciones, la Subgerencia de Desarrollo e
+Inclusión Social contará con las Sub unidades orgánicas no estructuradas de niñas, niños y
+adolescentes; de violencia contra la mujer; de personas con discapacidad; de adulto mayor y
+de comunidades campesinas.”
+
+ARTÍCULO CUARTO. - APROBAR la modificación de ta Estructura Orgánica y
+Organigrama Estructural del Gobierno Regional de Moquegua, conforme a las disposiciones de la
+presente Ordenanza Regional.
+
+ARTÍCULO QUINTO. - DEJAR SIN EFECTO las normas que se opongan a la presente
+ordenanza.
+
+ARTÍCULO SEXTO. - La presente Ordenanza entrará en vigencia al día siguiente de su
+publicación en el Diario Oficial El Peruano y el portal Web del Gobierno Regional de Moquegua.
+
+Comuníquese a la Señorita Gobernadora del Gobierno Regional de Moquegua para su
+promulgación.
+
+Dado en la Sede del Gobierno Regional de Moquegua, a los dieciocho días del mes de
+setiembre del dos mil veintitrés.
+
+REGÍSTRESE, COMUNÍQUESE Y CÚMPLASE
+
+ESG. GABRIELA ANDRADE PALOMO
+CONSEJERA DELEGADA
+
+=
+
+\ GOSIERNO
+REGIONAL
+
+\ >
+
+Sonus
+
+POR TANTO:
+MANDO SE REGISTRE, PUBLIQUE Y CUMPLA
+
+Dado en la Sede Central del Gobierno Regional de Moquegua, a los diez dias del mes de octubre del año
+dos mil veintitrés.
+
+( GOBERNACIÓN) =|
+REGIONAL
+
+ORGANIGRAMA DEL GOBIERNO REGIONAL DE MOQUEGUA
+
+ÓRGANOS CONSULTIVOS Y DE
+CONSEJO REGIONAL ¡LU te ee RO ÑO UA A AA AAA COORDINACIÓN
+GOBERNACIÓN REGIONAL
+OFIGNA REGIONAL DE
+DIÁLOGO Y PREVENCIÓN DE
+SECRETARIA DEL CONSEJO VICEGOBERNACIÓN REGIONAL SETS
+REGIONAL
+ÓRGANO DE CONTROL PROCURADURIA PÚBLICA.
+INSTITUCIONAL REGIONAL
+SECRETARIA GENERAL
+"OFICINA REGIONAL DE
+RELACIONES PÚBLICAS E
+IMAGEN INSTITUCIONAL
+GERENCIA GENERAL
+REGIONAL
+5 "OFICINA REGIONAL DE OFICINA REGIONAL DE GERENCIA REGIONALDE
+te SUPERVISIÓN Y LIQUIDACIÓN DE TECNOLOGIAS DE LA INFORMACION RANA REGIONALDS en CONDICIONAMIENTO
+INVERSIONES PÚBLICAS Y COMUNICACION ASESORÍA JURÍDICA. TERRITORIAL
+OFICINA DE LOGÍSTICA Y OFICINA DE CONTROL SUBGERENCIA DE
+SERVICIOS GENERALES PATRIMONIAL o PROGRAMACIÓN MULTIANUAL DE
+INVERSIONES
+OFICINA DE OFICINA DE RECURSOS
+SUBGERENCIA DE ORGANIZACIÓN
+CONTABILIDAD HUMANOS SUBGERENCIA DE PRESUPUESTO | | y ODERNIZACION INSTITUCIONAL
+OFICINA DE TESORERIA oy, SUBGERENCIA DE COOPERACIÓN
+ORDENAMIENTO TERRITORIAL TÉCNICA INTERNACIONAL
+[ I |
+GERENCIA REGIONAL DE GERENCIA REGIONAL DE GERENCIA REGIONAL DE GERENCIA REGIONAL DE
+5 DESARROLLO SOCIAL INFRA RECURSOS NATURALES Y
+DESARROLLO ECONÓMICO INFRAESTRUCTURA A
+SUBGERENCIA DE SUBGERENCIA DE
+|_| PROMOCIÓN DE LA i DESARROLLO E SUBGERENCIA DE SUBGERENCIA DE
+INVERSIÓN PRIVADA INCLUSIÓN SOCIAL ESTUDIOS Y PROYECTOS RECURSOS NATURALES
+SUBGERENTIA DE GESTION DET
+SUBGERENCIA DE LA SUBGERENCIA DE OBRAS RIESGO DE DESASTRES,
+
+JUVENTUD
+
+DIRECCIÓN REGIONAL DE
+COMERCIO EXTERIOR Y
+TURISMO
+
+DIRECCIÓN REGIONAL DE
+EDUCACIÓN
+
+DIRECCIÓN REGIONAL DE
+PRODUCCIÓN
+
+DIRECCIÓN REGIONAL DE
+SALUD
+
+DIRECCIÓN REGIONAL DE
+ENERGÍA Y MINAS
+
+DIRECCION REGIONAL DE
+VIVIENDA, CONSTRUCCIÓN
+
+x [ DIRECCION REGIONAL DE |
+once ll romoción
+DEL EMPLEO
+
+SEGURIDAD CIUDADANA Y
+DEFENSA NACIONAL
+
+SUBGERENCIA DE EQUIPO
+MECÁNICO
+
+SUBGERENCIA DE GESTIÓN
+AMBIENTAL
+
+DIRECCIÓN REGIONAL DE
+TRANSPORTES Y
+COMUNICACIONES.
+
+GERENCIA SUB REGIONAL
+DEILO
+
+GERENCIA SUB REGIONAL
+DE GENERAL SANCHEZ
+CERRO
+
+ARCHIVO REGIONAL
+
+ZONA ESPECIAL DE
+DESARROLLO- ZED ILO
+
+PROYECTO ESPECIAL
+REGIONAL PASTO
+GRANDE
+
+AUTORIDAD PORTUARIA
+REGIONAL DE
+MOQUEGUA
+
+---
+
+Fuente: https://www.gob.pe/institucion/regionmoquegua/normas-legales/7288386-016-2023-juventud-con-organigrama
+PDF: https://cdn.www.gob.pe/uploads/document/file/8827764/7288386-o-r-016-2023-juventud-con-organigrama.pdf
