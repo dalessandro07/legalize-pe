@@ -123,5 +123,5 @@ CONSEJO REGIONAL DE TACNA
 
 ---
 
-*Fuente:* https://www.gob.pe/institucion/regiontacna/normas-legales/7765337-001-2026-cr-gob-reg-tacna
-*PDF:* https://cdn.www.gob.pe/uploads/document/file/9484985/7765337-acuerdo-n-001-2026.pdf
+Fuente: https://www.gob.pe/institucion/regiontacna/normas-legales/7765337-001-2026-cr-gob-reg-tacna
+PDF: https://cdn.www.gob.pe/uploads/document/file/9484985/7765337-acuerdo-n-001-2026.pdf
