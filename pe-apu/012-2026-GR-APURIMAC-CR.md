@@ -14,4 +14,150 @@ gob_pe_slug: regionapurimac
 ---
 # Acuerdo de Consejo Regional N.° 012-2026-GR. APURIMAC/CR
 
-*Fuente:* https://www.gob.pe/institucion/regionapurimac/normas-legales/7925859-012-2026-gr-apurimac-cr
+GEPÚBLICA DEL PER,
+
+GOBIERNO REGIONAL DE APURIMAC
+
+CONSEJO REGIONAL
+“AÑO DE LA ESPERANZA Y EL FORTALECIMIENTO DE LA DEMOCRACIA”
+
+ACUERDO DEL CONSEJO REGIONAL N° 012-2026-GR. APURIMAC/CR.
+Abancay, 02 de marzo de 2026.
+
+EL CONSEJO REGIONAL DEL GOBIERNO REGIONAL DE APURIMAC
+
+POR CUANTO:
+
+En la Segunda Sesión Ordinaria del Consejo Regional del Gobierno Regional de
+Apurímac, realizada en la ciudad de Abancay el día veinticinco de febrero del año dos mil
+veintiséis, se debatió como punto de agenda el Proyecto de Acuerdo de Consejo
+Regional sobre aprobación del Plan de Trabajo para la Actividad de Fiscalización
+(PTAF) del proyecto denominado: “MEJORAMIENTO DEL SERVICIO EDUCATIVO
+DEL INSTITUTO DE EDUCACIÓN SUPERIOR TECNOLÓGICO PUBLICO DE
+HAQUIRA, DEL DISTRITO DE HAQUIRA, PROVINCIA DE COTABAMBAS -
+APURÍMAC”, CUI N° 2339909, de los periodos 2024 al 2025; y.
+
+CONSIDERANDO:
+
+Que, conforme a la Constitución Política del Perú, los Gobiernos Regionales gozan de
+autonomía política, económica y administrativa en los asuntos de su competencia;
+
+“Que, el artículo 4° de la Ley N° 27867 — Ley Orgánica de Gobiernos Regionales,
+Y establece que los Gobiernos Regionales tienen por finalidad esencial fomentar el
+desarrollo regional integral sostenible y garantizar el ejercicio pleno de los derechos de
+sus habitantes;
+
+Que, el artículo 13° de la citada Ley dispone que el Consejo Regional es el órgano
+normativo y fiscalizador del Gobierno Regional;
+
+Que, el artículo 15° literal k) y el artículo 16° literales b) y c) de la Ley N° 27867 reconocen
+como atribución del Consejo Regional y como derecho funcional de los consejeros
+regionales fiscalizar la gestión pública regional e integrar comisiones ordinarias,
+investigadoras o especiales;
+
+Que, la Ley N° 31433 fortalece las atribuciones y responsabilidades de los Consejos
+Regionales en el ejercicio de su función fiscalizadora; garantiza el financiamiento del
+ejercicio de la función fiscalizadora de los Consejos Regionales;
+
+Que, mediante OFICIO N° 44-2026-GORE-APURIMAC/01/CR-YCB, la Consejera
+Regional Yenifer Caceres Baltazar; solicitó la aprobación del Plan de Trabajo para la
+Actividad de Fiscalización (PTAF) proyecto denominado: “MEJORAMIENTO DEL
+SERVICIO EDUCATIVO DEL INSTITUTO DE EDUCACIÓN SUPERIOR
+TECNOLÓGICO PUBLICO DE HAQUIRA, DEL DISTRITO DE HAQUIRA, PROVINCIA
+DE COTABAMBAS - APURÍMAC”, CUI N° 2339909, de los periodos 2024 al 2025; con
+
+Jr. Puno N* 107- Abancay — Apurímac TELF. (083) 321126 — CENTRAL 321022 — ANEXO 139
+consejoregional regionapurimac.gob.pe
+
+REPÚBLICA DEL PER,
+
+GOBIERNO REGIONAL DE APURIMAC
+
+CONSEJO REGIONAL
+“AÑO DE LA ESPERANZA Y EL FORTALECIMIENTO DE LA DEMOCRACIA”
+
+un presupuesto S/. 24,014.00 (VEINTICUATRO MIL CATORCE 00/100 SOLES), con un
+plazo de ejecución de sesenta y dos días (62) días hábiles.
+
+Que, La justificación La actividad de fiscalización del proyecto “Mejoramiento del
+Servicio Educativo del Instituto de Educación Superior Tecnológico Público de
+Haquira” (CUI N.° 2339909), período 2024-2025, tiene como objetivo garantizar el uso
+eficiente, transparente y adecuado de los recursos públicos asignados. Asimismo,
+permite verificar que la ejecución del proyecto se realice conforme al expediente técnico,
+plazos, presupuesto y especificaciones establecidas, asegurando la calidad de la
+inversión. Esta acción contribuye al fortalecimiento de la educación superior tecnológica
+en Apurímac, beneficiando a estudiantes y docentes, y promoviendo el desarrollo
+educativo y socioeconómico de la región.
+
+Que, el Pleno del Consejo Regional, luego del debate correspondiente, consideró
+procedente aprobar el Plan de Trabajo para la Actividad de Fiscalización (PTAF), en el
+marco de sus competencias constitucionales y legales;
+
+Estando a lo expuesto, y en uso de las atribuciones conferidas por la Constitución Politica
+del Perú, la Ley N° 27867 y sus modificatorias, el Reglamento Interno del Consejo
+Regional, el Pleno del Consejo Regional, Aprueba con once (11) votos a favor, de los
+Consejeros Regionales: Petter Díaz Valer, Rosmey Quispe Vílchez, Karla Sadith Santa Cruz
+Vargas, Carlos Oscco Quispe, Jesús Alfredo Islachin Aquise, Benancio Quispe Pillaca,
+s/ Naysha Alexandra Prada García, Oscar Erasmo Paniura Navarro, Yenifer Caceres Baltazar.
+Jaime Osorio Aguilar, y Wildo Quispe Chipana, votos en contra cero (0) votos y con cero (0)
+Abstención, queda aprobado por Unanimidad, con dispensa del trámite de lectura y
+aprobación del acta;
+
+ACUERDA:
+
+ARTÍCULO PRIMERO. - APROBAR el Plan de Trabajo para la Actividad de Fiscalización
+(PTAF) del proyecto denominado: “MEJORAMIENTO DEL SERVICIO EDUCATIVO DEL
+INSTITUTO DE EDUCACIÓN SUPERIOR TECNOLÓGICO PUBLICO DE HAQUIRA,
+DEL DISTRITO DE HAQUIRA, PROVINCIA DE COTABAMBAS - APURÍMAC”, CUI N°
+2339909, de los periodos 2024 al 2025; con un presupuesto S/. 24,014.00
+(VEINTICUATRO MIL CATORCE 00/100 SOLES), con un plazo de ejecución de sesenta
+y dos días (62) días hábiles.
+
+ARTÍCULO SEGUNDO. - DESIGNAR como responsable de la ejecución de la actividad
+de fiscalización de la Consejera Regional por la provincia de Cotabambas Yenifer
+
+Caceres Baltazar.
+
+ARTÍCULO TERCERO. - REQUERIR al Ejecutivo Regional la asignación y habilitación
+presupuestal correspondiente, en cumplimiento de la Ley N° 31812, para la ejecución del
+Plan de Trabajo aprobado.
+
+Jr. Puno N* 107- Abancay — Apurímac TELF. (083) 321126 - CENTRAL 321022 — ANEXO 139
+consejoregional @regionapurimac.gob.pe
+
+REPÚBLICA DEL PE,
+
+(oy GOBIERNO REGIONAL DE APURIMAC
+
+CONSEJO REGIONAL
+“AÑO DE LA ESPERANZA Y EL FORTALECIMIENTO DE LA DEMOCRACIA”
+
+ARTÍCULO CUARTO. - ESTABLECER que el plazo de ejecución del Plan de Trabajo
+para la Actividad de Fiscalización (PTAF) será desde el 16 de marzo del 2026 hasta el 15
+
+de junio de 2026.
+
+ARTÍCULO QUINTO. - ENCARGAR al Gerente General Regional, a la Gerencia
+Regional de Planeamiento y Acondicionamiento Territorial y a las áreas competentes del
+Gobierno Regional de Apurímac el cumplimiento del presente Acuerdo, conforme a ley.
+ARTÍCULO SEXTO. - DISPONER la publicación del presente Acuerdo en el Portal
+Institucional del Gobierno Regional de Apurímac, conforme a lo establecido en la Ley N°
+27867.
+
+POR TANTO:
+
+Mando se registre, publique y cumpla.
+
+Dado en la ciudad de Abancay, sede central del Consejo Regional del Gobierno Regional
+de Apurímac, a los dos días del mes de marzo del año dos mil veintiséis.
+
+PRESIDENTE )
+CONSEJO REGIONAL APURIMAC
+
+Jr. Puno N* 107- Abancay — Apurímac TELF. (083) 321126 - CENTRAL 321022 — ANEXO 139
+consejoregional O regionapurimac.gob.pe
+
+---
+
+Fuente: https://www.gob.pe/institucion/regionapurimac/normas-legales/7925859-012-2026-gr-apurimac-cr
+PDF: https://cdn.www.gob.pe/uploads/document/file/9685670/7925859-acuerdo-del-consejo-regional-n-012-2026-gr-apurimac-cr.pdf
