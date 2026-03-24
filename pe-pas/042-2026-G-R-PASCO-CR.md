@@ -14,4 +14,129 @@ gob_pe_slug: regionpasco
 ---
 # Acuerdo de Consejo Regional N.° 042-2026-G.R.PASCO/CR
 
-*Fuente:* https://www.gob.pe/institucion/regionpasco/normas-legales/7936017-042-2026-g-r-pasco-cr
+ACUERDO M.* 42— 2026 - 6.R. PASCO/CR
+
+Cerro de Pasco, 24 de marzo del 2024,
+
+POR CUANTO:
+
+EL CONSEJÓ REGIONAL DEL GOBIERNO REGIONAL PASCO, en uso de las
+facultades establecidas por la Ley Orgánica de Gobiernos Regionales N.° 27867, y sus modificatorias, en
+sesión extraordinaria de fecha veinticuatro de marzo del presente año, por mayoría de los consejeros
+presentes se ha aprobado el Acuerdo Regional siguiente:
+
+VISTO:
+
+Et Oficio N.° 007-2026-GRP-CRICCC de fecha 17 de febrero de 2026; suscrito por cinco
+(05) consejeros regionales, presentaron Moción de interpelación en contra del Mg. Edgar Rolando Cóndor
+Melgarejo, en su condición de Director regional de Salud Pasco; Mediante Acuerdo N.” 034-2026-
+G.R.PASCOICR de fecha 17 de marzo de 2026, se aprueba la admisión del pedido de INTERPELACIÓN al
+mencionado funcionario; Oficio N.° 0363-2026-GRP/CR de fecha 19 de marzo de 2026; la Secretaria Técnica
+del Consejo Regional entregó el Pliego Interpelatorio al Director Regional de Salud Pasco;
+
+CONSIDERANDO:
+
+Que, de conformidad con lo establecido en el artículo 191° de la Constitución Política del
+Perú, modificado por la Ley de la Reforma Constitucional del Capitulo XIV del Título IV sobre Descentralización
+N° 27680, establece que los Gobiernos Regionales tienen autonomía politica, económica y administrativa en
+los asuntos de su competencia, (...) La estructura orgánica básica de estos gobiernos la conforman el Consejo
+Regional como órgano normativo y fiscalizador (...);
+
+Que, el artículo 13° de la Ley Orgánica de los Gobiernos Regionales- Ley N° 27867
+modificado por la Ley N° 29053, establece que el Consejo Regional: “Es el Órgano normativo y fiscalizador
+del Gobierno Regional. Le corresponde las funciones y atribuciones que se establece en la presente ley y
+aquellas que le sean delegadas (...)”:
+
+Que, el artículo 39° de la Ley N° 27867 - Ley Orgánica de Gobiernos Regionales
+concordante con lo previsto en el artículo 63° del Reglamento Interno de Consejo Regional establece: “Los
+Acuerdos Regionales expresan decisiones de carácter interno del Consejo Regional o a declarar su
+voluntad de practicar un determinado acto o sujetarse a una conducta o norma institucional”,
+
+Que, el articulo 15°, inciso k) de la Ley Orgánica de los Gobiernos Regionales- Ley N°
+27887, dispone que son atribuciones del Consejo Regional: “Fiscalizar ia gestión y conducta pública de los
+funcionarios del Gobierno Regional y, dentro de ello, llevar a cabo investigaciones sobre cualquier asunto de
+interés público regional”;
+
+Qué, el artículo 11° del Reglamento Interno de Consejo Regional de Pasco, expresamente
+refiere, el Pleno del Consejo Regional, tiene facultades para interpelar al Gerente General, los Gerentes
+Regionales, a los directores regionales Sectoriales y Gerentes de los proyectos especiales.
+
+El procedimiento de interpelación se desarrolla de acuerdo a las siguientes reglas:
+
+a. El pedido de interpelación. - deberá ser suscrito por lo menos por un tercio de los consejeros Regionales
+hábiles, y sustentado ante el pleno por el autor o representante del grupo de consejeros Regionales. Su
+admisión se efectúa indefectiblemente en la siguiente sesión a aquella en que se dio cuenta de la moción,
+para lo cual se requerirá contar con el voto aprobatorio por mayoría simple, para el caso del Gerente
+General y para los Gerentes Regionales, directores Sectoriales y directores de Proyectos Especiales la
+mayoría simple de los consejeros Regionales hábiles del Consejo Regional El pedido de interpelación
+tiene preferencia en la estación del Orden del Día.
+
+b. Formulación y absolución del Pliego Interpelatorio. - De ser aprobado ta moción de interpelación, el
+pleno del Consejo Regional acuerda día y hora para que el funcionario aludido conteste el pliego
+Interpelatorio, que será notificado observando el debido proceso y con anticipación. La interpelación se
+realizará entre el quinto y décimo día hábil de notificado al funcionario aludido, con el pliego de preguntas
+contenido en sobre cerrado mediante Oficio suscrito por el presidente del Consejo Regional; dicha
+notificación debe efectuarse de manera directa y personal y está a cargo del secretario del Consejo
+Regional, quién dará cuenta de la diligencia encomendada al presidente del Consejo Regional. La
+
+CONSEJO REGIONAL DE PASCO & os
+
+“Año de la Esperanza y el Fortalecimiento de la Democracia” **
+
+ACUERDO M.* 42— 2026 - €.R. PASCO/CR
+
+formulación del pliego interrogatorio, corresponde al consejero o consejeros regionales suscribientes de
+la iniciativa de interpelación y tendrá el carácter de reservado; y su absolución corresponde al funcionario
+cuestionado, quién de manera personal, presentando por escrito la respuesta documentadamente al pliego
+de interpelación en forma clara, precisa, sin ambigúedades y sobre el asunto que generó la interpelación;
+expondrá sus descargos ante el pleno del Consejo Regional.
+
+e. Voto de confianza o censura. - como resultado de la interpelación, el Consejo Regional fijara fecha
+próxima de sesión entre el 2° y el 5° día natural o calendario de realizada la interpelación, para someter
+a votación que requerirá de la mayoría absoluta de sus miembros (6 consejeros de10) o mayoría simple
+según corresponda, para dectarar la censura al funcionario interpelado, dando cuenta al Gobernador
+Regional. La censura obliga la renuncia automática al cargo de funcionario ante el Gobernador Regional,
+en caso de no formalizar dicha renuncia, al 5° dia del voto de censura, el presidente del Consejo Regional
+exhortará al Gobernador Regional dar por concluida el cargo de confianza y la designación inmediata al
+funcionario reemplazante. La censura del gerente general producirá que los gerentes regionales,
+directores sectoriales y directores de proyectos y/o programas, pongan su cargo a disposición de manera
+inmediata;
+
+Que, al amparo de la norma precitada y después de haber seguido el debido
+procedimiento, esto, se ejecutó el proceso interpelatorio al Director Regional de Salud Pasco, Mg. Edgar
+Rodolfo Cóndor Melgarejo, en merito al artículo 11° del Reglamento Interno de Consejo Regional de Pasco
+en los incisos A y B, en esa secuencia en sesión extraordinaria realizada el día veinticuatro de marzo del
+año dos mil veintiséis, el magno consejo regional de Pasco, aprueba por mayoría y con dispensa de lectura
+de acta, la programación de sesión de consejo regional extraordinario a desarrollarse de forma fisica y/o virtual
+(consejero regionales de Pasco), el día treinta de marzo del año dos mil veintiséis a horas 04:00 pm, a fin de
+desarrollar como único punto de agenda: el Director Regional de Salud Pasco Mg. Edgar Rodolfo Cóndor
+Melgarejo, en cumplimento del inciso C el artículo 11° del Reglamento Interno de Consejo Regional de Pasco,
+conteste el pliego Interpelatorio;
+
+En uso de las atribuciones conferidas por los artículos 9°, 10°, 11°, 15? y 37° de la Ley N°
+27867, Ley Orgánica de Gobiernos Regionales sus modificatorias y el Reglamento Interno del Consejo
+Regional de Pasco;
+
+ACUERDA:
+
+ARTICULO PRIMERO. - PROGRAMAR, sesión de consejo regional
+extraordinario a desarrollarse de forma física y/o virtual (consejeros regionales de Pasco), el día treinta de
+marzo del año dos mil veintiséis, a horas 04:00 pm, a fin de desarrollar como único punto de agenda: el
+director regional de Salud Pasco Mg. Edgar Rodolfo Cóndor Melgarejo, conteste el pliego
+Interpelatorio.
+
+ARTICULO SEGUNDO. - DISPENSAR el presente acuerdo del trámite de lectura y
+aprobación del acta respectiva.
+
+ARTICULO TERCERO. - PUBLICAR y DIFUNDIR el presente Acuerdo Regional de
+conformidad con el Artículo 42° de la Ley 27867- Ley Orgánica de los Gobiernos Regionales y sus
+modificatorias, así mismo disponer su inclusión en el portal electrónico del Gobierno Regional Pasco.
+
+POR TANTO:
+
+Mando se registre, publique y cumpla.
+
+---
+
+Fuente: https://www.gob.pe/institucion/regionpasco/normas-legales/7936017-042-2026-g-r-pasco-cr
+PDF: https://cdn.www.gob.pe/uploads/document/file/9699770/7936017-acuerdo-de-concejo-regional-n-042-2026-g-r-pasco-cr.pdf
