@@ -14,4 +14,87 @@ gob_pe_slug: regionarequipa
 ---
 # Acuerdo Regional N.° 100-2026-GRA/CR-AREQUIPA
 
-*Fuente:* https://www.gob.pe/institucion/regionarequipa/normas-legales/8099758-100-2026-gra-cr-arequipa
+GOBIERNO REGIONAL
+DE AREQUIPA
+
+gano ta
+
+CUERDO REGIONAL N*_100-2026 GRA/CR- Al UIPA
+Arequipa, 04 mayo del 2026.
+
+El Consejo Regional del Gobierno regional de Arequipa, en Sesión Ordinaria de fecha.
+28 de abril del 2026, aprobé el siguiente acuerdo;
+
+VISTOS:
+El Dictamen de Comisión N.° 012-2026-GRA/ CR-CS de la Comisión de Salud;
+
+CONSIDERANDO:
+
+Que, conforme establece el artículo 191° de la Constitución Política del Perú, los.
+Gobiernos Regionales tienen autonomía política, económica y administrativa en los
+asuntos de su competencia, concordante con el artículo 2° de la Ley N° 27867, texto
+normativo que señala que los Gobiernos Regionales emanan de la voluntad popular,:
+son personas jurídicas de derecho público, constituyendo, para sú administración
+económica y financiera, un Pliego Presupuestal.
+
+- Que, el artículo 39° de la Ley N° 27867, estipula que los acuerdos del Consejo: po
+
+Regional expresan la decisión de este órgano sobre asuntos internos del Consej
+
+318 Regional, de interés público, ciudadano o institucional o declara su voluntad de *..-. ¡a
+
+practicar un determinado acto o sujetarse a una conducta o norma institucional.
+
+Que, de conformidad al artículo 13° de la Ley N° 27867, modificado por el artículo -
+único de la Ley N° 29053, el Consejo Regional es el órgano normativo y fiscalizador : '
+del Gobierno Regional. a 0 oe
+
+Que, mediante Dictamen de Comisión N° 0012-2026-GRA/CR-CS, la Comisión de
+Salud, da cuenta del Informe de Fiscalización Unipersonal N° 008-2026-GRA/CRMSHT, remitido por la Consejera por la provincia de Arequipa María Socorro Herrera
+Terrazas, respecto a la visita al Puesto de Salud de Achoma, provincia de Caylloma, . ;
+. departamento de Arequipa. cane?
+
+Que, por estas consideraciones, al amparo de la Ley N°27867, Ley Organica‘ de... *
+Gobiernos Regionales, en observancia del marco legislativo regional constituido por...
+la Ordenanza Regional N°508-AREQUIPA y la Ordenanza Regional N*154-AREQUIPA
+y sus modificaciones; por UNANIMIDAD en Sesión Ordinaria de fecha 28 de abril
+del 2026, a
+
+SE ACUERDA:
+
+- PRIMERO: APROBAR, el Informe de Fiscalización Unipersonal N° 008-2026-
+GRA/CR-MSHT, remitido por la Consejera por la provincia de Arequipa María Socorro
+Herrera Terrazas, respecto a la visita al Puesto de Salud de Achoma, distrito de
+
+~ Achoma, provincia de Caylloma, departamento de Arequipa. aot
+
+SEGUNDO.- REMITIR copia del informe fiscalización y todo lo. actuado a la.
+
+Secretaria Técnica de Procedimiento Administrativo Disciplinario del Gobierno |
+Regional de Arequipa, para su. evaluación de inicio de diligencias preliminares en: -
+base a los hechos descritos en el informe citado de corresponder, *
+
+TERCERO.- REMITIR copia del informe fiscalización y todo lo actuado al Órgano
+de Control Institucional del Gobierno Regional de Arequipa, para su conocimiento y
+acciones que correspondan,
+
+CUARTO.- DISPONER, que la Gerencia Regional de Salud informe al Consejo.
+
+Regional, en un plazo no mayor de treinta (30) días hábiles, sobre las acciones
+adoptadas en cumplimiento del presente Acuerdo,
+
+QUINTO.- DERIVAR, copia del presente Acuerdo Regional y del Informe de
+Fiscalización Unipersonal N° 008-2026-GRA/CR-MSHT, a la Gerencia Regional de
+Salud del Gobierno Regional de Arequipa, para que adopte de forma urgente:
+acciones para atender las debilidades y deficiencias del Puesto de Salud de Achoma.
+
+SEXTO.- DISPONER, la publicación del presente acuerdo en la página web del
+Gobierno Regional de Arequipa.
+
+POR TANTO:
+Regístrese, publíquese y cúmplase.
+
+---
+
+Fuente: https://www.gob.pe/institucion/regionarequipa/normas-legales/8099758-100-2026-gra-cr-arequipa
+PDF: https://cdn.www.gob.pe/uploads/document/file/9927457/8099758-100-2026.pdf
