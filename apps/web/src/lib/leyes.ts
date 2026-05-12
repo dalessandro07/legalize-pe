@@ -14,6 +14,10 @@ export interface LeyFrontmatter {
   diarioOficial: string
   ocrProcessed?: boolean
   ocrQuality?: 'poor' | 'medium' | 'good'
+  materias?: string[]
+  sumilla?: string
+  fuenteAlternativa?: string
+  disclaimer?: boolean
 }
 
 export function parseFrontmatter(content: string): {
@@ -23,8 +27,31 @@ export function parseFrontmatter(content: string): {
   const parts = content.split(/^---\s*$/m)
   const yamlBlock = parts[1] ?? ''
   const body = parts.slice(2).join('---').trim()
-  const result: Record<string, string | boolean> = {}
-  for (const line of yamlBlock.split('\n')) {
+  const result: Record<string, string | boolean | string[]> = {}
+  const lines = yamlBlock.split('\n')
+
+  for (let i = 0; i < lines.length; i++) {
+    const line = lines[i]
+
+    // Handle empty arrays like: materias: []
+    const emptyArrayMatch = line.match(/^(\w+):\s*\[\]\s*$/)
+    if (emptyArrayMatch) {
+      result[emptyArrayMatch[1]] = []
+      continue
+    }
+
+    // Handle inline arrays like: materias: ["civil", "penal"]
+    const inlineArrayMatch = line.match(/^(\w+):\s*\[([^\]]*)\]\s*$/)
+    if (inlineArrayMatch) {
+      const items = inlineArrayMatch[2]
+        .split(',')
+        .map((s) => s.trim().replace(/^["']|["']$/g, ''))
+        .filter(Boolean)
+      result[inlineArrayMatch[1]] = items
+      continue
+    }
+
+    // Handle simple key: value pairs
     const match = line.match(/^(\w+):\s*"?([^"]*?)"?\s*$/)
     if (match) {
       const value = match[2].trim()
