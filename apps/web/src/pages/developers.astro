@@ -5,169 +5,87 @@ import Layout from '../layouts/Layout.astro'
 
 const BASE_URL = 'https://legalize.crafter.ing'
 
-const endpoints = [
-  {
-    method: 'GET',
-    path: '/api/normas',
-    description: 'Listar y buscar normas',
-    params: [
-      {
-        name: 'q',
-        type: 'string',
-        desc: 'Búsqueda por texto (título, contenido)',
-      },
-      {
-        name: 'rango',
-        type: 'string',
-        desc: 'Filtrar por rango (ley, decreto-legislativo, etc.)',
-      },
-      {
-        name: 'estado',
-        type: 'string',
-        desc: 'Filtrar por estado (vigente, derogado)',
-      },
-      {
-        name: 'limit',
-        type: 'number',
-        desc: 'Límite de resultados (default: 20, max: 100)',
-      },
-      { name: 'offset', type: 'number', desc: 'Offset para paginación' },
-    ],
-    example: `curl "${BASE_URL}/api/normas?q=bancos&limit=5"`,
-    response: `{
-  "data": [
-    {
-      "identificador": "ley-26702",
-      "titulo": "Ley General del Sistema Financiero",
-      "rango": "ley",
-      "estado": "vigente",
-      "fechaPublicacion": "1996-12-09"
-    }
-  ],
-  "total": 15,
-  "limit": 5,
-  "offset": 0
-}`,
-  },
-  {
-    method: 'GET',
-    path: '/api/normas/:id',
-    description: 'Obtener norma por identificador',
-    params: [
-      {
-        name: 'id',
-        type: 'string',
-        desc: 'Identificador único de la norma (ej: ley-26702)',
-      },
-    ],
-    example: `curl "${BASE_URL}/api/normas/dleg-295"`,
-    response: `{
-  "identificador": "dleg-295",
-  "titulo": "Código Civil",
-  "rango": "decreto-legislativo",
-  "estado": "vigente",
-  "fechaPublicacion": "1984-07-25",
-  "contenido": "# Código Civil\n\n## Título Preliminar..."
-}`,
-  },
+// Endpoints del sitio web (Git-based, disponibles en el frontend)
+const webEndpoints = [
   {
     method: 'GET',
     path: '/api/normas/:id/history',
-    description: 'Historial de cambios de una norma',
-    params: [{ name: 'id', type: 'string', desc: 'Identificador de la norma' }],
+    description: 'Historial de cambios de una norma (commits de Git)',
+    params: [{ name: 'id', type: 'string', desc: 'Identificador de la norma (ej: dleg-295)' }],
     example: `curl "${BASE_URL}/api/normas/dleg-295/history"`,
     response: `{
-  "commits": [
+  "data": [
     {
-      "hash": "abc123",
-      "date": "2024-01-15T10:30:00Z",
-      "message": "Actualización Art. 140",
-      "author": "Sistema SPIJ"
+      "hash": "abc1234567890",
+      "shortHash": "abc1234",
+      "authorDate": "2024-01-15T10:30:00Z",
+      "commitDate": "2024-01-15T10:30:00Z",
+      "message": "feat(leyes): actualización Código Civil Art. 140",
+      "subject": "feat(leyes): actualización Código Civil Art. 140"
     }
   ]
 }`,
   },
   {
     method: 'GET',
-    path: '/api/normas/:id/diff',
-    description: 'Diferencias entre versiones',
+    path: '/api/normas/:id/at/:commit',
+    description: 'Contenido de una norma en un commit específico',
     params: [
       { name: 'id', type: 'string', desc: 'Identificador de la norma' },
-      { name: 'from', type: 'string', desc: 'Commit inicial (opcional)' },
-      {
-        name: 'to',
-        type: 'string',
-        desc: 'Commit final (opcional, default: HEAD)',
-      },
+      { name: 'commit', type: 'string', desc: 'Hash del commit (7-40 caracteres)' },
     ],
-    example: `curl "${BASE_URL}/api/normas/dleg-295/diff?from=abc123"`,
+    example: `curl "${BASE_URL}/api/normas/dleg-295/at/abc1234"`,
     response: `{
-  "diff": "- Texto anterior\n+ Texto nuevo",
-  "from": "abc123",
-  "to": "def456"
-}`,
-  },
-  {
-    method: 'GET',
-    path: '/api/normas/por-fecha/:fecha',
-    description: 'Normas publicadas en una fecha específica',
-    params: [
-      { name: 'fecha', type: 'string', desc: 'Fecha en formato YYYY-MM-DD' },
-    ],
-    example: `curl "${BASE_URL}/api/normas/por-fecha/2024-01-15"`,
-    response: `{
-  "fecha": "2024-01-15",
-  "normas": [...]
-}`,
-  },
-  {
-    method: 'GET',
-    path: '/api/normas/actualizadas',
-    description: 'Normas modificadas recientemente',
-    params: [
-      { name: 'days', type: 'number', desc: 'Días hacia atrás (default: 7)' },
-      { name: 'limit', type: 'number', desc: 'Límite de resultados' },
-    ],
-    example: `curl "${BASE_URL}/api/normas/actualizadas?days=30"`,
-    response: `{
-  "normas": [...],
-  "desde": "2024-01-01"
-}`,
-  },
-  {
-    method: 'GET',
-    path: '/api/calendario/:year/:month',
-    description: 'Calendario de publicaciones',
-    params: [
-      { name: 'year', type: 'number', desc: 'Año (ej: 2024)' },
-      { name: 'month', type: 'number', desc: 'Mes (1-12)' },
-    ],
-    example: `curl "${BASE_URL}/api/calendario/2024/1"`,
-    response: `{
-  "year": 2024,
-  "month": 1,
-  "days": {
-    "15": { "count": 5 },
-    "16": { "count": 3 }
+  "data": {
+    "hash": "abc1234567890",
+    "authorDate": "2024-01-15T10:30:00Z",
+    "content": "---\\ntitulo: Código Civil\\n---\\n\\n# Código Civil...",
+    "message": "feat(leyes): actualización Art. 140"
   }
 }`,
   },
   {
     method: 'GET',
-    path: '/api/stats',
-    description: 'Estadísticas generales',
-    params: [],
-    example: `curl "${BASE_URL}/api/stats"`,
+    path: '/api/normas/:id/diff',
+    description: 'Diferencias entre dos versiones',
+    params: [
+      { name: 'id', type: 'string', desc: 'Identificador de la norma' },
+      { name: 'from', type: 'string', desc: 'Hash del commit inicial (requerido)' },
+      { name: 'to', type: 'string', desc: 'Hash del commit final (requerido)' },
+    ],
+    example: `curl "${BASE_URL}/api/normas/dleg-295/diff?from=abc1234&to=def5678"`,
     response: `{
-  "totalNormas": 1500,
-  "porRango": {
-    "ley": 450,
-    "decreto-legislativo": 320
+  "data": {
+    "fromHash": "abc1234",
+    "toHash": "def5678",
+    "fromDate": "2024-01-10T10:00:00Z",
+    "toDate": "2024-01-15T10:30:00Z",
+    "hunks": [...],
+    "stats": { "additions": 5, "deletions": 2 }
+  }
+}`,
   },
-  "ultimaActualizacion": "2024-01-20T15:30:00Z"
+  {
+    method: 'GET',
+    path: '/api/normas/:id/compare',
+    description: 'Comparación lado a lado de dos versiones',
+    params: [
+      { name: 'id', type: 'string', desc: 'Identificador de la norma' },
+      { name: 'from', type: 'string', desc: 'Hash del commit inicial (requerido)' },
+      { name: 'to', type: 'string', desc: 'Hash del commit final (requerido)' },
+    ],
+    example: `curl "${BASE_URL}/api/normas/dleg-295/compare?from=abc1234&to=def5678"`,
+    response: `{
+  "data": {
+    "from": { "hash": "abc1234", "date": "...", "lines": [...] },
+    "to": { "hash": "def5678", "date": "...", "lines": [...] }
+  }
 }`,
   },
 ]
+
+// Nota: La API REST completa está disponible en apps/api (Next.js)
+// con endpoints adicionales para búsqueda, filtros, estadísticas, etc.
 ---
 
 <Layout title="API para Desarrolladores — Legalize PE">
@@ -233,10 +151,11 @@ cat constitucion-1993.md</code></pre>
     <!-- Endpoints -->
     <section class="section">
       <div class="container">
-        <h2 class="section-title">Endpoints</h2>
+        <h2 class="section-title">Endpoints de Historial (Git)</h2>
+        <p class="section-desc">Estos endpoints permiten acceder al historial de versiones de las normas, basado en el repositorio Git.</p>
 
         <div class="endpoints">
-          {endpoints.map((ep, i) => (
+          {webEndpoints.map((ep, i) => (
             <div class="endpoint" id={`endpoint-${i}`}>
               <div class="endpoint-header">
                 <span class="method">{ep.method}</span>

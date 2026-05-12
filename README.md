@@ -1,32 +1,32 @@
-# Legalize — Peru
+# Legalize — Perú
 
-Legislacion peruana como repositorio Git. Cada ley es un fichero Markdown, cada reforma un commit con la fecha real de publicacion.
+Legislación peruana como repositorio Git. Cada ley es un archivo Markdown, cada reforma un commit con la fecha real de publicación.
 
 **Web:** [legalize.crafter.ing](https://legalize.crafter.ing)
 
-## Estadisticas
+## Estadísticas
 
-| Categoria | Cantidad |
+| Categoría | Cantidad |
 |-----------|----------|
-| Normas legales | 1,614 |
+| Normas legales | 1,617 |
 | Reformas constitucionales | 31 |
 
 ## Funcionalidades
 
-### Busqueda y filtros
+### Búsqueda y filtros
 
-- **Busqueda full-text** — Fuzzy search con Fuse.js por titulo, identificador y contenido
+- **Búsqueda full-text** — Fuzzy search con Fuse.js por título, identificador y contenido
 - **Filtro por tipo** — Ley, Decreto Legislativo, Decreto Supremo, etc.
 - **Filtro por estado** — Vigente, derogada, modificada
-- **Filtro por materia** — Civil, penal, laboral, tributario y 30+ categorias
-- **Filtro por fecha** — Rango de anos (desde/hasta)
-- **Ordenamiento** — Por relevancia, fecha o titulo
-- **Paginacion** — 50 resultados por pagina con "cargar mas"
+- **Filtro por materia** — Civil, penal, laboral, tributario y 30+ categorías
+- **Filtro por fecha** — Rango de años (desde/hasta)
+- **Ordenamiento** — Por relevancia, fecha o título
+- **Paginación** — 50 resultados por página con "cargar más"
 
 ### Lectura de normas
 
-- **Tabla de contenidos** — Navegacion rapida por secciones
-- **Deep links** — Enlaces directos a articulos especificos (`#articulo-1`)
+- **Tabla de contenidos** — Navegación rápida por secciones
+- **Deep links** — Enlaces directos a artículos específicos (`#articulo-1`)
 - **Texto justificado** — Formato optimizado para lectura legal
 - **Light/Dark mode** — Toggle de tema con persistencia
 
@@ -43,39 +43,39 @@ Legislacion peruana como repositorio Git. Cada ley es un fichero Markdown, cada 
 
 ### Extras
 
-- **PWA** — Funciona offline, instalable en movil
-- **RSS Feed** — `/feed.xml` con las 50 normas mas recientes
+- **PWA** — Funciona offline, instalable en móvil
+- **RSS Feed** — `/feed.xml` con las 50 normas más recientes
 - **Descarga** — Exportar normas en Markdown
 
 ### API
 
-| Endpoint | Descripcion |
+| Endpoint | Descripción |
 |----------|-------------|
-| `GET /feed.xml` | RSS feed con las 50 normas mas recientes |
+| `GET /feed.xml` | RSS feed con las 50 normas más recientes |
 | `GET /api/normas/:id/history` | Historial de commits de una norma |
-| `GET /api/normas/:id/at/:commit` | Contenido en un commit especifico |
+| `GET /api/normas/:id/at/:commit` | Contenido en un commit específico |
 | `GET /api/normas/:id/diff?from=X&to=Y` | Diff unificado entre versiones |
-| `GET /api/normas/:id/compare?from=X&to=Y` | Comparacion lado a lado |
+| `GET /api/normas/:id/compare?from=X&to=Y` | Comparación lado a lado |
 
 ```bash
 # RSS feed
 curl "https://legalize.crafter.ing/feed.xml"
 
-# Historial del Codigo Civil
+# Historial del Código Civil
 curl "https://legalize.crafter.ing/api/normas/dleg-295/history"
 
 # Diff entre dos versiones
 curl "https://legalize.crafter.ing/api/normas/dleg-295/diff?from=abc123&to=def456"
 ```
 
-## Inicio rapido
+## Inicio rápido
 
 ```bash
 git clone https://github.com/crafter-research/legalize-pe.git
 cd legalize-pe
 
-# Ver el Articulo 2 de la Constitucion
-grep -A 20 "Articulo 2" leyes/pe/constitucion-1993.md
+# Ver el Artículo 2 de la Constitución
+grep -A 20 "Artículo 2" leyes/pe/constitucion-1993.md
 
 # Historial de reformas constitucionales
 git log --oneline --date=short --format="%ad %s" -- leyes/pe/reformas-constitucionales/
@@ -86,16 +86,17 @@ git log --oneline --date=short --format="%ad %s" -- leyes/pe/reformas-constituci
 ```
 legalize-pe/
 ├── apps/
-│   └── web/                    # Astro + PWA
+│   ├── web/                    # Astro + PWA
+│   └── api/                    # Next.js API REST
 ├── packages/
 │   ├── git/                    # Utilidades Git para historial
 │   ├── parser/                 # Parser de frontmatter YAML
 │   └── scraper/                # Scraping de fuentes oficiales
 └── leyes/
-    └── pe/                     # Legislacion nacional
+    └── pe/                     # Legislación nacional
         ├── constitucion-1993.md
-        ├── dleg-295.md         # Codigo Civil
-        ├── dleg-635.md         # Codigo Penal
+        ├── dleg-295.md         # Código Civil
+        ├── dleg-635.md         # Código Penal
         └── reformas-constitucionales/
 ```
 
@@ -103,12 +104,12 @@ legalize-pe/
 
 | Norma | Identificador |
 |-------|---------------|
-| Constitucion Politica | `constitucion-1993` |
-| Codigo Civil | `dleg-295` |
-| Codigo Penal | `dleg-635` |
-| Codigo Procesal Civil | `dleg-768` |
-| Codigo Procesal Penal | `dleg-957` |
-| Codigo Procesal Constitucional | `ley-31307` |
+| Constitución Política | `constitucion-1993` |
+| Código Civil | `dleg-295` |
+| Código Penal | `dleg-635` |
+| Código Procesal Civil | `dleg-768` |
+| Código Procesal Penal | `dleg-957` |
+| Código Procesal Constitucional | `ley-31307` |
 | LO del Poder Judicial | `ds-017-93-jus` |
 | LO de Municipalidades | `ley-27972` |
 
@@ -116,7 +117,7 @@ legalize-pe/
 
 ```yaml
 ---
-titulo: "Decreto Legislativo N 295 - Codigo Civil"
+titulo: "Decreto Legislativo N° 295 - Código Civil"
 identificador: "dleg-295"
 rango: "decreto-legislativo"
 fechaPublicacion: "1984-07-25"
@@ -124,19 +125,20 @@ estado: "vigente"
 fuente: "https://spij.minjus.gob.pe"
 ---
 
-# Codigo Civil
+# Código Civil
 
-TITULO PRELIMINAR
+TÍTULO PRELIMINAR
 
-Articulo I.- La ley se deroga solo por otra ley...
+Artículo I.- La ley se deroga sólo por otra ley...
 ```
 
 ## Stack
 
 - **Monorepo:** Turborepo + pnpm
 - **Web:** Astro (static + SSR)
+- **API:** Next.js + Drizzle + Turso
 - **PWA:** Workbox
-- **Busqueda:** Fuse.js
+- **Búsqueda:** Fuse.js
 - **Git:** simple-git
 
 ## Desarrollo
@@ -144,20 +146,20 @@ Articulo I.- La ley se deroga solo por otra ley...
 ```bash
 pnpm install
 pnpm dev          # Inicia web en localhost:4321
-pnpm build        # Build de produccion
+pnpm build        # Build de producción
 ```
 
 ## Fuentes
 
-- [SPIJ](https://spij.minjus.gob.pe) — Sistema Peruano de Informacion Juridica
+- [SPIJ](https://spij.minjus.gob.pe) — Sistema Peruano de Información Jurídica
 - [El Peruano](https://elperuano.pe) — Diario Oficial
 
-El texto legislativo es de dominio publico segun el Decreto Legislativo 822, Articulo 9.
+El texto legislativo es de dominio público según el Decreto Legislativo 822, Artículo 9.
 
 ## Licencia
 
-- **Contenido legislativo:** Dominio publico
-- **Codigo:** [MIT](LICENSE)
+- **Contenido legislativo:** Dominio público
+- **Código:** [MIT](LICENSE)
 
 ---
 

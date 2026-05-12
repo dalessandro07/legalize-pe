@@ -14,7 +14,7 @@ const {
 ---
 
 <!doctype html>
-<html lang="es">
+<html lang="es" class="dark">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width" />
@@ -105,6 +105,10 @@ const {
 </html>
 
 <style is:global>
+  html {
+    color-scheme: dark light;
+  }
+
   :root,
   [data-theme="dark"] {
     --color-bg: #000000;
@@ -283,7 +287,7 @@ const {
     border-radius: 8px;
     color: var(--color-text-muted);
     cursor: pointer;
-    transition: all 0.15s;
+    transition: background-color 0.15s, color 0.15s, border-color 0.15s;
   }
 
   .theme-toggle:hover {

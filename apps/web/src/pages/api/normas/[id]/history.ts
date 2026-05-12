@@ -4,11 +4,21 @@ import type { APIRoute } from 'astro'
 
 export const prerender = false
 
+// Validación de seguridad para prevenir path traversal
+const VALID_ID_PATTERN = /^[a-z0-9-]+$/
+
 export const GET: APIRoute = async ({ params }) => {
   const { id } = params
 
   if (!id) {
-    return new Response(JSON.stringify({ error: 'Missing id parameter' }), {
+    return new Response(JSON.stringify({ error: 'Parámetro id requerido' }), {
+      status: 400,
+      headers: { 'Content-Type': 'application/json' },
+    })
+  }
+
+  if (!VALID_ID_PATTERN.test(id)) {
+    return new Response(JSON.stringify({ error: 'Identificador inválido' }), {
       status: 400,
       headers: { 'Content-Type': 'application/json' },
     })
