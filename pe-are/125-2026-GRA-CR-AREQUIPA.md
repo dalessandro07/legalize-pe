@@ -14,4 +14,748 @@ gob_pe_slug: regionarequipa
 ---
 # Acuerdo Regional N.° 125-2026-GRA/CR-AREQUIPA
 
-*Fuente:* https://www.gob.pe/institucion/regionarequipa/normas-legales/8126495-125-2026-gra-cr-arequipa
+GOBIERNO REGIONAL
+AREQUIPA
+
+RI NAL N,O -2026-GRA/CR-, IPA
+Arequipa, 12 de mayo del 2026.
+
+El Consejo Regional del Gobierno Regional de Arequipa, en Sesión Ordinaria de fecha
+12 de mayo de 2026, aprobó el siguiente Acuerdo;
+
+VISTOS:
+
+El Dictamen de Comisión N° 013-2026-GRA/CNALSH de la Comisión de Normas,
+Asuntos Legales y Seguridad Humana;
+
+CONSIDERANDO:
+
+. Que, el artículo 3° de la Ley N.° 29151, Ley General del Sistema Nacional de Bienes
+Estatales, establece que los bienes estatales comprenden los bienes muebles e
+inmuebles, de dominio público y de dominio privado, cuyo titular es el Estado o
+cualquier entidad pública que integre el Sistema Nacional de Bienes Estatales,
+independientemente del nivel de gobierno al que pertenezcan; y que el literal d) del
+artículo 4° dispone que los actos de adquisición son aquellos mediante los cuales las
+entidades públicas incorporan bienes a su patrimonio.
+
+Que, el marco normativo aplicable a los bienes muebles patrimoniales se encuentra
+regulado por el Decreto Legislativo N° 1439, su Reglamento aprobado mediante
+Decreto Supremo N° 217-2019-EF, y la Directiva N° 0006-2021-EF/54.01,
+modificada por Resolución Directoral N° 0006-2022-EF/54.01, Resolución Directoral
+N° 0016-2023-EF/54.01 y Resolución Directoral N° 0004-2026-EF/54.01.
+
+Que, conforme a la citada Directiva, la donación constituye un acto voluntario y
+
+gratuito mediante el cual se transfiere la propiedad de bienes muebles patrimoniales
+a favor de una entidad pública, generando su incorporación conforme a las reglas
+del Sistema Nacional de Abastecimiento.
+
+Que, la Directiva N° 012-2025-GRA/OPDI regula el procedimiento interno para la
+aceptación de donaciones en el Gobierno Regional de Arequipa, estableciendo las
+actuaciones técnicas necesarias para su evaluación, valorización, registro patrimonial
+y control; y que el numeral 9.6 del artículo 9° de la Directiva N° 0006-2021-EF/54.01:
+dispone que, tratándose de Gobiernos Regionales, la aceptación de la donación se
+formaliza mediante Acuerdo de Consejo Regional.
+
+Que, mediante Resolución Directoral N° 0004-2026-EF/54.01 se incorporó en el
+numeral 10,4 del artículo 10 la remisión expresa a los numerales 9.5 y 9.6 para el
+Caso de donaciones provenientes del extranjero, extendiendo la exigencia de
+aprobación mediante Acuerdo Regional.
+
+Que, en consecuencia, tratándose de una donación de bienes muebles provenientes
+del extranjero a favor del Gobierno Regional de Arequipa, corresponde que su
+aceptación sea aprobada mediante Acuerdo Regional.
+
+Que, de conformidad con el artículo 10° de la Directiva N° 0006-2021-EF/54.01, se
+verifica en el expediente el cumplimiento de los requisitos establecidos en los
+numerales 10.1, 10.2 y 10.4, en tanto: (i) obra la Carta de Donación de fecha 08 de
+
+- abril de 2026, suscrita por representante autorizado de la organización Project Orbis
+International Inc.; (ii) se consigna la identificación del donante, el origen de los
+bienes (Estados Unidos de América), su descripción, características, cantidad y valor
+estimado; (ili) se adjunta la documentación sustentatoria correspondiente,
+incluyendo declaración jurada de valorización, listas de bienes materia de donación
+y documentación complementaria; y (iv) se cuenta con el Informe Técnico emitido
+por la Oficina de Gestión Patrimonial.
+
+Que, mediante Informe Técnico N° 19-2026-GRA/ORA-OGP, la Oficina de Gestión
+
+- Patrimonial concluyó que el expediente cumple con los requisitos establecidos en la
+normativa aplicable, recomendando su formalización mediante Acuerdo Regional,
+precisando además que la donación se encuentra sujeta a condición suspensiva
+vinculada a la verificación documentaria y física de los productos por parte de la
+autoridad competente al momento de su arribo.
+
+Que, mediante la documentación obrante en el expediente, se ha determinado que
+el valor total de los bienes materia de donación asciende a USD 40,000.00
+(CUARENTA MIL CON 00/100 DÓLARES AMERICANOS), equivalente a S/. 140,000.00
+(CIENTO CUARENTA MIL CON 00/100 SOLES).
+
+Que, asimismo, se ha previsto que los bienes serán destinados exclusivamente al
+Hospital Regional Honorio Delgado Espinoza, en el marco de la misión sanitaria a
+desarrollarse en el mes de junio de 2026, orientada al fortalecimiento de los servicios
+He salud.
+
+Que, mediante Informe N° 988-2026-GRA/ORAJ, la Oficina Regional de Asesoría
+Jurídica emitió opinión favorable, concluyendo que corresponde elevar el expediente
+al Consejo Regional para la formalización de la aceptación de la donación;
+
+Que, el Consejo Regional de Arequipa, de acuerdo a las atribuciones establecidas en
+la Ley N° 27867, Ley Orgánica de Gobiernos Regionales y sus modificatorias, y en
+aplicación de su Reglamento Interno, por UNANIMIDAD en Sesión Ordinaria de
+fecha 12 de mayo del 2026;
+
+- SE ACUERDA:
+
+PRIMERO.- ACEPTAR la donación proveniente del extranjero, consistente en
+diversos bienes muebles (insumos médicos, materiales quirúrgicos y otros),
+detallados en las dos listas que en calidad de anexos forman parte integrante del
+presente Acuerdo, efectuada por la organización sin fines de lucro Project Orbis
+International Inc. a favor del Gobierno Regional de Arequipa, destinados al Hospital
+Regional Honorio Delgado Espinoza, por el valor total equivalente en moneda
+nacional de S/. 140,000.00 (CIENTO CUARENTA MIL CON 00/100 SOLES).
+
+SEGUNDO. - DISPONER que la Oficina de Gestión Patrimonial, en coordinación
+con las áreas competentes, realice las acciones necesarias para el registro, control
+y, de corresponder, la incorporación de los bienes al patrimonio institucional,
+conforme al marco normativo del Sistema Nacional de Abastecimiento y a la
+naturaleza de los bienes.
+
+TERCERO. - PRECISAR que la aceptación de la donación se encuentra sujeta a la
+verificación documentaria y física de los bienes por parte de las “autoridades
+
+competentes al momento de su ingreso al país, conforme a la normativa sanitaria y
+aduanera aplicable.
+
+CUARTO. - NOTIFICAR el presente Acuerdo al Gobernador Regional, Gerencia
+General Regional, Gerencia Regional de Salud, Hospital Regional Honorio Delgado
+Espinoza, Oficina Regional de Administración, Oficina de Logística, Oficina de Gestión
+Patrimonial y Oficina de Contabilidad, para los fines correspondientes.
+
+QUINTO. - PUBLICAR el presente Acuerdo en el portal institucional del Gobierno
+Regional de Arequipa. :
+
+POR TANTO:
+Regístrese, comuníquese y cúmplase.
+
+GOBIERNO R SlonaL DE AREQUIPA
+G e EGIONAL
+AGU
+
+Anexos
+LISTA N*01 DE BIENES OBJETO DE DONACIÓN
+
++ NÚMERODE |. Y: .- DESCRIPCIÓN
+=) | SERIE” Bees
+AS E “;. SEGMENT: r
+8065-752229 COBERTOR BRAZO BANDEJA CENTURION 3 C/U 12
+8065-753027 PAQUETE BASICO LEGION ciu 25
+8065-753056 PAQUETE ANTERIOR VIT LEGION 23G (7) 10
+585061 MANTENEDOR CÁMARA ANTERIOR 20G AUTO c/u 3
+RETENIBLE 3/CJ
+M6613 CANULA 1/A 23G PUERTO 4MM SIMCOE cu 2
+8065-752885 PIEZA MANO TRANSFORMADORA WA INTREPID 27G | C/U 25
+DESECHABLE 6/CJ
+611.74 RETRACTOR IRIS FLEXIBLE clu 5
+581033 LAMINAS DESLIZANTES LIO 50/CJ (71) 6
+8065-977757 CARTUCHOS LIO MONARCH A 10/CJ cu 11
+8085-977762 CARTUCHOS LIO MONARCH Ill C 10/CJ cu 3
+8065-9777623 | CARTUCHOS LIO MONARCH II D 10/CJ CAJA 3
+MAL-1001 ANILLO MALYUGIN 2.0 6.25MM MST 6/03 C/U 3
+MAL-1003 MANIPULADOR ANILLO OSHER/MALYUGIN 2.0 ci 1
+MR-14RIGHT — | EYEJET MORCHER CTR TIPO 14 INSERCION ciu 2
+HORARIA 10.0 MM - 12.3 MM 1/C)
+MR-14A RIGHT | EYEJET MORCHER CTR TIPO 14A INSERCIÓN C/U 1
+HORARIA
+16200 SONDA G LÁSER DIODO OCULIGHT 6/C) ch 4
+68250 PERICARDIO DELGADO TUTOPLAST 1.5 X 1.5 CM (77) 2
+AGV-FP7 VALVULA GLAUCOMA AHMED FLEX-ADULTO cu 2
+= . CUCHILLAS E e
+8065-770002 CUCHILLO MEDIA LUNA ÁNGULO SEGURIDAD CLEAR | CAJA 1
+CUT 6ICJ
+8065-771501 CUCHILLO PUERTO LATERAL BISEL ESTÁNDAR CAJA 5
+SEGURIDAD CLEAR CUT 6/CJ
+8065-7722658 | CUCHILLA RENDIJA 2.2 BISEL DUAL INTREPID CAJA 1
+SEGURIDAD CLEAR CUT
+8065-7724658 — | CUCHILLA RENDIJA 2.4 BISEL DUAL INTREPID CAJA 5
+SEGURIDAD CLEAR CUT 6/C)
+8065-912001 CUCHILLO V-LANCE 20G CON MANGO 6/C] CAJA 1
+D4515C BISTURI DESECHABLE SEGURIDAD TAMAÑO 1550. | C/U 10
+CADAICAJA
+D4511 BISTURÍ DESECHABLE SEGURIDAD TAMAÑO 11 25 cu 2
+CADA/C)
+ANTISEPTICOS Y.SOLUCIONES ©
+9201 DISPENSADOR DESINFECTANTE MANOS AVAGARD | C/U 1
+CON BOMBA PEDAL Y SOPORTE PARED PARA 9200
+Y 9216 BOTELLA CUÑA
+9200 FROTE QUIRÚRGICO AVAGARD CHG/ETANOL 16.9 ciu 1
+OZ 8/CAJA
+0404-0002-18__ | ALCOHOL ISOPROPILICO 70% 16 OZ, FRASCO 1
+407000 TINTURA BENCINA BOMBA SPRAY 40Z clu 1
+0065-0411-30___ | BETADINE 5% 30ML 24/CJ cu 36
+GANLOD21R ETIQUETA ADVERTENCIA CITOTOXICO REMOVIBLE | C/U 5
+2x
+490-00008HS-20 | ETIQUETAS ADHESIVAS RIESGO BIOLÓGICO 3" x2” | C/U 5
+20/PKG
+BISK KIT DERRAMES BIOLOGICOS C/U 1
+0065-0795-15 SOLUCIÓN RIEGO ESTÉRIL BSS 15ML 36/CJ cu 36
+0065-1795-40 | SOLUCIÓN RIEGO ESTÉRIL BSS 500 ML BOLSA 6 c/u 25
+BOLSA/CAJA
+13-1100 TOALLITAS CAVICIDE clu 3
+
+1721366FG LIMPIEZA ENZIMÁTICA 16 oz (60mm) cu 2
+
+371163 CEPILLO QUIRÚRGICO E-Z SCRUB PCMX 3% 30/CJ 10 | CAJA 3
+CJICAJA
+
+372053 CEPILLO QUIRÚRGICO E-Z SCRUB PVP 0.5% 30/CJ 10 | CAJA 2
+CJICAJA
+
+6518FL CONTENEDOR FORMALINA 10% AMORTIGUADA ot] 10
+NEUTRA 20 ML 96/CAJA
+
+VPOLC1 PAQUETES LIMPIADOR LENTES VOLK 24/C) CAJA 2
+
+3659-12 DESINFECTANTE MANOS INSTANTÁNEO PURELL clu 3
+1202 12/CAJA
+
+3-740 REMOVEDOR MANCHAS MILTEX FÓRMULA POLVO | C/U 1
+INSTRUMENTOS FRASCO 3 OZ
+
+305344 CONTENEDOR OBJETOS PUNZOCORTANTES 801 CIU 3
+APILABLE
+
+305487 RECOLECTOR OBJETOS PUNZOCORTANTES ci 2
+PEQUEÑO 1.5 QT
+
+FPWD3LTHS AGUA DESTILADA 3L 4/CAJA cn 4
+
+MDS098705— | FROTE DYNA-HEX 2% CHG BOTELLA 4 OZ FRASCO | 1
+
+102-5539 LECHE QUIRÚRGICA 64 OZ FRASCO | 1
+
+150377 GEL TRANSPORTE INSTRUMENTOS PRE-KLENZ ci 1
+ae - i GAUTERIZACION, e
+
+22-1260150 AGUJA CURVA BORRADOR CAMPO HÚMEDO HEMO | C/U 12
+150° 20G 10/CJ
+
+22-1265 AGUJA AHUSADA 206 A 23G BORRADOR CAMPO clu 4
+HÚMEDO FINA 5/CJ
+
+AAO1 CAUTERO INALÁMBRICO AARON AA01 TEMP ALTA cu 3
+2200°C PUNTA QUIRÚRGICA FINA ESTERIL 10/CJ
+
+AAOZ CAUTERO INALÁMBRICO AARON AA02 TEMP CIU 3
+AJUSTABLE BAJA 700-1300°C PUNTA FINA ESTÉRIL
+10/CJ
+
+E7507 ALMOHADILLA TIERRA REM POLYHESIVE Il PKG clu 8
+ROJO ADULTO E7507
+
+7510-25 ALMOHADILLA TIERRA ELECTRODO REM LF clu 4
+PEDIÁTRICA 25/CAJA
+
+N104A PUNTA AGUJA ELECTROQUIRÚRGICA COLORADO 40 | C/U 10
+MM RECTA (3/32") FUNDA ESTÉRIL
+
+PUE 3) CÁNULAS, JERINGAS Y AGUJAS y;
+
+305106 AGUJAS 306 1/2" 305106 100/CJ CAJA 1
+
+305109 AGUJAS 276 1/2" 305109 100/CJ CAJA 1
+
+305122 AGUJAS 256 5/8" 305122 100/CJ CAJA 1
+
+305125 AGUJAS 256 1" 305125 100/CJ CAJA 1
+
+305127 AGUJAS 256 1 1/2" 100/CJ CAJA 1
+
+305145 AGUJA DESECHABLE 23G 1" 305145 100/C) 10 CAJA 1
+CJICAJA
+
+305175 AGUJAS 20G 1" 305175 100/CJ CAJA 1
+
+SYR110022FZ | AGUJA RELLENO OBTUSA FILTRO 5 MICRON 186 1.5" | CAJA 1
+100/CJ
+
+309628 JERINGA 1ML LUER-LOK 100/CJ CAJA 1
+
+309657 JERINGA 3ML LUER LOCK 200/CJ 4 CJ/CAJA, CAJA 1
+
+309646 JERINGA 5CC LUER LOCK SIN AGUJA PAQUETE CAJA 1
+ESTANTE 125/CJ 4 CJICAJA
+
+309604 JERINGA 10ML LUER-LOK SIN AGUJA 200/CJ 2 CAJA 1
+CJICAJA
+
+302830 JERINGA 20ML LUER-LOK 48/CJ (B) CAJA 1
+
+309653 JERINGA 50ML LUER-LOCK 40/CJ clu 20
+
+8065-420020 CANULA CAMARA ANTERIOR 30G 10/CJ CAJA 1
+
+8065-420120 CANULA CÁMARA ANTERIOR 27G 10/CJ CAJA. 2
+
+8065-425120 CISTÓTOMO IRRIGADOR 256 10/CJ CAJA. 2
+
+8065-428220 PULIDOR CÁPSULA 27G CON PUERTO LATERAL CAJA 1
+0.3MM.
+
+8065-441620 CANULA HYDRODISS 27G 8MM 10/CJ CAJA 2
+
+585040 CANULA RIEGO BISHOP-HARMON VISITEC 19G 40% | C/U 40
+
+DOMO ANGULADO PUNTA EXTRA LISA 10/CJ
+
+191-04 [ ADAPTADOR LUER MACHO/MACHO 50/caja chu [15
+wea CAMPOS, GUANTES Y BATAS + + A
+1000 TOALLA PEQUEÑA STERI-DRAPE 1000 10/CJ 4 CAJA 2
+CJICAJA
+DYNJSD1020Z | CAMPO QUIRÚRGICO INVISISHIELD 16"x16" CON CIU 4
+AGUJERO 2.5"
+1061 STERI-DRAPE 1061 CON BOLSA 10/CJ 4 CJ/CAJA CAJA 3
+5703116 MASCARILLA VERDE AZULADO CON ESCUDO CAJA 1
+OCULAR 25/C)
+42301 MASCARILLA QUIRÚRGICA SURGINE II AZUL 60/CJ 10 | CAJA 6
+CJICAJA
+20685960 GUANTE QUIRÚRGICO GAMMEX @ SIN LATEX PI CAJA 1
+MICRO BLANCO TAMAÑO 6,0
+20685965 GUANTE QUIRÚRGICO GAMMEX O SIN LATEX PI CAJA 1
+MICRO BLANCO TAMAÑO 6,5
+20685970 GUANTE QUIRÚRGICO GAMMEXO SIN LATEX PI CAJA 1
+MICRO BLANCO TAMAÑO 7.0
+20685975 GUANTE QUIRÚRGICO GAMMEXO SIN LATEX PI CAJA 1
+MICRO BLANCO TAMAÑO 7,5
+20685980 GUANTE QUIRÚRGICO GAMMIEXO SIN LATEX PI CAJA 1
+MICRO BLANCO TAMAÑO 8,0
+20685985 GUANTE QUIRÚRGICO GAMMEX® SIN LATEX PI CAJA 1
+MICRO BLANCO TAMAÑO 8,5
+72-10502 GUANTES EXAMEN NITRILO TEXTURADO SIN LATEX | CAJA 3
+AZABACHE MEDIANO 10CJ/CAJA
+72-10503 GUANTES EXAMEN NITRILO TEXTURADO SIN LATEX | CAJA 3
+AZABACHE GRANDE 10CJ/CAJA
+72-10504 GUANTES EXAMEN NITRILO TEXTURADO SINLATEX | CAJA 3
+EXTRA GRANDE 10/CAJA
+AS17109-04 PAQUETES BASICOS FACO CENTURION ALCON cu 2
+DYNJP2701 BATA AURORA NO REFORZADA GRANDE 30/CAJA 3
+ESTUCHE
+AS17107-01 PAQUETE BÁSICO OFTALMOLÓGICO ALCON Clu 2
+0103-001HT TAPETE VALUE 18X36 AZUL 30 SABANAS/TAPETE 4 1
+TAPETESICAJA ESTUCHE
+114657 PANTIMEDIAS ALIVIO JOBST CON DEDOS clu El
+CERRADOS 20-30 mmHg TAMAÑO M
+E ETIQUETAS, ESPONJAS Y APÓSITOS = 2
+841 PARCHE OCULAR ESTÉRIL OVALADO 1 5/8* X 2 58" ci 30
+50ICJ
+10250991.FGX | ESCUDO OCULAR ENCORE UNIVERSAL VENTILADO | C/U 24
+TRANSPARENTE DESECHABLE
+1238 APOSITO NO ADHESIVO TELFA 50/CJ clu 8
+1972 ESPONJA GELATINA HEMOSTATICA SURGIFOAM 12- | C/U 6
+7MM
+2012 ADAPTIC 3" 50/CJ CIU 6
+581062 ESCUDO LUZ CORNEAL 20/CJ ciu 10
+3968 CURITY GAUZE STERILE 3968 4” x 4” 8 PLY 16 BX/ICS_| CAJA 6
+9134 ESPONJA DESECHABLE 3 CAPAS 4" x 4" El
+ESTUCHE
+7632 TIRA CURITY SIMPLE ,5" x 5 YD EN BOTELLA 12 FRASCO | 2
+BTLICAJA
+441107 ROLLOS GASA DERMACEA LP 3'x4 YDS 12EA/PKG 8 | C/U 2
+PKGICAJA
+16400000 VENDAJE ELÁSTICO REB 4" X 5YD 10/PKG 6 ciu 3
+PKG/CAJA
+581047 TOALLITAS INSTRUMENTOS 2.875"X2.875" 20/CJ. CAJA 2
+31142147 CONTADOR AGUJAS IMÁN DOBLE 1200 12/C 8 CAJA 3
+CJICAJA
+OFEHO1 ETIQUETAS PHARMA: KITS ETIQUETAS cu 50
+MEDICAMENTOS ESTERILES 100/CJ
+
+200/CJ 6 CJICAJA
+
+4923 BOLSA TRANSPORTE ESPÉCIMEN 6X10" PLÁSTICO | C/U 10
+RIESGO BIOLÓGICO CIERRE PEGAMENTO
+DESECHABLE 500/CAJA.
+
+8889-207026 CONTENEDORES ESPÉCIMEN 4 OZ TAPA VERDE clu 4
+400/CAJA
+
+100-6015 APLICADOR PUNTA ALGODÓN Q-TIP NO ESTÉRIL 3" | CAJA 2
+1000/CJ
+
+25-806 APLICADOR PUNTA ALGODÓN Q+FIP ESTÉRIL 6" 10 | CAJA 1
+CJICAJA
+
+25-705 DEPRESOR LENGUA MADERA ABEDUL ADULTO cu 20
+11/16X6" ESTÉRIL 100/CJ 10/CAJA
+
+1527-1 CINTA SEDA TRANSPORE QUIRÚRGICA 3M 1" x 10 YD | C/U 9
+1527-1 12/CJ
+
+1530-1 CINTA MICROPORE 3M 1" x 10 YD 1530-1 12/CJ ciu 9
+
+8065-100002 MICROESPONJA I-SPEAR PUNTA REGULAR 25/CJ10 | CAJA 1
+CJIPKG
+
+1626W PELÍCULA TEGADERM 3M 4° X 4 3/4" clu 6
+
+R1547 STER!-STRIPS 1/2" 6 TIRAS/PKG 50 CJ/CJ ci 10
+
+ES699P PROTECCIÓN CORNEAL PEDIÁTRICA 10/CJ CJU 5
+
+DYNJSMDO2 MARCADOR PIEL DUAL-PUNTA REG/FINA CON cu 20
+REGLA 100/CAJA
+
+ES699 PROTECCION CORNEAL 10/CJ “Ch 5
+
+581615 CANULA LACRIMAL CURVA ci 5
+
+AX14786 CÁNULA LACRIMAL RECTA AHUSADA 19G A 236 CIU 5
+(10/C4)
+
+PRMOS8003CPH | VENDA AUTO ADHESIVA NO ESTÉRIL MEDLINE ch 1
+PAQUETE COLOR (ROSA VERDE NEGRO ROJO
+PURPURA BLANCO AZUL) 3" x 5 YD (7.6 CM x 4,6 M)
+
+SA4017 PARCHE OCULAR ESTÉRIL SEGURO Y CÓMODO c/u 20
+CON ADHESIVO
+
+Ae MEDICAMENTOS: Tee
+
+VBL-10-S-USA__ | VISION AZUL 10/CJ CAJA 2
+
+00003-0293-05 | INYECTABLE KENALOG-40 40MG/ML 4MLIVL 24/CAJA_| CIU 2
+
+8065-183055 VISCOELASTICO PROVISC 1% 0.55ML 276 clu 43
+
+8065-1839-75 VISCOELASTICO VISCOAT 0.75ML clu 43
+
+63323-0165-01 | DEXAMETASONA 4mg/ml tml 25/caja cl 25
+
+54288-0103-10 | AMPOLLA INYECTABLE EPINEFRINA 1 ML 1:1000 clu 10
+10/CJ
+
+63323-0010-02 — | INYECTABLE SULFATO GENTAMICINA 40MG/ML 25/CJ | C/U 5
+
+72611-0761-10 | POLVO INYECTABLE VANCOMICINA HCL 500MG 10ML | C/U 1
+10/CJ
+
+16729-0115-05__ | MITOMICINA 5MG INYECTABLE cu 1
+
+0065-0023-15 MIOSTAT 1.5 ML 0.01% 12/CJ clu 12
+
+00904-6761-30 | SPRAY NASAL SUNMARK CLORHIDRATO clu 2
+OXIMETAZOLINA 0.05% 1 OZ
+
+eee — ESTERILIZACIÓN E
+
+1243RE TIRA INTEGRADOR QUÍMICO VAPOR COMPLY 1
+STERIGAGE 1000/CAJA (nivel 5) ESTUCHE
+
+1322-18MM CINTA INDICADORA ESTERILIZACIÓN VAPOR cu 3
+BLANCA 0.7" x 60YD 28/CAJA
+
+41360 PAQUETE PRUEBA INTEGRADOR QUÍMICO VAPOR | C/U 32
+COMPLY POR 3M 16/CJ
+
+112-4853 BOLSA ESTERILIZACIÓN INDICADOR DUAL 3,5X9 CAJA 1
+200/CJ 6 CJICAJA
+
+112-4854 BOLSA ESTERILIZACIÓN INDICADOR DUAL 5.25X10 | CAJA 1
+200/CJ 6 CJICAJA
+
+112-4856 BOLSA ESTERILIZACIÓN INDICADOR DUAL 2.75X9 CAJA 1
+200/CJ 6 CJICAJA
+
+112-4857 BOLSA ESTERILIZACIÓN INDICADOR DUAL 3.5X5,25 | CAJA 1
+200/CJ 6 CJ/CAJA
+
+112-4858 BOLSA ESTERILIZACIÓN INDICADOR DUAL 7.5X13 CAJA 1
+
+= A
+
+112-4860 BOLSA ESTERILIZACIÓN INDICADOR DUAL 9X15 CAJA 1
+112-4862 BOLSA ESTERILIZACIÓN INDICADOR DUAL 10X17 CAJA 1
+100/CJ 4 CJICAJA
+151001EEA CINTA IDENTIFICACION INSTRUMENTOS BARKLEY® | C/U 1
+BLANCA 1/4" X 300"
+151002£EA CINTA IDENTIFICACIÓN INSTRUMENTOS BARKLEY® | C/U 1
+AZUL 1/4" X 300"
+151006EEA CINTA IDENTIFICACIÓN INSTRUMENTOS BARKLEYO | C/U 1
+PÚRPURA 1/4" X 300"
+151007EEA CINTA IDENTIFICACIÓN INSTRUMENTOS BARKLEYO | C/U 1
+NARANJA 1/4” X 300"
+151009EEA CINTA IDENTIFICACIÓN INSTRUMENTOS BARKLEY® | C/U 1
+NEGRA 1/4" X 300"
+GCSSS PROTECTOR FACIAL LIMPIEZA INSTRUMENTOS clu 48
+GEM1124T ENVOLTURA ESTERILIZACION INSTRUMENTOS 1
+GEMINI DUAL COLOR PEGADA 24X24 PESO LIGERO | ESTUCHE
+(250/CAJA)
+MDSBR20021B_ | BRUSH, CLEAN, TWIST, 16"LGTH, 3°BR, 0.8"DI 3/pk 1
+PAQUETE
+MDSBR20053B_ | BRUSH, CLEAN, TWIST, 24"LGTH, 2,5",0,2*D1 3/pk 1
+PAQUETE
+MDSBR20056B_ | BRUSH, CLEAN, TWIST, 24"LGTH, 3.3",0.5"DI 3/pk 1
+PAQUETE
+ND4600 SABANAS SUPER SUAVE ABSORBENTES 100 CIU 1
+SÁBANASICAJA 500 X 500MM
+NON24274 DELANTAL POLIETILENO 28X46 CAJA 1
+ZIP88 BOLSAS ZIPLOCK 6” x 6” 100/PKG 1000/CAJA 1
+PAQUETE
+ZIP1012 BOLSAS ZIPLOCK 10" x 10" CAJA 1
+14924 INDICADOR BIOLÓGICO LECTURA SÚPER RÁPIDA clu 100
+3M™ATTEST™ (PRE-VACIO)
+1266 LIBRO ESTERILIZACION ci 4
+$-12273 BOLSAS RECERRABLE BLOQUE BLANCO 4 MIL chy 100
+ULINE (24 x 24)
+5-2486 BOLSAS RECERRABLE BLOQUE BLANCO 4 MIL cn 100
+ULINE (12 x 15")
+S-6966 BOLSAS RECERRABLE BLOQUE BLANCO 4 MIL clu 100
+ULINE (6 x 10”)
+8-496 BOLSAS RECERRABLE BLOQUE BLANCO 4 MIL cn 109
+ULINE (4x 6")
+5-12269 BOLSAS RECERRABLE BLOQUE BLANCO 4 MIL clu 100
+
+ULINE (2 x 3")
+
+E SUTURAS 2
+
+| SUTURA ETHLON NEGRO MONO 10-0 TG160-6 12" 1/2
+
+77566 CAJA 1
+CÍRCULO 5.5MM (12/CJ) 7756G
+
+8065-192101 NYLON 10-0 CU-5 12" 12/CJ CAJA 1
+
+ee SUMINISTROS - SALA DE RECUPERACION
+
+298 PUNTA YANKAUER SUCCION ciu 2
+
+8888301515 TUBO CONEXIÓN SUCCIÓN COVIDIEN ARGYLE 3/16" | C/U 2
+X6 EA BO/CAJA
+
+T61C CATETER SUCCION ESTERIL AIRLIFE TRIFLO 10FR or] 2
+CON PUERTO CONTROL SO/CAJA
+
+T60c CATÉTER SUCCIÓN AIRLIFE 14FR TRI-FLO CON CIU 2
+GUANTE 100/CAJA :
+
+RHO41U (1041) | MASCARA OXÍGENO ADULTO CON TUBO cl 2
+CONCENTRACION MEDIA SO/CAJA
+
+MS-26042 MÁSCARA OXÍGENO PEDIÁTRICA TUBO ALARGADO | C/U 2
+CON PINZA NASAL EA 50 EA/CAJA MEDSOURCE
+
+HCs4511B NASAL CANNULA SOFT STR ADULT 7' TUBE 50/CS cH 2
+
+367203 TORNIQUETE LATEX LIBRE PRECORTADO BD 25/€) | C/U 2
+
+382623 KIT INFUSIÓN ALA 22G INSYTE AUTOGUARD 1" ciu 10
+CONTROL SANGRE AZUL 50/CJ
+
+382612 KIT INFUSION ALA 24G INSYTE AUTOGUARD 1" 50/CJ_| C/U 10
+
+9.2"X9,4” 150/SLV 4 SLV/PKG
+
+108301 KIT ADMINISTRACIÓN IV ADULTO 10 GTTS 50/CAJA_ | CIU 2
+
+608306 KIT ADMINISTRACIÓN IV PEDIÁTRICO 60 GTTS (57) 2
+BOICAJA
+
+B4179 KIT EXTENSIÓN IV 5.5" LLAVE 3 VÍAS DESECHABLE | C/U 2
+SO/CAJA
+
+NF9100 TAPA INYECTABLE SAFELINE clu 10
+
+585176 CANULA ANESTESIA SUBTENSIONAL CURVA 19G ci 10
+(10/CJ) 30MM / APLANADA 0.65MM VISITEC
+
+585027 AGUJA 25G 7/8" PERIBULBAR ATKINSON 10/CJ 57) 10
+
+5750 TORUNDAS ALCOHOL ESTÉRILES 2 CAPAS 200/CJ20 | CAJA 1
+CIICAJA
+
+55150-0171-40 | MARCAINE BUPIVACAINA 0.75% 10CC 25/CJ 7 5
+
+55150-0172-30 | MARCAINE INYECTABLE 0.75% 30ML 10/CJ ci 5
+
+63323-0483-27. | XILOCAÍNA 2% 20MG/ML CON EPI 1:100.000 25/CJ 7) 5
+
+63323-0495-07 _ | XILOCAÍNA SIMPLE 2% 25/CJ ci 5
+
+0065-0741-14 TETRACAINA 0.5% 2ML 12/CJ C/U 2
+
+00409-4883-20 | CLORURO SODIO 0.9% 20ML SIN PIRÓGENOS 25/CJ_ | C/U 2
+
+00409-4887-20 | AGUA ESTÉRIL 20Mt 25/CJ CJU 2
+
+57896-0160-16 | SOLUCIÓN ORAL ACETAMINOFEN 160MG/GM cu 1
+
+00904-6730-61 | ACETAMINOFÉN EXTRA FUERTE (MAPAP) 500MG or) 1
+100/BTL
+
+070040 LIMPIO Y BONITO 40 TOALLITAS POR CJ azul c/u 1
+
+643-7651 PAÑUELOS FACIALES KLEENEX 48/CAJA ci 4
+
+MS-131000 TERMÓMETRO INFRARROJO SIN CONTACTO CIU 1
+DIGITAL CON PANTALLA
+
+641BKHS ESTETOSCOPIO ADSCOPE PRO SPRAGUE ci 1
+RAPPAPORT 22" 20/caja / NO CONTAR.
+
+DP100-CMS50DL | OXÍMETRO PULSO DEDO AZUL ci 1
+
+530001 MEDIDOR GLUCOSA SANGRE ASSURE PRISM MULTI_| C/U 1
+
+i LO. SUMINISTROS - TRIAJE DE ENFERMERÍA +; SÉ
+
+LB2 ADULT La” | BRAZALETE LB2 ADULTO 13 ROJO ci 50
+
+RED
+
+L82ADULTL3 | BRAZALETE LB2 ADULTO L3 BLANCO Clu 50
+
+WHITE
+
+540-13-PDM PALETE IDENTIFICACIÓN SPEEDI-PRINT ESCRIBIBLE | C/U 20
+PERMANENTE BOTÓN SIN LEYENDA- AZUL
+
+650101-16-PDM | BRAZALETES IDENTIFICACIÓN ALERGIA ROJOS clu 20
+500/C)
+
+Q70040 LIMPIO Y BONITO 40 TOALLITAS POR CJ azul ci 1
+
+643-7651 PAÑUELOS FACIALES KLEENEX 48/CAJA 4
+
+E iz Es SUMINISTROS GENERALES. ° 25
+
+5750 TORUNDAS ALCOHOL ESTÉRILES 2 CAPAS 30010) 20 | CAJA 1
+CJICAJA
+
+102-6614 GORROS ABULLONADOS 24” BLANCOS 100/CJ CAJA 1
+
+5-10484NB-X OVEROLES DESECHABLES AZUL MARINO XL 25/C) CU 20
+
+K102(KIT 1008 | KITS CAPACITACIÓN GLO GERM CON GÉRMENES 977) 1
+
+OL IMITACION
+
+99716 TOALLITAS DESINFECTANTES MULTISUPERFICIE CAJA 4
+LYSOL PAQUETE PLANO LIMÓN/FLOR LIMA 7" CAJA 4
+x 8" 30/PKG (6/CAJA)
+
+NON27148 BATA MULTICAPA MANGA LARGA AZUL REG/GR ci 10
+DESECHABLE 25/CJ
+
+NON28759 CUBIERTAS ZAPATOS ANTIDESLIZANTES AZUL XL CAJA 1
+100/C) 2 CUICAJA
+
+8377 COBERTOR MESA 44" x90” 22/CAJA cl 5
+
+00409-1582-29 | MARCAINE INYECTABLE 0.75% 30MIL 10/CJ cl 5
+
+63323-0483-27 _| XILOCAÍNA 2% 20MG/ML CON EPI 1:100.000 25/CJ ci 5
+
+63323-0495-07 _| XILOCAINA SIMPLE 2% 25/C) c/u 5
+
+00409-4887-20 | AGUA ESTÉRIL 20ML 25/CJ clu 5
+
+60505-6142-05 | INYECTABLE SODIO CEFAZOLINA 1GMI VIAL/15ML clu 5
+CADA
+
+432298 TOALLAS PAPEL MANO MULTIPLIEGUES KLEENEX clu 2
+
+LISTA N°02 DE BIENES OBJETO DE DONACIÓN
+
+“Nro. | Descripción del artículo > | Modelo/serie |. Marca: |
+1 Clamp conjuntival Khaw pequeño 2 2-686 Katena
+2 Punch de Kelly 2 K2-9510 Katena
+3 OCP - Set de Dacriocistorrinostomia 1 N/A. N/A
+4 Sonda lacrimal de Bowman - juego de | 1 K7-2500 Katena
+
+5 Dilatador lacrimal de Castroviejo de 1 K7-2300 Katena
+doble extremo
+Cánula lacrimal 23G 1 k7-3000 Katena
+Pinzas dentadas de Addison 4 k5-4170 Katena
+Director acanalado 1 MDS2011011 | Medline
+Cincel lacrimal de West 1 K7-1840 Katena
+Mazo 1 K7-1860 Katena
+Elevador de Freer 1 k7-1830 Katena
+Pinzas en bayoneta 1 k5-4180 Katena
+Espéculo nasal 1 k7-1822 Katena
+Gubia de acción simple tipo Beyer 1 k7-1810 Katena
+Punch de Kerrison tamaño 1 1 k7-1801 Katena
+Punch de Kerrison tamaño 2 1 k7-1802 Katena
+Caja esterilizadora de instrumentos 1 K9-2040 Katena
+doble plástico
+Pinzas Bishop Harmon 1x2 dientes 2 K5-3510 Katena
+Pinzas de Castroviejo rectas 0,5 mm 1 K5-2520 Katena
+Pinzas de Castroviejo rectas 0,3 mm 1 K5-2510 Katena
+Pinzas de apósito rectas 1 K5-4000 Katena
+Portaagujas pesado con seguro, curvo | 1 K5-1580 Katena
+Portaagujas pesado con seguro, recto | 1 K6-1560 Katena
+Tijeras de tenotomía de Westcott, 1 K4-4100 Katena
+punta afilada derecha
+25 Tijeras de tenotomía de Westcott, 1 K4-3100 Katena
+_punta roma derecha
+26 Serrefine pequeña recta 2 K5-9850 Katena
+27 Calibrador de Castro recto 1 K3-9000 Katena
+28 Regla de acero inoxidable 1 K3-9200 Katena
+29 Aguja de fascia de Wright 1 K1-8540 Katena
+30 Mango de bisturí Bard Parker #3 1 K20-1950 Katena
+31 Gancho de piel de doble diente 2 K3-6010 Katena
+32 Retractor de Knapp 2 K1-9000 Katena
+33 Sonda de cola de cerdo 1 K7-2900 Katena
+34 Retractor palpebral de Desmarres #1 1 K1-8210 Katena
+35 Clamp mosquito de Hartmann, recto 1 K5-9900 Katena
+36 Tijeras de Stevens curvas 1 k4-8510 Katena
+37 Tijeras de Stevens rectas 1 K4-8500 Katena
+38 Clamp mosquito de Hartmann, curvo 3 K5-9910 Katena
+39 Placa palpebral de Jaeger 1 K1-8520 Katena
+40 Punta de aspiración de Frazier con 33-2422 Jedmed
+
+estilete dl
+
+)
+=
+
+S
+
+de
+
+S
+
+41 Caja esterilizadorá de instrumentos 1 K9-2040 Katena
+doble plástico
+42 Pieza de mano Legion - vitrectomia 1 8065-753050 | Alcon
+anterior eléctrica reutilizable
+43 Lente de 4 espejos Posner 1 OPDSG-2 _ Ocular
+instruments
+44 Cable de cauterio bipolar 2 k8-7065 Katena
+45 Pinzas bipolares tipo McPherson 2 K8-7021 Katena
+anguladas
+46 Lente Diamond para Capsulotomía 2 K31-1120 SensorTek
+47 Lente Diamond para Iridotomia 2 K31-1130 SensorTek
+48 Lente Diamond para Retina 200 2 K31-1330 SensorTek
+49 Lente Diamond 78D 4 K31-2355 SensorTek
+50 Lente Diamond 20D 4 K31-2370 SensorTek
+51 Kit de Lentes Primarios, 3 Espejos 4 K31-3002 SensorTek
+52 Set de Lentes Primarios, 4 Espejos 4 K31-3005 SensorTek
+53 KIT EOS, 3 K20-6000 SensorTek
+NES “ANESTESIOLOGÍA = ge any
+1 [ Tabi de inmoviizacion a plástico | 1 7 MD0028 | Junkin Safety
+ENFERMERÍA: 8.20% ae i
+1 Caja ererizedora de instrumentos 3 K9-2040 Katena
+doble plastico
+2 Mini Poses Automatico Dual 1 490M 3M
+Peete ‘ 5 INGENIERIA BIOMÉDICA + - A
+1 Kit de Impieza óptica 4 62-535 Edmund
+optics
+2 Kit de herramientas de precisión 4 N/A ACE
+
+Hardware o
+
+---
+
+Fuente: https://www.gob.pe/institucion/regionarequipa/normas-legales/8126495-125-2026-gra-cr-arequipa
+PDF: https://cdn.www.gob.pe/uploads/document/file/9962260/8126495-125-2026.pdf
