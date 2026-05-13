@@ -160,7 +160,11 @@ try {
 }
 ---
 
-<Layout title={`${meta.titulo} — Legalize PE`} description={`${meta.titulo}. ${rangoLabels[meta.rango] ?? meta.rango} peruana publicada el ${meta.fechaPublicacion}.`}>
+<Layout
+  title={`${meta.titulo} — Legalize PE`}
+  description={`${meta.titulo}. ${rangoLabels[meta.rango] ?? meta.rango} peruana publicada el ${meta.fechaPublicacion}.`}
+  ogImage={`${Astro.url.origin}/api/og/${id}`}
+>
   <!-- JSON-LD Structured Data -->
   <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
   <main id="main-content">

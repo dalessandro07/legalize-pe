@@ -194,6 +194,54 @@ const rangoLabelsJson = JSON.stringify(RANGO_LABELS_FULL)
     score?: number
   }
 
+  // Web Worker setup
+  let searchWorker: Worker | null = null
+  let workerReady = false
+  let pendingSearch: string | null = null
+  let fuse: Fuse<Ley> | null = null
+
+  // Forward declarations for worker callbacks
+  let performSearch: (query: string) => void
+  let handleSearchResults: (results: FuseResult[], query: string) => void
+
+  // Initialize worker if supported
+  if (typeof Worker !== 'undefined') {
+    try {
+      searchWorker = new Worker('/search-worker.js')
+      searchWorker.onmessage = (e) => {
+        if (e.data.type === 'ready') {
+          workerReady = true
+          console.log('Search worker ready with', e.data.count, 'items')
+          // If there's a pending search, execute it now
+          if (pendingSearch) {
+            const query = pendingSearch
+            pendingSearch = null
+            performSearch(query)
+          }
+        } else if (e.data.type === 'results') {
+          handleSearchResults(e.data.results, e.data.query)
+        } else if (e.data.type === 'error') {
+          console.error('Search worker error:', e.data.message)
+          workerReady = false
+          // Fall back to main thread
+          if (pendingSearch) {
+            const query = pendingSearch
+            pendingSearch = null
+            performSearch(query)
+          }
+        }
+      }
+      searchWorker.onerror = (error) => {
+        console.error('Search worker error:', error)
+        workerReady = false
+        searchWorker = null
+      }
+    } catch (error) {
+      console.error('Failed to create search worker:', error)
+      searchWorker = null
+    }
+  }
+
   ;(async () => {
     // Fetch search index from static JSON file
     try {
@@ -285,18 +333,21 @@ const rangoLabelsJson = JSON.stringify(RANGO_LABELS_FULL)
       materias: l.m ?? [],
     }))
 
-    const fuse = new Fuse(leyes, {
-      keys: [
-        { name: 'titulo', weight: 0.5 },
-        { name: 'identificador', weight: 0.3 },
-        { name: 'body', weight: 0.2 },
-      ],
-      threshold: 0.4,
-      ignoreLocation: true,
-      includeMatches: true,
-      includeScore: true,
-      minMatchCharLength: 2,
-    })
+    // Initialize fallback Fuse instance for browsers without Worker support
+    if (!searchWorker) {
+      fuse = new Fuse(leyes, {
+        keys: [
+          { name: 'titulo', weight: 0.5 },
+          { name: 'identificador', weight: 0.3 },
+          { name: 'body', weight: 0.2 },
+        ],
+        threshold: 0.4,
+        ignoreLocation: true,
+        includeMatches: true,
+        includeScore: true,
+        minMatchCharLength: 2,
+      })
+    }
 
     // DOM elements
     const searchInput = document.getElementById('search-input') as HTMLInputElement | null
@@ -404,6 +455,7 @@ const rangoLabelsJson = JSON.stringify(RANGO_LABELS_FULL)
     }
 
     let currentQuery = ''
+    let lastSearchQuery = ''
 
     function renderResults(startIndex: number = 0) {
       if (!leyesList) return
@@ -438,6 +490,74 @@ const rangoLabelsJson = JSON.stringify(RANGO_LABELS_FULL)
       }
     }
 
+    performSearch = (query: string) => {
+      if (searchWorker && workerReady) {
+        // Use Web Worker
+        searchWorker.postMessage({ type: 'search', query, limit: 10000 })
+      } else if (fuse) {
+        // Fallback to main thread
+        const fuseResults = fuse.search(query)
+        const results = fuseResults.map((r) => ({
+          item: r.item,
+          matches: r.matches,
+          score: r.score,
+        }))
+        handleSearchResults(results, query)
+      } else {
+        // Worker not ready yet, queue the search
+        pendingSearch = query
+      }
+    }
+
+    handleSearchResults = (results: FuseResult[], query: string) => {
+      // Ignore if this is not the latest search
+      if (query !== lastSearchQuery) return
+
+      if (!searchInput || !filterTipo || !filterEstado || !filterMateria || !filterDesde || !filterHasta || !sortBy) return
+
+      const tipo = filterTipo.value
+      const estado = filterEstado.value
+      const materia = filterMateria.value
+      const desde = filterDesde.value
+      const hasta = filterHasta.value
+      const sort = sortBy.value
+
+      // Apply filters
+      let filtered = results.filter(({ item }) => {
+        if (tipo && item.rango !== tipo) return false
+        if (estado && item.estado !== estado) return false
+        if (materia && !item.materias.includes(materia)) return false
+
+        if (desde || hasta) {
+          const year = item.fechaPublicacion ? Number.parseInt(item.fechaPublicacion.substring(0, 4)) : 0
+          if (desde && year < Number.parseInt(desde)) return false
+          if (hasta && year > Number.parseInt(hasta)) return false
+        }
+
+        return true
+      })
+
+      // Sort
+      filtered = sortResults(filtered, sort, true)
+
+      currentResults = filtered
+      displayedCount = 0
+      currentQuery = query
+
+      // Update counts
+      if (resultsCount) resultsCount.textContent = currentResults.length.toString()
+      if (searchMode) searchMode.textContent = ' (busqueda inteligente)'
+
+      // Render first page
+      renderResults(0)
+
+      // Show/hide elements
+      if (noResults) noResults.style.display = currentResults.length === 0 ? 'flex' : 'none'
+      if (leyesList) leyesList.style.display = currentResults.length === 0 ? 'none' : ''
+      if (clearBtn) clearBtn.style.display = searchInput.value ? 'flex' : 'none'
+      if (examplesSection) examplesSection.style.display = 'none'
+    }
+
     function filterAndSearch() {
       if (!searchInput || !filterTipo || !filterEstado || !filterMateria || !filterDesde || !filterHasta || !sortBy) return
 
@@ -453,14 +573,9 @@ const rangoLabelsJson = JSON.stringify(RANGO_LABELS_FULL)
       let hasQuery = false
 
       if (query.length >= 2) {
-        const fuseResults = fuse.search(query)
-        results = fuseResults.map((r) => ({
-          item: r.item,
-          matches: r.matches,
-          score: r.score,
-        }))
-        hasQuery = true
-        currentQuery = query
+        lastSearchQuery = query
+        performSearch(query)
+        return
       } else {
         results = leyes.map((item) => ({ item, matches: [], score: 0 }))
         currentQuery = ''
