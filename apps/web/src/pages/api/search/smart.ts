@@ -6,10 +6,21 @@ import type { CompactLey } from '../../../lib/search-index'
 
 export const prerender = false
 
+// Cache search index at module scope to avoid disk reads on every request
+let cachedLaws: CompactLey[] | null = null
+
+function getSearchIndex(): CompactLey[] {
+  if (!cachedLaws) {
+    const indexPath = join(process.cwd(), 'public', 'search-index.json')
+    cachedLaws = JSON.parse(readFileSync(indexPath, 'utf-8'))
+  }
+  return cachedLaws
+}
+
 export const POST: APIRoute = async ({ request }) => {
   try {
     const body = await request.json()
-    const { query } = body
+    const { query, page = 1, limit = 20 } = body
 
     if (!query || typeof query !== 'string') {
       return new Response(
@@ -23,17 +34,27 @@ export const POST: APIRoute = async ({ request }) => {
       )
     }
 
-    // Load search index
-    const indexPath = join(process.cwd(), 'public', 'search-index.json')
-    const laws: CompactLey[] = JSON.parse(readFileSync(indexPath, 'utf-8'))
+    // Validate and normalize pagination parameters
+    const pageNum = Math.max(1, Number(page) || 1)
+    const limitNum = Math.min(100, Math.max(1, Number(limit) || 20))
 
-    // Perform intelligent search
-    const results = intelligentSearch(query, laws, 10)
+    // Load search index from cache
+    const laws = getSearchIndex()
+
+    // Perform intelligent search - get more results than needed for pagination
+    const allResults = intelligentSearch(query, laws, 1000)
+
+    // Calculate pagination
+    const total = allResults.length
+    const totalPages = Math.ceil(total / limitNum)
+    const startIndex = (pageNum - 1) * limitNum
+    const endIndex = startIndex + limitNum
+    const paginatedResults = allResults.slice(startIndex, endIndex)
 
     return new Response(
       JSON.stringify({
         query,
-        results: results.map(r => ({
+        results: paginatedResults.map(r => ({
           id: r.law.id,
           titulo: r.law.t,
           rango: r.law.r,
@@ -44,7 +65,12 @@ export const POST: APIRoute = async ({ request }) => {
           score: r.score,
           matchReasons: r.matchReasons,
         })),
-        totalResults: results.length,
+        pagination: {
+          page: pageNum,
+          limit: limitNum,
+          total,
+          totalPages,
+        },
       }),
       {
         status: 200,
