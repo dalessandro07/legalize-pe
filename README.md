@@ -10,14 +10,14 @@ Este repositorio contiene solo el corpus. El código que lo genera, audita, publ
 
 | Área | Estado |
 |---|---|
-| Corpus nacional `pe/` | **11,045** archivos Markdown |
-| Corpus regional `pe-{iso}/` | **10,199** normas en **26 jurisdicciones** |
-| **Total** | **21,244 normas** |
+| Corpus nacional `pe/` | **11,045** normas con **texto completo** |
+| Corpus regional `pe-{iso}/` | **10,199** normas en **26 jurisdicciones** — **9,701 con texto completo**, 498 solo metadata |
+| **Total** | **21,244 normas · ~98% con texto completo** |
 | Reformas constitucionales | 31 archivos bajo `pe/reformas-constitucionales/` |
 | Constitución 1993 | línea histórica versionada en Git, 1993 a 2024 |
 | Federación legalize.dev | PR abierto: [legalize-dev/legalize#17](https://github.com/legalize-dev/legalize/pull/17) |
 
-El tier **nacional vigente** se construye desde [SPIJ](https://spij.minjus.gob.pe) (acceso libre) con fechas reales y sin OCR. El tier **regional** —25 gobiernos regionales + Lima Metropolitana— se construye desde `gob.pe`. Es la primera cobertura legal sub-nacional cohesionada de un país del Sur Global; ninguna otra fuente peruana la ofrece.
+El tier **nacional vigente** se construye desde [SPIJ](https://spij.minjus.gob.pe) (acceso libre) con fechas reales y sin OCR. El tier **regional** —25 gobiernos regionales + Lima Metropolitana— se construye desde `gob.pe`: el listado da metadata + fecha real, y el **texto completo se extrae del PDF oficial** (texto nativo cuando lo hay, OCR cuando es escaneo). 9,701 de 10,199 normas regionales ya tienen cuerpo; las 498 restantes son casos sin PDF accesible o sin texto OCR confiable (se dejan como metadata + enlace a la fuente, nunca con texto inventado). Es la primera cobertura legal sub-nacional cohesionada de un país del Sur Global; ninguna otra fuente peruana la ofrece.
 
 ### Cobertura regional (`pe-{iso}/`)
 
