@@ -106,6 +106,12 @@ bun install
 bun cli --help
 ```
 
+### API HTTP
+
+Este repo incluye una API REST para consultar el corpus via HTTP (con autenticación Basic Auth). Corre con Bun + Hono, indexa las 21k+ normas en ~3s, y se despliega via Docker.
+
+Ver [`api/README.md`](api/README.md) para documentación completa.
+
 ## Fuentes
 
 - [SPIJ](https://spij.minjus.gob.pe), Sistema Peruano de Información Jurídica (acceso libre) — tier nacional
