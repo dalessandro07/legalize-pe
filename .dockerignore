@@ -1,0 +1,15 @@
+.git
+node_modules
+.cache
+.env
+*.log
+.codegraph
+docs
+AUDIT.md
+CLAUDE.md
+AGENTS.md
+PLAN.md
+README.md
+LICENSE
+.gitignore
+.husky
