@@ -43,7 +43,7 @@ export function searchNorms(norms: NormMeta[], params: SearchParams): SearchResu
   if (params.q) {
     const terms = params.q.toLowerCase().split(/\s+/).filter(Boolean);
     filtered = filtered.filter((n) => {
-      const haystack = n.title.toLowerCase() + " " + n.identifier.toLowerCase();
+      const haystack = String(n.title ?? "").toLowerCase() + " " + String(n.identifier ?? "").toLowerCase();
       return terms.every((t) => haystack.includes(t));
     });
   }

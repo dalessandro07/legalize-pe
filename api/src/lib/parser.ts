@@ -42,19 +42,19 @@ export function parseFrontmatter(content: string): { meta: Record<string, unknow
 }
 
 export function toNormMeta(filePath: string, meta: Record<string, unknown>): NormMeta {
-  const jurisdiction = (meta.jurisdiction as string) || extractJurisdiction(filePath);
+  const jurisdiction = String(meta.jurisdiction ?? "") || extractJurisdiction(filePath);
   return {
-    identifier: (meta.identifier as string) || "",
+    identifier: String(meta.identifier ?? ""),
     filePath,
-    title: (meta.title as string) || "",
-    country: (meta.country as string) || "pe",
-    rank: (meta.rank as string) || "",
+    title: String(meta.title ?? ""),
+    country: String(meta.country || "pe"),
+    rank: String(meta.rank ?? ""),
     publication_date: String(meta.publication_date || ""),
     last_updated: String(meta.last_updated || ""),
-    status: (meta.status as string) || "",
-    source: (meta.source as string) || "",
+    status: String(meta.status ?? ""),
+    source: String(meta.source ?? ""),
     jurisdiction,
-    scope: (meta.scope as string) || (jurisdiction === "pe" ? "Nacional" : "Regional"),
+    scope: String(meta.scope ?? "") || (jurisdiction === "pe" ? "Nacional" : "Regional"),
   };
 }
 
