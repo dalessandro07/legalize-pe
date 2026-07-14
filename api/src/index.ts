@@ -2,13 +2,15 @@ import { Hono } from "hono";
 import { cors } from "hono/cors";
 import { PORT } from "./config.js";
 import { basicAuth } from "./auth.js";
-import { buildIndex, getIndex, loadIndex } from "./indexer.js";
+import { loadIndex, getIndex } from "./indexer.js";
+import { requestLogger, logStartup } from "./logger.js";
 import normsRouter from "./routes/norms.js";
 import statsRouter from "./routes/stats.js";
 
 const app = new Hono();
 
 app.use("*", cors());
+app.use("*", requestLogger());
 
 const auth = basicAuth();
 app.use("/norms/*", auth);
@@ -25,13 +27,11 @@ app.get("/health", (c) => {
   });
 });
 
-console.log("Loading norm index...");
 const result = await loadIndex();
-console.log(`Ready: ${result.count} norms (${result.source} in ${result.elapsed}ms)`);
+logStartup(`Listening on :${PORT}`);
+logStartup(`Index: ${result.count.toLocaleString()} norms (${result.source}, ${result.elapsed}ms)`);
 
 export default {
   port: PORT,
   fetch: app.fetch,
 };
-
-console.log(`Server running at http://localhost:${PORT}`);

@@ -2,6 +2,7 @@ import { resolve } from "node:path";
 import { existsSync, mkdirSync, writeFileSync, readFileSync } from "node:fs";
 import { CORPUS_ROOT } from "./config.js";
 import { readNormFrontmatter, type NormMeta } from "./lib/parser.js";
+import { logStartup, logWarn } from "./logger.js";
 
 export interface NormsIndex {
   byId: Map<string, NormMeta>;
@@ -109,10 +110,10 @@ export async function loadIndex(): Promise<{ count: number; elapsed: number; sou
 
       currentIndex = newIndex;
       const elapsed = Math.round(performance.now() - start);
-      console.log(`  Loaded ${currentIndex.all.length} norms from cache in ${elapsed}ms`);
+      logStartup(`Index loaded from cache: ${currentIndex.all.length.toLocaleString()} norms (${elapsed}ms)`);
       return { count: currentIndex.all.length, elapsed, source: "cache" };
     } catch (e) {
-      console.log(`  Cache load failed: ${e}, rebuilding...`);
+      logWarn(`Cache load failed: ${e}`);
     }
   }
 
@@ -131,6 +132,8 @@ export async function buildIndex(): Promise<{ count: number; elapsed: number; so
 
   const files = [...glob.scanSync({ cwd: corpusRoot, absolute: true, dot: false })];
   const totalFiles = files.length;
+
+  logStartup(`Building index from ${totalFiles.toLocaleString()} files...`);
 
   let processed = 0;
   let failed = 0;
@@ -163,7 +166,7 @@ export async function buildIndex(): Promise<{ count: number; elapsed: number; so
     }
 
     if (processed % 5000 === 0) {
-      console.log(`  Indexed ${processed}/${totalFiles} files...`);
+      logStartup(`  Progress: ${processed.toLocaleString()} / ${totalFiles.toLocaleString()}`);
     }
   }
 
@@ -176,15 +179,17 @@ export async function buildIndex(): Promise<{ count: number; elapsed: number; so
   };
 
   const cachePath = getCachePath();
+  let cacheSaved = false;
   try {
     mkdirSync(resolve(cachePath, ".."), { recursive: true });
     writeFileSync(cachePath, indexToJSON(currentIndex).join("\n") + "\n", "utf-8");
-    console.log(`  Cache saved to ${cachePath}`);
+    cacheSaved = true;
   } catch (e) {
-    console.log(`  Cache write failed: ${e}`);
+    logWarn(`Cache write failed: ${e}`);
   }
 
   const elapsed = Math.round(performance.now() - start);
-  console.log(`  Done: ${processed} norms indexed (${failed} skipped) in ${elapsed}ms`);
+  const cacheNote = cacheSaved ? " — cache saved" : "";
+  logStartup(`Index built: ${processed.toLocaleString()} norms (${elapsed}ms)${cacheNote}`);
   return { count: processed, elapsed, source: "build" };
 }
