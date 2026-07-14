@@ -1,0 +1,17 @@
+{
+  "name": "legalize-pe-api",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "bun run --watch src/index.ts",
+    "start": "bun run src/index.ts"
+  },
+  "dependencies": {
+    "hono": "^4.9.4",
+    "yaml": "^2.7.1"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "typescript": "^7.0.2"
+  }
+}
